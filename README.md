@@ -32,7 +32,11 @@ Talk announcements are published on this website and on the CIF-Seminars
 mailinglist. Email [CiTiP Admin](mailto:law.citip.admin@kuleuven.be) to
 subscribe.
 
-The series is organised by [Jan Tobias Muehlberg]() (DistriNet), [Benedikt
-Gierlichs]() (COSIC) and [Sofie Royer]() (CiTiP). Get in touch with us if
-you have questions or suggestions.
+The series is organised by [Jan Tobias
+Muehlberg](https://distrinet.cs.kuleuven.be/people/muehlber) (DistriNet),
+[Benedikt
+Gierlichs](https://www.esat.kuleuven.be/cosic/people/benedikt-gierlichs/)
+(COSIC) and [Sofie
+Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310)
+(CiTiP). Get in touch with us if you have questions or suggestions.
 
