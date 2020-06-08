@@ -7,6 +7,9 @@ topics related to cybersecurity and online privacy, organised by the
 [DistriNET](https://distrinet.cs.kuleuven.be/) reserach groups of [KU
 Leuven](https://www.kuleuven.be/).
 
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
 
 ### Upcoming Seminars
 
