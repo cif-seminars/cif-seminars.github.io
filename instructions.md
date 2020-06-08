@@ -1,11 +1,4 @@
-## Welcome to the CIF Seminars
-
-An monthly interdisciplinary series of seminars around legal and technical
-topics related to cybersecurity and online privacy, organised by the
-[CiTiP](https://www.law.kuleuven.be/citip/en/),
-[COSIC](https://www.esat.kuleuven.be/cosic/), and
-[DistriNET](https://distrinet.cs.kuleuven.be/) reserach groups of [KU
-Leuven](https://www.kuleuven.be/).
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cif-seminars/cif-seminars.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
