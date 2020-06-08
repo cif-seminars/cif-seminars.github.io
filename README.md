@@ -14,17 +14,12 @@ Leuven](https://www.kuleuven.be/).
 
 ### Next Seminar
 
-Title: Homomorphic Encryption
-Date and Time: Tuesday, 30 June 2020, 12:30 -- 13:30
-Location & Conferencing: [meet.jit.si](https://meet.jit.si/20200630-CIF-Homomorphic-Encryption)
-
-In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on
-encrypted data. He will discuss how the technology of MPC and FHE is
-changing the way people process data, by allowing them to compute on data
-whilst it is “encrypted”. He will discuss a number of use cases of the
-technology. The talk will not go into technical details, and thus you do
-not need to understand any cryptography for the talk.
-
+| Title | Homomorphic Encryption |
+| --- | --- |
+| Date and Time: | Tuesday, 30 June 2020, 12:30 -- 13:30 |
+|Location: | online only |
+|Conferencing: | [meet.jit.si](https://meet.jit.si/20200630-CIF-Homomorphic-Encryption) |
+| Abstract | In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on encrypted data. He will discuss how the technology of MPC and FHE is changing the way people process data, by allowing them to compute on data whilst it is “encrypted”. He will discuss a number of use cases of the technology. The talk will not go into technical details, and thus you do not need to understand any cryptography for the talk. |
 
 
 ### Previous Seminars
@@ -34,7 +29,7 @@ not need to understand any cryptography for the talk.
 ### Contact
 
 Talk announcements are published on this website and on the CIF-Seminars
-mailinglist -- email [CiTiP Admin](mailto:law.citip.admin@kuleuven.be) to
+mailinglist. Email [CiTiP Admin](mailto:law.citip.admin@kuleuven.be) to
 subscribe.
 
 The series is organised by [Jan Tobias Muehlberg]() (DistriNet), [Benedikt
