@@ -1,4 +1,5 @@
-theme: jekyll-theme-hacker-nogh
+theme: jekyll-theme-hacker
 
 show_downloads: false
+is_project_page: false
 
