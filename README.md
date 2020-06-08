@@ -7,38 +7,37 @@ topics related to cybersecurity and online privacy, organised by the
 [DistriNET](https://distrinet.cs.kuleuven.be/) reserach groups of [KU
 Leuven](https://www.kuleuven.be/).
 
-You can use the [editor on GitHub](https://github.com/cif-seminars/cif-seminars.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Upcoming Seminars
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Next Seminar
 
-# Header 1
-## Header 2
-### Header 3
+Title: Homomorphic Encryption
+Date and Time: Tuesday, 30 June 2020, 12:30 -- 13:30
+Location & Conferencing: [meet.jit.si](https://meet.jit.si/20200630-CIF-Homomorphic-Encryption)
 
-- Bulleted
-- List
+In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on
+encrypted data. He will discuss how the technology of MPC and FHE is
+changing the way people process data, by allowing them to compute on data
+whilst it is “encrypted”. He will discuss a number of use cases of the
+technology. The talk will not go into technical details, and thus you do
+not need to understand any cryptography for the talk.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Previous Seminars
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cif-seminars/cif-seminars.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
+Talk announcements are published on this website and on the CIF-Seminars
+mailinglist -- email [CiTiP Admin](mailto:law.citip.admin@kuleuven.be) to
+subscribe.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The series is organised by [Jan Tobias Muehlberg]() (DistriNet), [Benedikt
+Gierlichs]() (COSIC) and [Sofie Royer]() (CiTiP). Get in touch with us if
+you have questions or suggestions.
+
