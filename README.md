@@ -4,7 +4,7 @@ An monthly series of interdisciplinary seminars around legal and technical
 topics related to cybersecurity and online privacy, organised by the
 [CiTiP](https://www.law.kuleuven.be/citip/en/),
 [COSIC](https://www.esat.kuleuven.be/cosic/), and
-[DistriNET](https://distrinet.cs.kuleuven.be/) reserach groups of [KU
+[DistriNET](https://distrinet.cs.kuleuven.be/) research groups of [KU
 Leuven](https://www.kuleuven.be/).
 
 * This will become a table of contents (this text will be scrapped).
