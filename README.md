@@ -42,8 +42,7 @@ Leuven](https://www.kuleuven.be/).
 
 | **When** | Tuesday, 05 May 2020, 12:30 -- 13:30 |
 | --- | --- |
-| **Abstract** | In this seminar, Sofie Royer will give a talk on hacking and its legal
-implications. We'll first have a look at the basics of criminal law and criminal procedure. What does the offence of hacking look like? Are there any European rules on this topic? From which point can someone be held criminally liable for his or her behavior? Who can decide whether a criminal investigation is initiated? What punishment does someone risk when he or she is found liable for hacking? Does ethical hacking constitute an offence in Belgium? What about other countries? In other words, in this seminar you’ll find out what’s at stake when engaging in hacking activities. |
+| **Abstract** | In this seminar, Sofie Royer will give a talk on hacking and its legal implications. We'll first have a look at the basics of criminal law and criminal procedure. What does the offence of hacking look like? Are there any European rules on this topic? From which point can someone be held criminally liable for his or her behavior? Who can decide whether a criminal investigation is initiated? What punishment does someone risk when he or she is found liable for hacking? Does ethical hacking constitute an offence in Belgium? What about other countries? In other words, in this seminar you’ll find out what’s at stake when engaging in hacking activities. |
 | **Recording** | |
 
 ### Threat modeling: A guided tour (by [Dr. Koen Yskout]())
