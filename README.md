@@ -50,9 +50,9 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Wednesday, 08 April 2020, 12:30 -- 13:30 |
 | --- | --- |
 | **Abstract** | In this talk, we'll take a tour through the current state of practice regarding threat modeling in software engineering. Starting from the goal of threat modeling, we'll encounter the relation between threats and objectives, risk, design decisions, vulnerabilities, and exploits. We'll look at a few typical threats to software systems, and practical techniques to elicit them (e.g., attack trees, attack libraries, STRIDE, and LINDDUN). We'll finish by  discussing some of the limitations of and hurdles for doing threat  modeling in a modern software development lifecycle and enterprise  environment. |
-| **Recording** | |
+| **Recording** | [20200408-kyskout-threat-modeling.pdf](slides/20200408-kyskout-threat-modeling.pdf) |
 
-### The NIS-Directive and the Cybersecurity Act (by [Stefano Fantin and Michiel Fierens]())
+### The NIS-Directive and the Cybersecurity Act (by [Stefano Fantin]() and [Michiel Fierens]())
 
 | **When** | Tuesday, 03 March 2020, 12:30 -- 13:30 |
 | --- | --- |
