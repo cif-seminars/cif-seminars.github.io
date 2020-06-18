@@ -20,7 +20,7 @@ Leuven](https://www.kuleuven.be/).
 
 ### Homomorphic Encryption (by [Prof. Dr. Nigel Smart](https://www.esat.kuleuven.be/cosic/people/nigel-smart/))
 
-| **Date** | Tuesday, 30 June 2020, 12:30 -- 13:30 |
+| **When** | Tuesday, 30 June 2020, 12:30 -- 13:30 |
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [meet.jit.si/20200630-CIF-Homomorphic-Encryption](https://meet.jit.si/20200630-CIF-Homomorphic-Encryption) |
@@ -30,19 +30,20 @@ Leuven](https://www.kuleuven.be/).
 ## Previous Seminars
 
 <!-- ***Template***
-| **Title** |  (by []()) |
+### Title (by []())
+
+| **When** | Tuesday, 30 June 2020, 12:30 -- 13:30 |
 | --- | --- |
-| **Date** | Tuesday, 30 June 2020, 12:30 -- 13:30 |
 | **Abstract** | |
-| **Slides & video** | |
+| **Recording** | |
 -->
 
 ### Trusted Execution and how far you can trust it (by [Dr. Jan Tobias Muehlberg](https://distrinet.cs.kuleuven.be/people/muehlber))
 
-| **Date** | Tuesday, 07 February 2020, 12:00 -- 13:00 |
+| **When** | Tuesday, 07 February 2020, 12:00 -- 13:00 |
 | --- | --- |
 | **Abstract** | Even the most well-tested software is not secure if it executes on untrusted infrastructure, in an untrusted operating system, or relies on third-party libraries that may contain vulnerabilities. Modern processors provide Trusted Execution Environments (TEEs) that can protect a software component from low-level attacks, allows remote parties to verify the integrity of that component, and ties execution of the component to a unique trusted element in the execution platform. In this talk Dr. Jan Tobias Muehlberg will give an introduction to software-level vulnerabilities and TEEs, and discuss the security and privacy implications of this technology. |
-| **Slides & video** | [20200207-jtmuehlberg-trusted-computing.pdf](slides/20200207-jtmuehlberg-trusted-computing.pdf) |
+| **Recording** | [20200207-jtmuehlberg-trusted-computing.pdf](slides/20200207-jtmuehlberg-trusted-computing.pdf) |
 
 
 
