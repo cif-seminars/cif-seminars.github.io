@@ -46,7 +46,7 @@ Leuven](https://www.kuleuven.be/).
 | **Conferencing** | [meet.jit.si/20200630-CIF-Homomorphic-Encryption](https://meet.jit.si/20200630-CIF-Homomorphic-Encryption) |
 | **Abstract** | In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on encrypted data. He will discuss how the technology of MPC and FHE is changing the way people process data, by allowing them to compute on data whilst it is “encrypted”. He will discuss a number of use cases of the technology. The talk will not go into technical details, and thus you do not need to understand any cryptography for the talk. |
 
-### Cybersecurity of Medical Devices: Legal and Ethical Challenges (by [Elisabetta Biasin and Erik Kamenjašević]())
+### Cybersecurity of Medical Devices: Legal and Ethical Challenges (by [Elisabetta Biasin](https://www.law.kuleuven.be/citip/en/staff-members/staff/00121994) and [Erik Kamenjašević](https://www.law.kuleuven.be/citip/en/staff-members/staff/00117938))
 
 | **When** | Thursday, 16 July 2020, 12:30 - 13:30 |
 | --- | --- |
@@ -54,7 +54,7 @@ Leuven](https://www.kuleuven.be/).
 | **Conferencing** | [https://meet.jit.si/20200716-CIF-Medical-Devices-Security](https://meet.jit.si/20200716-CIF-Medical-Devices-Security) |
 | **Abstract** | In this seminar, Elisabetta and Erik will talk about the cybersecurity of medical devices from the legal and ethical perspectives. They will start their presentation by defining a medical device and how it relates to EU cybersecurity norms stemming from different pieces of legislation. The seminar will then outline some of the most pressing ethical concerns and explain how the existing cybersecurity legal framework could mitigate these. All audiences are welcome: no prior knowledge of the law is required for this seminar. |
 
-### (In-)Security of Implantable Medical Devices (by [Eduard Marin Fabregas]())
+### (In-)Security of Implantable Medical Devices (by [Eduard Marin Fabregas](https://www.esat.kuleuven.be/cosic/people/eduard-marin-fabregas/))
 
 | **When** | Friday, 17 July 2020, 12:30 - 13:30 |
 | --- | --- |
