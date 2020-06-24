@@ -11,11 +11,16 @@ Leuven](https://www.kuleuven.be/).
 {:toc}
 
 
+
+
 ## Upcoming Seminars
 
 * 30 June 2020, 12:30: [Homomorphic Encryption (by Prof. Dr. Nigel Smart)](https://cif-seminars.github.io/#next-seminar)
-* 16 July 2020, 12:30:
-* 17 Joly 2020, 12:30:
+* 16 July 2020, 12:30: [Cybersecurity of Medical Devices: Legal and Ethical Challenges (by Elisabetta Biasin and Erik Kamenjašević)](https://cif-seminars.github.io/#next-seminar)
+* 17 Joly 2020, 12:30: [(In-)Security of Implantable Medical Devices (by Eduard Marin Fabregas)](https://cif-seminars.github.io/#next-seminar)
+
+
+
 
 ## Next Seminar
 
@@ -52,6 +57,8 @@ Leuven](https://www.kuleuven.be/).
 | **Location** | online only |
 | **Conferencing** | [https://meet.jit.si/20200716-CIF-Medical-Devices-Security](https://meet.jit.si/20200716-CIF-Medical-Devices-Security) |
 | **Abstract** | In this seminar, Eduard will give a talk on the security of medical devices. Eduard will begin by explaining the evolution of medical devices and how this opens the door for security attacks. Afterwards, he will talk about our experience analyzing the security of several implantable medical devices such as pacemakers, insulin pumps and neurostimulators. Finally there will be room for some legal observations by Elisabetta and Erik. |
+
+
 
 
 ## Previous Seminars, Slides & Recordings
@@ -92,6 +99,7 @@ Leuven](https://www.kuleuven.be/).
 | --- | --- |
 | **Abstract** | Even the most well-tested software is not secure if it executes on untrusted infrastructure, in an untrusted operating system, or relies on third-party libraries that may contain vulnerabilities. Modern processors provide Trusted Execution Environments (TEEs) that can protect a software component from low-level attacks, allows remote parties to verify the integrity of that component, and ties execution of the component to a unique trusted element in the execution platform. In this talk Dr. Jan Tobias Muehlberg will give an introduction to software-level vulnerabilities and TEEs, and discuss the security and privacy implications of this technology. |
 | **Recording** | [20200207-jtmuehlberg-trusted-computing.pdf](slides/20200207-jtmuehlberg-trusted-computing.pdf) |
+
 
 
 
