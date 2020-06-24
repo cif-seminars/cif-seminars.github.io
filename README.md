@@ -14,9 +14,20 @@ Leuven](https://www.kuleuven.be/).
 ## Upcoming Seminars
 
 * 30 June 2020, 12:30: [Homomorphic Encryption (by Prof. Dr. Nigel Smart)](https://cif-seminars.github.io/#next-seminar)
-* 
+* 16 July 2020, 12:30:
+* 17 Joly 2020, 12:30:
 
 ## Next Seminar
+
+<!-- ***Template***
+### Title (by []())
+
+| **When** | Tuesday, 30 June 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | []() |
+| **Abstract** | |
+-->
 
 ### Homomorphic Encryption (by [Prof. Dr. Nigel Smart](https://www.esat.kuleuven.be/cosic/people/nigel-smart/))
 
@@ -26,13 +37,29 @@ Leuven](https://www.kuleuven.be/).
 | **Conferencing** | [meet.jit.si/20200630-CIF-Homomorphic-Encryption](https://meet.jit.si/20200630-CIF-Homomorphic-Encryption) |
 | **Abstract** | In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on encrypted data. He will discuss how the technology of MPC and FHE is changing the way people process data, by allowing them to compute on data whilst it is “encrypted”. He will discuss a number of use cases of the technology. The talk will not go into technical details, and thus you do not need to understand any cryptography for the talk. |
 
+### Cybersecurity of Medical Devices: Legal and Ethical Challenges (by [Elisabetta Biasin and Erik Kamenjašević]())
+
+| **When** | Thursday, 16 July 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://meet.jit.si/20200716-CIF-Medical-Devices-Security](https://meet.jit.si/20200716-CIF-Medical-Devices-Security) |
+| **Abstract** | In this seminar, Elisabetta and Erik will talk about the cybersecurity of medical devices from the legal and ethical perspectives. They will start their presentation by defining a medical device and how it relates to EU cybersecurity norms stemming from different pieces of legislation. The seminar will then outline some of the most pressing ethical concerns and explain how the existing cybersecurity legal framework could mitigate these. All audiences are welcome: no prior knowledge of the law is required for this seminar. |
+
+### (In-)Security of Implantable Medical Devices (by [Eduard Marin Fabregas]())
+
+| **When** | Friday, 17 July 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://meet.jit.si/20200716-CIF-Medical-Devices-Security](https://meet.jit.si/20200716-CIF-Medical-Devices-Security) |
+| **Abstract** | In this seminar, Eduard will give a talk on the security of medical devices. Eduard will begin by explaining the evolution of medical devices and how this opens the door for security attacks. Afterwards, he will talk about our experience analyzing the security of several implantable medical devices such as pacemakers, insulin pumps and neurostimulators. Finally there will be room for some legal observations by Elisabetta and Erik. |
+
 
 ## Previous Seminars, Slides & Recordings
 
 <!-- ***Template***
 ### Title (by []())
 
-| **When** | Tuesday, 30 June 2020, 12:30 -- 13:30 |
+| **When** | Tuesday, 30 June 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | |
 | **Recording** | |
