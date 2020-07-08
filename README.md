@@ -16,7 +16,7 @@ Leuven](https://www.kuleuven.be/).
 ## Upcoming Seminars
 
 * 16 July 2020, 12:30: [Cybersecurity of Medical Devices: Legal and Ethical Challenges (by Elisabetta Biasin and Erik Kamenjašević)](https://cif-seminars.github.io/#next-seminar)
-* 17 Joly 2020, 12:30: [(In-)Security of Implantable Medical Devices (by Dr. Eduard Marin Fabregas)](https://cif-seminars.github.io/#next-seminar)
+* 17 July 2020, 12:30: [(In-)Security of Implantable Medical Devices (by Dr. Eduard Marin Fabregas)](https://cif-seminars.github.io/#next-seminar)
 * September 2020: Linddun Cards (Dr. Kim Wuyts)
 * October 2020: Compelled Decryption (Ward Yperman and Dr. Sofie Royer)
 * November 2020: Privacy by Design (Laurens Sion)
