@@ -15,9 +15,8 @@ Leuven](https://www.kuleuven.be/).
 
 ## Upcoming Seminars
 
-* 16 July 2020, 12:30: [Cybersecurity of Medical Devices: Legal and Ethical Challenges (by Elisabetta Biasin and Erik Kamenjašević)](https://cif-seminars.github.io/#next-seminar)
-* 17 July 2020, 12:30: [(In-)Security of Implantable Medical Devices (by Dr. Eduard Marin Fabregas)](https://cif-seminars.github.io/#next-seminar)
-* September 2020: Linddun Cards (Dr. Kim Wuyts)
+* 17 August 2020, 12:30: [The full force of the state (by Fieke Jansen)](https://cif-seminars.github.io/#next-seminar)
+* 29 September 2020, 12:30: [Linddun Cards (Dr. Kim Wuyts)](https://cif-seminars.github.io/#next-seminar)
 * October 2020: Compelled Decryption (Ward Yperman and Dr. Sofie Royer)
 * November 2020: Privacy by Design (Laurens Sion)
 
@@ -37,23 +36,6 @@ Leuven](https://www.kuleuven.be/).
 | **Abstract** | |
 -->
 
-### Cybersecurity of Medical Devices: Legal and Ethical Challenges (by [Elisabetta Biasin](https://www.law.kuleuven.be/citip/en/staff-members/staff/00121994) and [Erik Kamenjašević](https://www.law.kuleuven.be/citip/en/staff-members/staff/00117938))
-
-| **When** | Thursday, 16 July 2020, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://meet.jit.si/20200716-CIF-Medical-Devices-Security](https://meet.jit.si/20200716-CIF-Medical-Devices-Security) |
-| **Abstract** | In this seminar, Elisabetta and Erik will talk about the cybersecurity of medical devices from the legal and ethical perspectives. They will start their presentation by defining a medical device and how it relates to EU cybersecurity norms stemming from different pieces of legislation. The seminar will then outline some of the most pressing ethical concerns and explain how the existing cybersecurity legal framework could mitigate these. All audiences are welcome: no prior knowledge of the law is required for this seminar. |
-
-### (In-)Security of Implantable Medical Devices (by [Dr. Eduard Marin Fabregas](https://www.esat.kuleuven.be/cosic/people/eduard-marin-fabregas/))
-
-| **When** | Friday, 17 July 2020, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://meet.jit.si/20200716-CIF-Medical-Devices-Security](https://meet.jit.si/20200716-CIF-Medical-Devices-Security) |
-| **Abstract** | In this seminar, Eduard will give a talk on the security of medical devices. Eduard will begin by explaining the evolution of medical devices and how this opens the door for security attacks. Afterwards, he will talk about our experience analyzing the security of several implantable medical devices such as pacemakers, insulin pumps and neurostimulators. Finally there will be room for some legal observations by Elisabetta and Erik, the speakers of the seminar of Thursday, 16 July 2020 on "Cybersecurity of Medical Devices: Legal and Ethical Challenges". |
-
-
 
 
 ## Previous Seminars, Slides & Recordings
@@ -64,8 +46,23 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Tuesday, 30 June 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | |
-| **Recording** | |
+| **Recording** | []() |
 -->
+
+### (In-)Security of Implantable Medical Devices (by [Dr. Eduard Marin Fabregas](https://www.esat.kuleuven.be/cosic/people/eduard-marin-fabregas/))
+
+| **When** | Friday, 17 July 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | In this seminar, Eduard will give a talk on the security of medical devices. Eduard will begin by explaining the evolution of medical devices and how this opens the door for security attacks. Afterwards, he will talk about our experience analyzing the security of several implantable medical devices such as pacemakers, insulin pumps and neurostimulators. Finally there will be room for some legal observations by Elisabetta and Erik, the speakers of the seminar of Thursday, 16 July 2020 on "Cybersecurity of Medical Devices: Legal and Ethical Challenges". |
+| **Recording** | [20200717-emarin-medical-insec.pdf](20200717-emarin-medical-insec.pdf) |
+
+
+### Cybersecurity of Medical Devices: Legal and Ethical Challenges (by [Elisabetta Biasin](https://www.law.kuleuven.be/citip/en/staff-members/staff/00121994) and [Erik Kamenjašević](https://www.law.kuleuven.be/citip/en/staff-members/staff/00117938))
+
+| **When** | Thursday, 16 July 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | In this seminar, Elisabetta and Erik will talk about the cybersecurity of medical devices from the legal and ethical perspectives. They will start their presentation by defining a medical device and how it relates to EU cybersecurity norms stemming from different pieces of legislation. The seminar will then outline some of the most pressing ethical concerns and explain how the existing cybersecurity legal framework could mitigate these. All audiences are welcome: no prior knowledge of the law is required for this seminar. |
+| **Recording** | [20200716-ebiasin-medical-legal.pdf](20200716-ebiasin-medical-legal.pdf) |
 
 
 ### Homomorphic Encryption (by [Prof. Dr. Nigel Smart](https://www.esat.kuleuven.be/cosic/people/nigel-smart/))
