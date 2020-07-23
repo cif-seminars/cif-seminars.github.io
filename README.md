@@ -11,17 +11,12 @@ Leuven](https://www.kuleuven.be/).
 {:toc}
 
 
-
-
 ## Upcoming Seminars
 
-* 17 August 2020, 12:30: [The full force of the state (by Fieke Jansen)](https://cif-seminars.github.io/#next-seminar)
+* 17 August 2020, 12:30: [The full force of the state: predictive policing interventions (by Fieke Jansen)](https://cif-seminars.github.io/#next-seminar)
 * 29 September 2020, 12:30: [Linddun Cards (Dr. Kim Wuyts)](https://cif-seminars.github.io/#next-seminar)
 * October 2020: Compelled Decryption (Ward Yperman and Dr. Sofie Royer)
 * November 2020: Privacy by Design (Laurens Sion)
-
-
-
 
 
 ## Next Seminar
@@ -36,7 +31,13 @@ Leuven](https://www.kuleuven.be/).
 | **Abstract** | |
 -->
 
-Please be patient, it's vacation time.
+### The full force of the state: predictive policing interventions (by [Fieke Jansen](https://datajusticelab.org/people/))
+
+| **When** | Monday, 17 August 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://meet.jit.si/20200817-CIF-PredictivePolicing](https://meet.jit.si/20200817-CIF-PredictivePolicing) |
+| **Abstract** | In this seminar, Fieke will talk about the need to for contextualization when discussing the effective, fair and legitimate of predictive policing. She will start her presentation with an introduction into predictive policing, its imaginaries, uses and challenges. The seminar will then outline some of the key assumptions on which predictive policing is based. All audiences are welcome: no prior knowledge of the police or technology is required for this seminar. |
 
 
 ## Previous Seminars, Slides & Recordings
