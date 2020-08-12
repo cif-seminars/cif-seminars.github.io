@@ -73,7 +73,7 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Tuesday, 30 June 2020, 12:30 -- 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on encrypted data. He will discuss how the technology of MPC and FHE is changing the way people process data, by allowing them to compute on data whilst it is “encrypted”. He will discuss a number of use cases of the technology. The talk will not go into technical details, and thus you do not need to understand any cryptography for the talk. |
-| **Recording** | [20200630-smart-homomorphic-crypto.pdf](slides/20200630-smart-homomorphic-crypto.pdf) |
+| **Slides and Recording** | [20200630-smart-homomorphic-crypto.pdf](slides/20200630-smart-homomorphic-crypto.pdf) |
 | | [![Homomorphic Encryption (Nigel Smart)](thumbs/20200630-small.png)](https://www.youtube.com/watch?v=algkDFnaFJ8) |
 
 
