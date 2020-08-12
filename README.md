@@ -74,6 +74,7 @@ Leuven](https://www.kuleuven.be/).
 | --- | --- |
 | **Abstract** | In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on encrypted data. He will discuss how the technology of MPC and FHE is changing the way people process data, by allowing them to compute on data whilst it is “encrypted”. He will discuss a number of use cases of the technology. The talk will not go into technical details, and thus you do not need to understand any cryptography for the talk. |
 | **Recording** | [20200630-smart-homomorphic-crypto.pdf](slides/20200630-smart-homomorphic-crypto.pdf) |
+| | [![Homomorphic Encryption (Nigel Smart)](thumbs/20200630.png)](https://www.youtube.com/watch?v=algkDFnaFJ8) |
 
 
 ### Ethical Hacking (by [Dr. Sofie Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310))
@@ -98,7 +99,7 @@ Leuven](https://www.kuleuven.be/).
 | --- | --- |
 | **Abstract** | The aim of this presentation is to provide some basic inputs about the most recent legislation on cybersecurity issued by the EU. More specifically, the first part of the presentation will give an overview of the policy landscape that led the law-maker to legislate back in 2015-2016. Having set up the basis (inter alia, touching upon some fundamentals of EU law), we will go through the main parts of the NIS Directive, what obligations the law entails on Member States and economic actors (including on incident reporting), and what lessons we can learn from it. The second part of the presentation will brief on the newly introduced Cybersecurity Act, which regulates on the role of ENISA and a pan-European cybersecurity certification scheme. Finally, we will provide a small overview on how a future EU certification scheme could look like on the basis of the recent ENISA-report. |
 | **Recording** | [20200303-fantin-fierens-nis-cybersec.pdf](slides/20200303-fantin-fierens-nis-cybersec.pdf) |
-| | [![NIS Directive (Stefano Fantin)](https://img.youtube.com/vi/Sv93xrWkYFQ/0.jpg)](https://www.youtube.com/watch?v=Sv93xrWkYFQ) [![Cybersecurity Act (Michiel Fierens)](thumbs/20200303-1.png)](https://www.youtube.com/watch?v=31BUy_s93qc)|
+| | [![NIS Directive (Stefano Fantin)](20200303-2.png)](https://www.youtube.com/watch?v=Sv93xrWkYFQ) [![Cybersecurity Act (Michiel Fierens)](thumbs/20200303-1.png)](https://www.youtube.com/watch?v=31BUy_s93qc)|
 
 
 ### Trusted Execution and how far you can trust it (by [Dr. Jan Tobias Muehlberg](https://distrinet.cs.kuleuven.be/people/muehlber))
