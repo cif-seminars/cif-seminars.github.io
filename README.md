@@ -48,8 +48,8 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Tuesday, 30 June 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | |
-| **Recording** | []() |
-| | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
+| **Slides** | []() |
+| **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
 
 ### (In-)Security of Implantable Medical Devices (by [Dr. Eduard Marin Fabregas](https://www.esat.kuleuven.be/cosic/people/eduard-marin-fabregas/))
@@ -57,7 +57,7 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Friday, 17 July 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Eduard will give a talk on the security of medical devices. Eduard will begin by explaining the evolution of medical devices and how this opens the door for security attacks. Afterwards, he will talk about our experience analyzing the security of several implantable medical devices such as pacemakers, insulin pumps and neurostimulators. Finally there will be room for some legal observations by Elisabetta and Erik, the speakers of the seminar of Thursday, 16 July 2020 on "Cybersecurity of Medical Devices: Legal and Ethical Challenges". |
-| **Recording** | [20200717-emarin-medical-insec.pdf](slides/20200717-emarin-medical-insec.pdf) |
+| **Slides** | [20200717-emarin-medical-insec.pdf](slides/20200717-emarin-medical-insec.pdf) |
 
 
 ### Cybersecurity of Medical Devices: Legal and Ethical Challenges (by [Elisabetta Biasin](https://www.law.kuleuven.be/citip/en/staff-members/staff/00121994) and [Erik Kamenjašević](https://www.law.kuleuven.be/citip/en/staff-members/staff/00117938))
@@ -65,7 +65,7 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Thursday, 16 July 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Elisabetta and Erik will talk about the cybersecurity of medical devices from the legal and ethical perspectives. They will start their presentation by defining a medical device and how it relates to EU cybersecurity norms stemming from different pieces of legislation. The seminar will then outline some of the most pressing ethical concerns and explain how the existing cybersecurity legal framework could mitigate these. All audiences are welcome: no prior knowledge of the law is required for this seminar. |
-| **Recording** | [20200716-ebiasin-medical-legal.pdf](slides/20200716-ebiasin-medical-legal.pdf) |
+| **Slides** | [20200716-ebiasin-medical-legal.pdf](slides/20200716-ebiasin-medical-legal.pdf) |
 
 
 ### Homomorphic Encryption (by [Prof. Dr. Nigel Smart](https://www.esat.kuleuven.be/cosic/people/nigel-smart/))
@@ -73,8 +73,8 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Tuesday, 30 June 2020, 12:30 -- 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Prof. Dr. Nigel Smart will give a talk on computing on encrypted data. He will discuss how the technology of MPC and FHE is changing the way people process data, by allowing them to compute on data whilst it is “encrypted”. He will discuss a number of use cases of the technology. The talk will not go into technical details, and thus you do not need to understand any cryptography for the talk. |
-| **Slides** | [20200630-smart-homomorphic-crypto.pdf](slides/20200630-smart-homomorphic-crypto.pdf) |
-| **& Recording** | [![Homomorphic Encryption (Nigel Smart)](thumbs/20200630-small.png)](https://www.youtube.com/watch?v=algkDFnaFJ8) |
+| **Slides &** | [20200630-smart-homomorphic-crypto.pdf](slides/20200630-smart-homomorphic-crypto.pdf) |
+| **Recording** | [![Homomorphic Encryption (Nigel Smart)](thumbs/20200630-small.png)](https://www.youtube.com/watch?v=algkDFnaFJ8) |
 
 
 ### Ethical Hacking (by [Dr. Sofie Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310))
@@ -82,7 +82,7 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Tuesday, 05 May 2020, 12:30 -- 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Sofie Royer will give a talk on hacking and its legal implications. We'll first have a look at the basics of criminal law and criminal procedure. What does the offence of hacking look like? Are there any European rules on this topic? From which point can someone be held criminally liable for his or her behavior? Who can decide whether a criminal investigation is initiated? What punishment does someone risk when he or she is found liable for hacking? Does ethical hacking constitute an offence in Belgium? What about other countries? In other words, in this seminar you’ll find out what’s at stake when engaging in hacking activities. |
-| **Recording** | [20200505-sroyer-ethical-hacking.pdf](slides/20200505-sroyer-ethical-hacking.pdf) |
+| **Slides** | [20200505-sroyer-ethical-hacking.pdf](slides/20200505-sroyer-ethical-hacking.pdf) |
 
 
 ### Threat modeling: A guided tour (by [Dr. Koen Yskout](https://distrinet.cs.kuleuven.be/people/koeny))
@@ -90,7 +90,7 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Wednesday, 08 April 2020, 12:30 -- 13:30 |
 | --- | --- |
 | **Abstract** | In this talk, we'll take a tour through the current state of practice regarding threat modeling in software engineering. Starting from the goal of threat modeling, we'll encounter the relation between threats and objectives, risk, design decisions, vulnerabilities, and exploits. We'll look at a few typical threats to software systems, and practical techniques to elicit them (e.g., attack trees, attack libraries, STRIDE, and LINDDUN). We'll finish by  discussing some of the limitations of and hurdles for doing threat  modeling in a modern software development lifecycle and enterprise  environment. |
-| **Recording** | [20200408-kyskout-threat-modeling.pdf](slides/20200408-kyskout-threat-modeling.pdf) |
+| **Slides** | [20200408-kyskout-threat-modeling.pdf](slides/20200408-kyskout-threat-modeling.pdf) |
 
 
 ### The NIS-Directive and the Cybersecurity Act (by [Stefano Fantin](https://www.law.kuleuven.be/citip/en/staff-members/staff/00118311) and [Michiel Fierens](https://www.law.kuleuven.be/citip/en/staff-members/staff/00132752))
@@ -98,8 +98,8 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Tuesday, 03 March 2020, 12:30 -- 13:30 |
 | --- | --- |
 | **Abstract** | The aim of this presentation is to provide some basic inputs about the most recent legislation on cybersecurity issued by the EU. More specifically, the first part of the presentation will give an overview of the policy landscape that led the law-maker to legislate back in 2015-2016. Having set up the basis (inter alia, touching upon some fundamentals of EU law), we will go through the main parts of the NIS Directive, what obligations the law entails on Member States and economic actors (including on incident reporting), and what lessons we can learn from it. The second part of the presentation will brief on the newly introduced Cybersecurity Act, which regulates on the role of ENISA and a pan-European cybersecurity certification scheme. Finally, we will provide a small overview on how a future EU certification scheme could look like on the basis of the recent ENISA-report. |
-| **Recording** | [20200303-fantin-fierens-nis-cybersec.pdf](slides/20200303-fantin-fierens-nis-cybersec.pdf) |
-| | [![NIS Directive (Stefano Fantin)](thumbs/20200303-2-small.png)](https://www.youtube.com/watch?v=Sv93xrWkYFQ) [![Cybersecurity Act (Michiel Fierens)](thumbs/20200303-1-small.png)](https://www.youtube.com/watch?v=31BUy_s93qc)|
+| **Slides &** | [20200303-fantin-fierens-nis-cybersec.pdf](slides/20200303-fantin-fierens-nis-cybersec.pdf) |
+| **Recording**| [![NIS Directive (Stefano Fantin)](thumbs/20200303-2-small.png)](https://www.youtube.com/watch?v=Sv93xrWkYFQ) [![Cybersecurity Act (Michiel Fierens)](thumbs/20200303-1-small.png)](https://www.youtube.com/watch?v=31BUy_s93qc)|
 
 
 ### Trusted Execution and how far you can trust it (by [Dr. Jan Tobias Muehlberg](https://distrinet.cs.kuleuven.be/people/muehlber))
@@ -107,7 +107,7 @@ Leuven](https://www.kuleuven.be/).
 | **When** | Tuesday, 07 February 2020, 12:00 -- 13:00 |
 | --- | --- |
 | **Abstract** | Even the most well-tested software is not secure if it executes on untrusted infrastructure, in an untrusted operating system, or relies on third-party libraries that may contain vulnerabilities. Modern processors provide Trusted Execution Environments (TEEs) that can protect a software component from low-level attacks, allows remote parties to verify the integrity of that component, and ties execution of the component to a unique trusted element in the execution platform. In this talk Dr. Jan Tobias Muehlberg will give an introduction to software-level vulnerabilities and TEEs, and discuss the security and privacy implications of this technology. |
-| **Recording** | [20200207-jtmuehlberg-trusted-computing.pdf](slides/20200207-jtmuehlberg-trusted-computing.pdf) |
+| **Slides** | [20200207-jtmuehlberg-trusted-computing.pdf](slides/20200207-jtmuehlberg-trusted-computing.pdf) |
 
 
 
