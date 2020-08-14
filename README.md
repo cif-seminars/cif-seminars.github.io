@@ -15,7 +15,7 @@ Leuven](https://www.kuleuven.be/).
 
 * 17 August 2020, 12:30: [The full force of the state: predictive policing interventions (by Fieke Jansen)](https://cif-seminars.github.io/#next-seminar)
 * 29 September 2020, 12:30: [Linddun Cards (Dr. Kim Wuyts)](https://cif-seminars.github.io/#next-seminar)
-* October 2020: Compelled Decryption (Ward Yperman and Dr. Sofie Royer)
+* 29 October 2020: Compelled Decryption (Ward Yperman and Dr. Sofie Royer)
 * November 2020: Privacy by Design (Laurens Sion)
 
 
