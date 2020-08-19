@@ -5,7 +5,8 @@ topics related to cybersecurity and online privacy, organised by the
 [CiTiP](https://www.law.kuleuven.be/citip/en/),
 [COSIC](https://www.esat.kuleuven.be/cosic/), and
 [DistriNET](https://distrinet.cs.kuleuven.be/) research groups of [KU
-Leuven](https://www.kuleuven.be/).
+Leuven](https://www.kuleuven.be/). A playlist with all the recorded
+sessions is available on [YouTube](https://www.youtube.com/playlist?list=PLiHaXFHjrqYcMjR1bIKIpnJdA_3EFJoCR), presentation slides are available below.
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -31,14 +32,6 @@ Leuven](https://www.kuleuven.be/).
 | **Abstract** | |
 -->
 
-### The full force of the state: predictive policing interventions (by [Fieke Jansen](https://datajusticelab.org/people/))
-
-| **When** | Monday, 17 August 2020, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://meet.jit.si/20200817-CIF-PredictivePolicing](https://meet.jit.si/20200817-CIF-PredictivePolicing) |
-| **Abstract** | In this seminar, Fieke will talk about the need to for contextualization when discussing the effective, fair and legitimate of predictive policing. She will start her presentation with an introduction into predictive policing, its imaginaries, uses and challenges. The seminar will then outline some of the key assumptions on which predictive policing is based. All audiences are welcome: no prior knowledge of the police or technology is required for this seminar. |
-
 
 ## Previous Seminars, Slides & Recordings
 
@@ -52,12 +45,21 @@ Leuven](https://www.kuleuven.be/).
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
 
+### The full force of the state: predictive policing interventions (by [Fieke Jansen](https://datajusticelab.org/people/))
+
+| **When** | Monday, 17 August 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | In this seminar, Fieke will talk about the need to for contextualization when discussing the effective, fair and legitimate of predictive policing. She will start her presentation with an introduction into predictive policing, its imaginaries, uses and challenges. The seminar will then outline some of the key assumptions on which predictive policing is based. All audiences are welcome: no prior knowledge of the police or technology is required for this seminar. |
+| **Slides &** | [20200817-fjansen-policing.pdf](slides/20200817-fjansen-policing.pdf) |
+| **Recording** | [![The full force of the state: predictive policing interventions (Fieke Jansen)](thumbs/20200817-1-small.png)](https://www.youtube.com/watch?v=Rw0cKjmXUos) [![Discussion](thumbs/20200817-2-small.png)](https://www.youtube.com/watch?v=KziL9ew_dcA) |
+
 ### (In-)Security of Implantable Medical Devices (by [Dr. Eduard Marin Fabregas](https://www.esat.kuleuven.be/cosic/people/eduard-marin-fabregas/))
 
 | **When** | Friday, 17 July 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Eduard will give a talk on the security of medical devices. Eduard will begin by explaining the evolution of medical devices and how this opens the door for security attacks. Afterwards, he will talk about our experience analyzing the security of several implantable medical devices such as pacemakers, insulin pumps and neurostimulators. Finally there will be room for some legal observations by Elisabetta and Erik, the speakers of the seminar of Thursday, 16 July 2020 on "Cybersecurity of Medical Devices: Legal and Ethical Challenges". |
 | **Slides** | [20200717-emarin-medical-insec.pdf](slides/20200717-emarin-medical-insec.pdf) |
+| **Recording** | [![(In-)Security of Implantable Medical Devices (Eduard Marin)](thumbs/20200717-1-small.png)](https://www.youtube.com/watch?v=ipmUrt6qY7w) [![Discussion](thumbs/20200717-2-small.png)](https://www.youtube.com/watch?v=O9RfmEwbHDE) |
 
 
 ### Cybersecurity of Medical Devices: Legal and Ethical Challenges (by [Elisabetta Biasin](https://www.law.kuleuven.be/citip/en/staff-members/staff/00121994) and [Erik Kamenjašević](https://www.law.kuleuven.be/citip/en/staff-members/staff/00117938))
