@@ -31,7 +31,14 @@ sessions is available on [YouTube](https://www.youtube.com/playlist?list=PLiHaXF
 | **Abstract** | |
 -->
 
-Please be patient.
+### LINDDUN GO: A lightweight approach to privacy threat modeling (by [Dr. Kim Wuyts](https://distrinet.cs.kuleuven.be/people/kim))
+
+| **When** | Tuesday, 29 September 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://meet.jit.si/20200929-CIF-Linddun-Go](https://meet.jit.si/20200929-CIF-Linddun-Go) |
+| **Abstract** | In this talk, Kim will present LINDDUN GO, a toolkit for lightweight privacy threat modeling. In the first part of this talk, we will look into threat modeling in general and learn more about the LINDDUN privacy threat modeling framework. We will zoom into the main privacy threat categories encompassed in LINDDUN and walk through the LINDDUN methodology. In the second part of the talk, LINDDUN GO, the lightweight variant, will be introduced. |
+
 
 
 ## Previous Seminars, Slides & Recordings
