@@ -7,6 +7,7 @@ topics related to cybersecurity and online privacy, organised by the
 [DistriNET](https://distrinet.cs.kuleuven.be/) research groups of [KU
 Leuven](https://www.kuleuven.be/). A playlist with all the recorded
 sessions is available on [YouTube](https://www.youtube.com/playlist?list=PLiHaXFHjrqYcMjR1bIKIpnJdA_3EFJoCR), presentation slides are available below.
+All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -15,6 +16,7 @@ sessions is available on [YouTube](https://www.youtube.com/playlist?list=PLiHaXF
 ## Upcoming Seminars
 
 * 29 September 2020, 12:30: [Linddun Cards (Dr. Kim Wuyts)](https://cif-seminars.github.io/#next-seminar)
+* 16 October 2020, 12:30: [Watching IoTs That Watch Us: Empirically Studying IoT Security & Privacy at Scale (Prof. Danny Y. Huang)](https://cif-seminars.github.io/#next-seminar)
 * 29 October 2020: Compelled Decryption (Ward Yperman and Dr. Sofie Royer)
 * November 2020: Privacy by Design (Laurens Sion)
 
@@ -39,6 +41,13 @@ sessions is available on [YouTube](https://www.youtube.com/playlist?list=PLiHaXF
 | **Conferencing** | [https://meet.jit.si/20200929-CIF-Linddun-Go](https://meet.jit.si/20200929-CIF-Linddun-Go) |
 | **Abstract** | In this talk, Kim will present LINDDUN GO, a toolkit for lightweight privacy threat modeling. In the first part of this talk, we will look into threat modeling in general and learn more about the LINDDUN privacy threat modeling framework. We will zoom into the main privacy threat categories encompassed in LINDDUN and walk through the LINDDUN methodology. In the second part of the talk, LINDDUN GO, the lightweight variant, will be introduced. |
 
+### Watching IoTs That Watch Us: Empirically Studying IoT Security & Privacy at Scale (by [Prof. Danny Y. Huang](https://mlab.engineering.nyu.edu/))
+
+| **When** | Friday, 16 October 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://meet.jit.si/20201016-CIF-IoT-Security-Privacy](https://meet.jit.si/20201016-CIF-IoT-Security-Privacy) |
+| **Abstract** | Consumers today are increasingly concerned about the security and privacy risks of smart home IoT devices. However, few empirical studies have looked at these problems at scale, partly because a large variety and number of smart-home IoT devices are often closed-source and on private home networks, thus making it difficult for researchers to systematically observe the actual security and privacy issues faced by users in the wild. In this talk, I describe two methods for researchers to empirically understand these risks to real end-users: (i) crowdsourcing network traffic from thousands of real smart home networks, and (ii) emulating user-inputs to study how thousands of smart TV apps track viewers. Both methods have allowed us to conduct the largest security and privacy studies on smart TVs and other IoT devices to date. Our labeled datasets have also created new opportunities for other research areas, such as machine learning, network management, and healthcare. |
 
 
 ## Previous Seminars, Slides & Recordings
