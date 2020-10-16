@@ -15,9 +15,8 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* 29 September 2020, 12:30: [Linddun Cards (Dr. Kim Wuyts)](https://cif-seminars.github.io/#next-seminar)
-* 16 October 2020, 12:30: [Watching IoTs That Watch Us: Empirically Studying IoT Security & Privacy at Scale (Prof. Danny Y. Huang)](https://cif-seminars.github.io/#next-seminar)
-* 29 October 2020: Compelled Decryption (Ward Yperman and Dr. Sofie Royer)
+* 29 October 2020: [Compelled Decryption (Ward Yperman and Dr. Sofie
+  Royer)](https://cif-seminars.github.io/#next-seminar)
 * November 2020: Privacy by Design (Laurens Sion)
 
 
