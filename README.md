@@ -33,21 +33,13 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Abstract** | |
 -->
 
-### LINDDUN GO: A lightweight approach to privacy threat modeling (by [Dr. Kim Wuyts](https://distrinet.cs.kuleuven.be/people/kim))
+### Compelled Decryption (by [Dr. Sofie Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310) and [Ward Yperman](https://www.law.kuleuven.be/strafrecht/english/LedenpaginasENGELS/wyENGELS.html))
 
-| **When** | Tuesday, 29 September 2020, 12:30 - 13:30 |
+| **When** | Thursday, 29 October 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
-| **Conferencing** | [https://meet.jit.si/20200929-CIF-Linddun-Go](https://meet.jit.si/20200929-CIF-Linddun-Go) |
-| **Abstract** | In this talk, Kim will present LINDDUN GO, a toolkit for lightweight privacy threat modeling. In the first part of this talk, we will look into threat modeling in general and learn more about the LINDDUN privacy threat modeling framework. We will zoom into the main privacy threat categories encompassed in LINDDUN and walk through the LINDDUN methodology. In the second part of the talk, LINDDUN GO, the lightweight variant, will be introduced. |
-
-### Watching IoTs That Watch Us: Empirically Studying IoT Security & Privacy at Scale (by [Prof. Danny Y. Huang](https://mlab.engineering.nyu.edu/))
-
-| **When** | Friday, 16 October 2020, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://meet.jit.si/20201016-CIF-IoT-Security-Privacy](https://meet.jit.si/20201016-CIF-IoT-Security-Privacy) |
-| **Abstract** | Consumers today are increasingly concerned about the security and privacy risks of smart home IoT devices. However, few empirical studies have looked at these problems at scale, partly because a large variety and number of smart-home IoT devices are often closed-source and on private home networks, thus making it difficult for researchers to systematically observe the actual security and privacy issues faced by users in the wild. In this talk, I describe two methods for researchers to empirically understand these risks to real end-users: (i) crowdsourcing network traffic from thousands of real smart home networks, and (ii) emulating user-inputs to study how thousands of smart TV apps track viewers. Both methods have allowed us to conduct the largest security and privacy studies on smart TVs and other IoT devices to date. Our labeled datasets have also created new opportunities for other research areas, such as machine learning, network management, and healthcare. |
+| **Conferencing** | [https://meet.jit.si/20201016-CIF-Compelled-Decryption](https://meet.jit.si/20201016-CIF-Compelled-Decryption) |
+| **Abstract** | The right to remain silent and not incriminate oneself is one of the basic principles of our legal system. While this right seems fairly straightforward, technological change comes with new challenges. Can a suspect for example be forced to provide his smartphone password (i.e. compelled decryption), or is this covered by the right to silence? This is a question many scholars and courts alike have grappled with. In this seminar Sofie Royer and Ward Yperman will explain the scope of the right to silence and critically analyse the rules on compelled decryption in Belgium and beyond. |
 
 
 ## Previous Seminars, Slides & Recordings
@@ -62,6 +54,22 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
 
+### Watching IoTs That Watch Us: Empirically Studying IoT Security & Privacy at Scale (by [Prof. Danny Y. Huang](https://mlab.engineering.nyu.edu/))
+
+| **When** | Friday, 16 October 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Consumers today are increasingly concerned about the security and privacy risks of smart home IoT devices. However, few empirical studies have looked at these problems at scale, partly because a large variety and number of smart-home IoT devices are often closed-source and on private home networks, thus making it difficult for researchers to systematically observe the actual security and privacy issues faced by users in the wild. In this talk, I describe two methods for researchers to empirically understand these risks to real end-users: (i) crowdsourcing network traffic from thousands of real smart home networks, and (ii) emulating user-inputs to study how thousands of smart TV apps track viewers. Both methods have allowed us to conduct the largest security and privacy studies on smart TVs and other IoT devices to date. Our labeled datasets have also created new opportunities for other research areas, such as machine learning, network management, and healthcare. |
+
+
+### LINDDUN GO: A lightweight approach to privacy threat modeling (by [Dr. Kim Wuyts](https://distrinet.cs.kuleuven.be/people/kim))
+
+| **When** | Tuesday, 29 September 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | In this talk, Kim will present LINDDUN GO, a toolkit for lightweight privacy threat modeling. In the first part of this talk, we will look into threat modeling in general and learn more about the LINDDUN privacy threat modeling framework. We will zoom into the main privacy threat categories encompassed in LINDDUN and walk through the LINDDUN methodology. In the second part of the talk, LINDDUN GO, the lightweight variant, will be introduced. |
+| **Slides &** | [20200929-kwuyts-linddun-go.pdf](slides/20200929-kwuyts-linddun-go.pdf) |
+| **Recording** | [![LINDDUN GO: A lightweight approach to privacy threat modeling (Kim Wuyts)](thumbs/20200929-small.png)](https://www.youtube.com/watch?v=eLJtZHbD6E0) |
+
+
 ### The full force of the state: predictive policing interventions (by [Fieke Jansen](https://datajusticelab.org/people/))
 
 | **When** | Monday, 17 August 2020, 12:30 - 13:30 |
@@ -69,6 +77,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Abstract** | In this seminar, Fieke will talk about the need to for contextualization when discussing the effective, fair and legitimate of predictive policing. She will start her presentation with an introduction into predictive policing, its imaginaries, uses and challenges. The seminar will then outline some of the key assumptions on which predictive policing is based. All audiences are welcome: no prior knowledge of the police or technology is required for this seminar. |
 | **Slides &** | [20200817-fjansen-policing.pdf](slides/20200817-fjansen-policing.pdf) |
 | **Recording** | [![The full force of the state: predictive policing interventions (Fieke Jansen)](thumbs/20200817-1-small.png)](https://www.youtube.com/watch?v=Rw0cKjmXUos) [![Discussion](thumbs/20200817-2-small.png)](https://www.youtube.com/watch?v=KziL9ew_dcA) |
+
 
 ### (In-)Security of Implantable Medical Devices (by [Dr. Eduard Marin Fabregas](https://www.esat.kuleuven.be/cosic/people/eduard-marin-fabregas/))
 
