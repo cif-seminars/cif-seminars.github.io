@@ -84,7 +84,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **When** | Friday, 17 July 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Eduard will give a talk on the security of medical devices. Eduard will begin by explaining the evolution of medical devices and how this opens the door for security attacks. Afterwards, he will talk about our experience analyzing the security of several implantable medical devices such as pacemakers, insulin pumps and neurostimulators. Finally there will be room for some legal observations by Elisabetta and Erik, the speakers of the seminar of Thursday, 16 July 2020 on "Cybersecurity of Medical Devices: Legal and Ethical Challenges". |
-| **Slides** | [20200717-emarin-medical-insec.pdf](slides/20200717-emarin-medical-insec.pdf) |
+| **Slides &** | [20200717-emarin-medical-insec.pdf](slides/20200717-emarin-medical-insec.pdf) |
 | **Recording** | [![(In-)Security of Implantable Medical Devices (Eduard Marin)](thumbs/20200717-1-small.png)](https://www.youtube.com/watch?v=ipmUrt6qY7w) [![Discussion](thumbs/20200717-2-small.png)](https://www.youtube.com/watch?v=O9RfmEwbHDE) |
 
 
@@ -93,7 +93,8 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **When** | Thursday, 16 July 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | In this seminar, Elisabetta and Erik will talk about the cybersecurity of medical devices from the legal and ethical perspectives. They will start their presentation by defining a medical device and how it relates to EU cybersecurity norms stemming from different pieces of legislation. The seminar will then outline some of the most pressing ethical concerns and explain how the existing cybersecurity legal framework could mitigate these. All audiences are welcome: no prior knowledge of the law is required for this seminar. |
-| **Slides** | [20200716-ebiasin-medical-legal.pdf](slides/20200716-ebiasin-medical-legal.pdf) |
+| **Slides &** | [20200716-ebiasin-medical-legal.pdf](slides/20200716-ebiasin-medical-legal.pdf) |
+| **Recording** | [![Cybersecurity of Medical Devices: Legal and Ethical Challenges (Elisabetta Biasin and Erik Kamenjašević)](thumbs/20200716-small.png)](https://www.youtube.com/watch?v=TFmuNt940hE) |
 
 
 ### Homomorphic Encryption (by [Prof. Dr. Nigel Smart](https://www.esat.kuleuven.be/cosic/people/nigel-smart/))
