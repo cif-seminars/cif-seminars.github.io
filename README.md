@@ -58,6 +58,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **When** | Friday, 16 October 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | Consumers today are increasingly concerned about the security and privacy risks of smart home IoT devices. However, few empirical studies have looked at these problems at scale, partly because a large variety and number of smart-home IoT devices are often closed-source and on private home networks, thus making it difficult for researchers to systematically observe the actual security and privacy issues faced by users in the wild. In this talk, I describe two methods for researchers to empirically understand these risks to real end-users: (i) crowdsourcing network traffic from thousands of real smart home networks, and (ii) emulating user-inputs to study how thousands of smart TV apps track viewers. Both methods have allowed us to conduct the largest security and privacy studies on smart TVs and other IoT devices to date. Our labeled datasets have also created new opportunities for other research areas, such as machine learning, network management, and healthcare. |
+| **Slides &** | [20201016-dhuang-watching-iots.pdf](slides/20201016-dhuang-watching-iots.pdf) |
 | **Recording** | [![Watching IoTs That Watch Us: Empirically Studying IoT Security & Privacy at Scale (Prof. Danny Y. Huang)](thumbs/20201016-1-small.png)](https://www.youtube.com/watch?v=GxgCWQ8Y5p0) [![Discussion](thumbs/20201016-2-small.png)](https://www.youtube.com/watch?v=oqi_LyVKZbw) |
 
 
