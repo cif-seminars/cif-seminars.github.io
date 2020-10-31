@@ -39,6 +39,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Location** | online only |
 | **Conferencing** | [https://meet.jit.si/20201029-CIF-Compelled-Decryption](https://meet.jit.si/20201029-CIF-Compelled-Decryption) |
 | **Abstract** | You have the right to remain silent! But what does that mean when you are forced to provide your smartphone password (or fingerprint) to the police? This is a question many scholars and courts alike have grappled with. The right to remain silent and not incriminate oneself is one of the basic principles of our legal system. While this right seems fairly straightforward, technological change comes with new challenges. In this talk, Sofie Royer and Ward Yperman will explain the scope of the right to silence and shed light on the rules on compelled decryption in Belgium and beyond. This includes the consequences of refusing to provide your password and the countermeasures that one can take in order to protect oneself. |
+| **Slides &** | [20201029-sroyer-compelled.pdf](slides/20201029-sroyer-compelled.pdf) |
 
 
 ## Previous Seminars, Slides & Recordings
