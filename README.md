@@ -15,9 +15,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* 29 October 2020: [Compelled Decryption (Ward Yperman and Dr. Sofie
-  Royer)](https://cif-seminars.github.io/#next-seminar)
-* November 2020: Privacy by Design (Laurens Sion)
+* 17th November 2020: Privacy by Design (Laurens Sion)
 
 
 ## Next Seminar
@@ -53,6 +51,14 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Slides** | []() |
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
+
+### Compelled Decryption (by [Dr. Sofie Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310) and [Ward Yperman](https://www.law.kuleuven.be/strafrecht/english/LedenpaginasENGELS/wyENGELS.html))
+
+| **When** | Thursday, 29 October 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | You have the right to remain silent! But what does that mean when you are forced to provide your smartphone password (or fingerprint) to the police? This is a question many scholars and courts alike have grappled with. The right to remain silent and not incriminate oneself is one of the basic principles of our legal system. While this right seems fairly straightforward, technological change comes with new challenges. In this talk, Sofie Royer and Ward Yperman will explain the scope of the right to silence and shed light on the rules on compelled decryption in Belgium and beyond. This includes the consequences of refusing to provide your password and the countermeasures that one can take in order to protect oneself. |
+| **Slides &** | [20201029-sroyer-compelled.pdf](slides/20201029-sroyer-compelled.pdf) |
+
 
 ### Watching IoTs That Watch Us: Empirically Studying IoT Security & Privacy at Scale (by [Prof. Danny Y. Huang](https://mlab.engineering.nyu.edu/))
 
