@@ -30,14 +30,17 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Abstract** | |
 -->
 
-### Compelled Decryption (by [Dr. Sofie Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310) and [Ward Yperman](https://www.law.kuleuven.be/strafrecht/english/LedenpaginasENGELS/wyENGELS.html))
+### Privacy by Design (by [Dr. Laurens Sion](https://sion.info/))
 
-| **When** | Thursday, 29 October 2020, 12:30 - 13:30 |
+| **When** | Tuesday, 17 October 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
-| **Conferencing** | [https://meet.jit.si/20201029-CIF-Compelled-Decryption](https://meet.jit.si/20201029-CIF-Compelled-Decryption) |
-| **Abstract** | You have the right to remain silent! But what does that mean when you are forced to provide your smartphone password (or fingerprint) to the police? This is a question many scholars and courts alike have grappled with. The right to remain silent and not incriminate oneself is one of the basic principles of our legal system. While this right seems fairly straightforward, technological change comes with new challenges. In this talk, Sofie Royer and Ward Yperman will explain the scope of the right to silence and shed light on the rules on compelled decryption in Belgium and beyond. This includes the consequences of refusing to provide your password and the countermeasures that one can take in order to protect oneself. |
-| **Slides &** | [20201029-sroyer-compelled.pdf](slides/20201029-sroyer-compelled.pdf) |
+| **Conferencing** | [https://meet.jit.si/20201117-CIF-Privacy-by-Design](https://meet.jit.si/20201017-CIF-Privacy-by-Design) |
+| **Abstract** | Building software-intensive systems that respect the fundamental rights to privacy and data protection requires explicitly addressing data protection issues at the early development stages. Data Protection by Design (DPbD)—as coined by Article 25(1) of the General Data Protection Regulation (GDPR)—therefore calls for an iterative approach based on (i) the notion of risk to data subjects, (ii) a close collaboration between the involved stakeholders, and (iii) accountable decision-making.
+
+In practice, however, the legal reasoning behind DPbD is often conducted on the basis of informal system descriptions that lack systematicity and reproducibility. This affects the quality of Data Protection Impact Assessments (DPIA)—i. e. the concrete manifestation of DPbD at the organizational level. This is a major stumbling block when it comes to conducting a comprehensive and durable assessment of the risks that takes both the legal and technical complexities into account.
+
+In this talk, I present DPMF: a data protection modeling framework that allows for a comprehensive and accurate description of the data processing operations in terms of the key concepts used in the GDPR. The proposed modeling approach accommodates a number of legal reasonings and assessments that are commonly addressed in a DPIA exercise (e. g., the compatibility of purposes). The DPMF is supported in a prototype modeling tool and its practical applicability is validated in the context of a realistic eHealth system for a number of complementary development scenarios. |
 
 
 ## Previous Seminars, Slides & Recordings
