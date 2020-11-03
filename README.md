@@ -16,6 +16,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 * 17th November 2020: Privacy by Design (Laurens Sion)
+* December 2020: Technology Export Controls (Erik Zouave)
 
 
 ## Next Seminar
