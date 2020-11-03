@@ -32,7 +32,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ### Privacy by Design (by [Dr. Laurens Sion](https://sion.info/))
 
-| **When** | Tuesday, 17 October 2020, 12:30 - 13:30 |
+| **When** | Tuesday, 17 November 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [https://meet.jit.si/20201117-CIF-Privacy-by-Design](https://meet.jit.si/20201117-CIF-Privacy-by-Design) |
