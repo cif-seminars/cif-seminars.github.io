@@ -19,6 +19,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 * 17th of December 2020: Technology Export Controls (Erik Zouave)
 * 6th of January 2021: Surveillance Technology in Migration Management (Petra Molnar)
 * 9th of February 2021: Contact Tracing Apps (Bart Preneel)
+* 25th of February 2021: Bias Crash Test Dummies: On AI and ethics (not only) for cars (Bettina Berendt)
 
 
 ## Next Seminar
