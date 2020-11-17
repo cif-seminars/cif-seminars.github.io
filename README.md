@@ -15,8 +15,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* 17th of November 2020: Privacy by Design (Laurens Sion)
-* 17th of December 2020: Technology Export Controls (Erik Zouave)
+* 17th of December 2020: Cyber security from technological research to offensive (mis)appropriation (Erik Zouave)
 * 6th of January 2021: Surveillance Technology in Migration Management (Petra Molnar)
 * 9th of February 2021: Contact Tracing Apps (Bart Preneel)
 * 25th of February 2021: Bias Crash Test Dummies: On AI and ethics (not only) for cars (Bettina Berendt)
@@ -34,14 +33,13 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Abstract** | |
 -->
 
-### Privacy by Design (by [Dr. Laurens Sion](https://sion.info/))
+### Cyber security from technological research to offensive (mis)appropriation (by [Erik Zouave](https://uk.linkedin.com/in/eriktristanzouave))
 
-| **When** | Tuesday, 17 November 2020, 12:30 - 13:30 |
+| **When** | Thursday, 17 December 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
-| **Conferencing** | [https://meet.jit.si/20201117-CIF-Privacy-by-Design](https://meet.jit.si/20201117-CIF-Privacy-by-Design) |
-| **Abstract** | Building software-intensive systems that respect the fundamental rights to privacy and data protection requires explicitly addressing data protection issues at the early development stages. Data Protection by Design (DPbD)—as coined by Article 25(1) of the General Data Protection Regulation (GDPR)—therefore calls for an iterative approach based on (i) the notion of risk to data subjects, (ii) a close collaboration between the involved stakeholders, and (iii) accountable decision-making. <br> In practice, however, the legal reasoning behind DPbD is often conducted on the basis of informal system descriptions that lack systematicity and reproducibility. This affects the quality of Data Protection Impact Assessments (DPIA)—i. e. the concrete manifestation of DPbD at the organizational level. This is a major stumbling block when it comes to conducting a comprehensive and durable assessment of the risks that takes both the legal and technical complexities into account. <br> In this talk, I present DPMF: a data protection modeling framework that allows for a comprehensive and accurate description of the data processing operations in terms of the key concepts used in the GDPR. The proposed modeling approach accommodates a number of legal reasonings and assessments that are commonly addressed in a DPIA exercise (e. g., the compatibility of purposes). The DPMF is supported in a prototype modeling tool and its practical applicability is validated in the context of a realistic eHealth system for a number of complementary development scenarios. |
-
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | Research on cyber technology is largely undertaken with the aim of increasing the security of systems, software, users, and society at large. At least that is the conclusion that might be drawn from research and research investments in the public domain. However, as a matter of law, regulators recognize that some types of technologies are inherently “dual use”. Moreover, many more cyber technologies than those explicitly regulated as “dual use” can become part and parcel of future “offensive” end-use and criminal misuse. Open AI’s cancelled release of the GPT-2 natural language model is arguably a case in point. While many researchers may be aware of an international “arms race” between states and criminal technological trade on “black markets”, insights of how security research fits into this development is more complex. This seminar aims to broaden researcher’s perspective of how cyber security technologies can have “offensive” end-uses and can be at risk of misuse. It further exemplifies formalized systems of development, dissemination and trade that may further “offensive” exploitation and sometimes result in misuse. Finally, the challenges to formulating effective legal responses to unwanted end uses of technology, such as through export controls, cybercrime law, data protection, and vulnerability equities or disclosure, is addressed. |
 
 ## Previous Seminars, Slides & Recordings
 
@@ -54,6 +52,14 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Slides** | []() |
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
+
+### Privacy by Design (by [Dr. Laurens Sion](https://sion.info/))
+
+| **When** | Tuesday, 17 November 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Building software-intensive systems that respect the fundamental rights to privacy and data protection requires explicitly addressing data protection issues at the early development stages. Data Protection by Design (DPbD)—as coined by Article 25(1) of the General Data Protection Regulation (GDPR)—therefore calls for an iterative approach based on (i) the notion of risk to data subjects, (ii) a close collaboration between the involved stakeholders, and (iii) accountable decision-making. <br> In practice, however, the legal reasoning behind DPbD is often conducted on the basis of informal system descriptions that lack systematicity and reproducibility. This affects the quality of Data Protection Impact Assessments (DPIA)—i. e. the concrete manifestation of DPbD at the organizational level. This is a major stumbling block when it comes to conducting a comprehensive and durable assessment of the risks that takes both the legal and technical complexities into account. <br> In this talk, I present DPMF: a data protection modeling framework that allows for a comprehensive and accurate description of the data processing operations in terms of the key concepts used in the GDPR. The proposed modeling approach accommodates a number of legal reasonings and assessments that are commonly addressed in a DPIA exercise (e. g., the compatibility of purposes). The DPMF is supported in a prototype modeling tool and its practical applicability is validated in the context of a realistic eHealth system for a number of complementary development scenarios. |
+| **Slides** | [20201117-lsion-dpbd.pdf](slides/20201117-lsion-dpbd.pdf) |
+
 
 ### Compelled Decryption (by [Dr. Sofie Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310) and [Ward Yperman](https://www.law.kuleuven.be/strafrecht/english/LedenpaginasENGELS/wyENGELS.html))
 
