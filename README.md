@@ -17,6 +17,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 * 17th of December 2020: Cyber security from technological research to offensive (mis)appropriation (Erik Zouave)
 * 6th of January 2021: Surveillance Technology in Migration Management (Petra Molnar)
+* 19th of January 2021: Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (Brendan Van Alsenoy)
 * 9th of February 2021: Contact Tracing Apps (Bart Preneel)
 * 25th of February 2021: Bias Crash Test Dummies: On AI and ethics (not only) for cars (Bettina Berendt)
 * 4th of March 2021: Legal aspects autonomous driving (Charlotte Ducuing & Orian Dheu)
@@ -41,6 +42,15 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | Research on cyber technology is largely undertaken with the aim of increasing the security of systems, software, users, and society at large. At least that is the conclusion that might be drawn from research and research investments in the public domain. However, as a matter of law, regulators recognize that some types of technologies are inherently “dual use”. Moreover, many more cyber technologies than those explicitly regulated as “dual use” can become part and parcel of future “offensive” end-use and criminal misuse. Open AI’s cancelled release of the GPT-2 natural language model is arguably a case in point. While many researchers may be aware of an international “arms race” between states and criminal technological trade on “black markets”, insights of how security research fits into this development is more complex. This seminar aims to broaden researcher’s perspective of how cyber security technologies can have “offensive” end-uses and can be at risk of misuse. It further exemplifies formalized systems of development, dissemination and trade that may further “offensive” exploitation and sometimes result in misuse. Finally, the challenges to formulating effective legal responses to unwanted end uses of technology, such as through export controls, cybercrime law, data protection, and vulnerability equities or disclosure, is addressed. |
+
+### Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (by [Dr Brendan Van Alsenoy](https://be.linkedin.com/in/brendan-van-alsenoy-a400994))
+
+| **When** | Tuesday, 19 January 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | On 10 September 2020, the Commission published a Proposal for a Regulation on a temporary derogation from certain provisions of the ePrivacy Directive (2002/58) /EC as regards the use of technologies for the purpose of combatting child sexual abuse online by "number-independent interpersonal communications services". The measures envisaged by the Proposal would constitute an interference with the fundamental rights to respect for private life and data protection of all users of very popular electronic communications services, such as instant messaging platforms and applications. <br> This seminar will discuss the main considerations and recommendations provided by the EDPS in Opinion 7/2020 in relation to the Commission Proposal, including the safeguards that are necessary to ensure that the persons whose personal data is affected have sufficient guarantees that data will be effectively protected against the risk of abuse. <br> As the EDPS underlines in its Opinion, the issues at stake are not specific to the fight against child abuse but to any initiative aiming at collaboration of the private sector for law enforcement purposes. If adopted, the Proposal, will inevitably serve as a precedent for future legislation in this field.
+
 
 ## Previous Seminars, Slides & Recordings
 
