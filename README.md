@@ -15,12 +15,12 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* 17th of December 2020: Cyber security from technological research to offensive (mis)appropriation (Erik Zouave)
-* 6th of January 2021: Surveillance Technology in Migration Management (Petra Molnar)
-* 19th of January 2021: Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (Brendan Van Alsenoy)
-* 9th of February 2021: Contact Tracing Apps (Bart Preneel)
-* 25th of February 2021: Bias Crash Test Dummies: On AI and ethics (not only) for cars (Bettina Berendt)
-* 4th of March 2021: Legal aspects autonomous driving (Charlotte Ducuing & Orian Dheu)
+* Thursday, 17 December 2020: [Cyber security from technological research to offensive (mis)appropriation (by Erik Zouave)](https://cif-seminars.github.io/#cyber-security-from-technological-research-to-offensive-misappropriation-by-erik-zouave)
+* Wednesday, 6 January 2021: Surveillance Technology in Migration Management (by Dr. Petra Molnar)
+* Tuesday, 19 January 2021: [Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (by Dr Brendan Van Alsenoy)](https://cif-seminars.github.io/#recent-developments-concerning-confidentiality-of-communications-and-the-use-of-technology-to-combat-child-sexual-abuse-online-by-dr-brendan-van-alsenoy)
+* Tuesday, 9 February 2021: Contact Tracing Apps (Prof. Bart Preneel)
+* Thursday, 25 February 2021: Bias Crash Test Dummies: On AI and ethics (not only) for cars (Prof. Bettina Berendt)
+* Thursday, 4 March 2021: [Is the law getting outpaced by autonomous vehicles? (by Charlotte Ducuing and Orian Dheu)](https://cif-seminars.github.io/#is-the-law-getting-outpaced-by-autonomous-vehicles-by-charlotte-ducuing-and-orian-dheu)
 
 
 ## Next Seminar
