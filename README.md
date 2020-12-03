@@ -52,6 +52,15 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Abstract** | On 10 September 2020, the Commission published a Proposal for a Regulation on a temporary derogation from certain provisions of the ePrivacy Directive (2002/58) /EC as regards the use of technologies for the purpose of combatting child sexual abuse online by "number-independent interpersonal communications services". The measures envisaged by the Proposal would constitute an interference with the fundamental rights to respect for private life and data protection of all users of very popular electronic communications services, such as instant messaging platforms and applications. <br> This seminar will discuss the main considerations and recommendations provided by the EDPS in Opinion 7/2020 in relation to the Commission Proposal, including the safeguards that are necessary to ensure that the persons whose personal data is affected have sufficient guarantees that data will be effectively protected against the risk of abuse. <br> As the EDPS underlines in its Opinion, the issues at stake are not specific to the fight against child abuse but to any initiative aiming at collaboration of the private sector for law enforcement purposes. If adopted, the Proposal, will inevitably serve as a precedent for future legislation in this field.
 
 
+### Is the law getting outpaced by autonomous vehicles? (by [Charlotte Ducuing](https://www.law.kuleuven.be/citip/en/staff-members/staff/00118922) and [Orian Dheu](https://www.law.kuleuven.be/citip/en/staff-members/staff/00127682))
+
+| **When** | Thursday, 4 March 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | Building on their alleged societal benefits, autonomous vehicles have raised both high hopes and enthusiasm from various stakeholders. Though such complex vehicles are not yet roaming our roads, regulators and policymakers alike have started reflecting on the potential legal and regulatory effects these novel artefacts could have on existing frameworks. This presentation will look at the extent to which the ‘autonomization’ of  cars implies legal and regulatory disruption, more specifically through the lens of a potential shift towards a complex eco-system and the foreseen servitization of road mobility (for instance with MaaS-based business models). With respect to road vehicles, the law indeed plays a major role in ensuring that safety and security are maintained, through i.e. certification, technical regulations and liability. Do AVs disrupt the law in that respect? The following questions will particularly be discussed: First, can we ascertain who is liable in case of AV-caused accident? If so, is it fair for this(ese) person(s) to be held liable and is it in line with the aim to ensure safety and security? Second, do increasing dynamic cybersecurity threats and/or the dynamicity of ML models challenge design-based technical regulations of road vehicles? |
+
+
 ## Previous Seminars, Slides & Recordings
 
 <!-- ***Template***
