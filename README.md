@@ -1,6 +1,6 @@
 ## Welcome to the CIF Seminars
 
-<div id="wcb" class="carbonbadge"></div>
+<div id="wcb" class="carbonbadge wcb-d"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.1/b.min.js" defer></script>
 
 An monthly series of interdisciplinary seminars around legal and technical
