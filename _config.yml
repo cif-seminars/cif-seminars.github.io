@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 
-show_downloads: false
+show_downloads: true
 is_project_page: true
 
