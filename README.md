@@ -15,7 +15,6 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* Thursday, 17 December 2020: [Cyber security from technological research to offensive (mis)appropriation (by Erik Zouave)](https://cif-seminars.github.io/#cyber-security-from-technological-research-to-offensive-misappropriation-by-erik-zouave)
 * Wednesday, 6 January 2021: [Technological testing Grounds: Migration Management Experiments from the Ground Up (by Dr. Petra Molnar)](https://cif-seminars.github.io/#technological-testing-grounds-migration-management-experiments-from-the-ground-up-by-dr-petra-molnar)
 * Tuesday, 19 January 2021: [Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (by Dr Brendan Van Alsenoy)](https://cif-seminars.github.io/#recent-developments-concerning-confidentiality-of-communications-and-the-use-of-technology-to-combat-child-sexual-abuse-online-by-dr-brendan-van-alsenoy)
 * Tuesday, 9 February 2021: Contact Tracing Apps (Prof. Bart Preneel)
@@ -34,14 +33,6 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Conferencing** | []() |
 | **Abstract** | |
 -->
-
-### Cyber security from technological research to offensive (mis)appropriation (by [Erik Zouave](https://uk.linkedin.com/in/eriktristanzouave))
-
-| **When** | Thursday, 17 December 2020, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | Research on cyber technology is largely undertaken with the aim of increasing the security of systems, software, users, and society at large. At least that is the conclusion that might be drawn from research and research investments in the public domain. However, as a matter of law, regulators recognize that some types of technologies are inherently “dual use”. Moreover, many more cyber technologies than those explicitly regulated as “dual use” can become part and parcel of future “offensive” end-use and criminal misuse. Open AI’s cancelled release of the GPT-2 natural language model is arguably a case in point. While many researchers may be aware of an international “arms race” between states and criminal technological trade on “black markets”, insights of how security research fits into this development is more complex. This seminar aims to broaden researcher’s perspective of how cyber security technologies can have “offensive” end-uses and can be at risk of misuse. It further exemplifies formalized systems of development, dissemination and trade that may further “offensive” exploitation and sometimes result in misuse. Finally, the challenges to formulating effective legal responses to unwanted end uses of technology, such as through export controls, cybercrime law, data protection, and vulnerability equities or disclosure, is addressed. |
 
 ### Technological testing Grounds: Migration Management Experiments from the Ground Up (by [Dr. Petra Molnar](https://twitter.com/_pmolnar?lang=en))
 
@@ -88,6 +79,17 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Slides** | []() |
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
+
+### Cyber security from technological research to offensive (mis)appropriation (by [Erik Zouave](https://uk.linkedin.com/in/eriktristanzouave))
+
+| **When** | Thursday, 17 December 2020, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | Research on cyber technology is largely undertaken with the aim of increasing the security of systems, software, users, and society at large. At least that is the conclusion that might be drawn from research and research investments in the public domain. However, as a matter of law, regulators recognize that some types of technologies are inherently “dual use”. Moreover, many more cyber technologies than those explicitly regulated as “dual use” can become part and parcel of future “offensive” end-use and criminal misuse. Open AI’s cancelled release of the GPT-2 natural language model is arguably a case in point. While many researchers may be aware of an international “arms race” between states and criminal technological trade on “black markets”, insights of how security research fits into this development is more complex. This seminar aims to broaden researcher’s perspective of how cyber security technologies can have “offensive” end-uses and can be at risk of misuse. It further exemplifies formalized systems of development, dissemination and trade that may further “offensive” exploitation and sometimes result in misuse. Finally, the challenges to formulating effective legal responses to unwanted end uses of technology, such as through export controls, cybercrime law, data protection, and vulnerability equities or disclosure, is addressed. |
+| **Slides &** | [20201217-ezouave-offensive.pdf](slides/20201217-ezouave-offensive.pdf) |
+| **Recording** | [![Cyber security from technological research to offensive (mis)appropriation (Erik Zouave)](thumbs/20201217-1-small.png)](https://www.youtube.com/watch?v=tMeh4qZxnd0) [![Discussion](thumbs/20201217-2-small.png)](https://www.youtube.com/watch?v=NFwi0yqG6qs) |
+
 
 ### Privacy by Design (by [Dr. Laurens Sion](https://sion.info/))
 
