@@ -15,9 +15,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* Wednesday, 6 January 2021: [Technological testing Grounds: Migration Management Experiments from the Ground Up (by Dr. Petra Molnar)](https://cif-seminars.github.io/#technological-testing-grounds-migration-management-experiments-from-the-ground-up-by-dr-petra-molnar)
-* Tuesday, 19 January 2021: [Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (by Dr Brendan Van Alsenoy)](https://cif-seminars.github.io/#recent-developments-concerning-confidentiality-of-communications-and-the-use-of-technology-to-combat-child-sexual-abuse-online-by-dr-brendan-van-alsenoy)
-* Tuesday, 9 February 2021: Contact Tracing Apps (Prof. Bart Preneel)
+* Tuesday, 9 February 2021: [Proximity tracing with Coronalert: lessons learned (by Prof. Bart Preneel)]()
 * Thursday, 25 February 2021: [(De)constructing ethics for autonomous vehicles: What was the question again? (by Prof. Bettina Berendt)](https://cif-seminars.github.io/#deconstructing-ethics-for-autonomous-vehicles-what-was-the-question-again-by-prof-bettina-berendt)
 * Thursday, 4 March 2021: [Is the law getting outpaced by autonomous vehicles? (by Charlotte Ducuing and Orian Dheu)](https://cif-seminars.github.io/#is-the-law-getting-outpaced-by-autonomous-vehicles-by-charlotte-ducuing-and-orian-dheu)
 
@@ -34,21 +32,13 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Abstract** | |
 -->
 
-### Technological testing Grounds: Migration Management Experiments from the Ground Up (by [Dr. Petra Molnar](https://twitter.com/_pmolnar?lang=en))
+### Proximity tracing with Coronalert: lessons learned (by [Prof. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/))
 
-| **When** | Wednesday, 6 January 2021, 12:30 - 13:30 |
+| **When** | Tuesday, 09 February 2021, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | Technology is increasingly being used at the border. From drones to Big Data to algorithms, countries are turning to novel techniques to ‘manage’ migration. However, often these technological experiments do not consider the profound human rights ramifications and real impacts on human lives. Join us for a discussion of a new report, [Technological Testing Grounds](https://edri.org/wp-content/uploads/2020/11/Technological-Testing-Grounds.pdf) on interviews with refugees and people on the move and highlighting the panopticon of increasing surveillance and automation at the border. |
-
-### Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (by [Dr Brendan Van Alsenoy](https://be.linkedin.com/in/brendan-van-alsenoy-a400994))
-
-| **When** | Tuesday, 19 January 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | On 10 September 2020, the Commission published a Proposal for a Regulation on a temporary derogation from certain provisions of the ePrivacy Directive (2002/58) /EC as regards the use of technologies for the purpose of combatting child sexual abuse online by "number-independent interpersonal communications services". The measures envisaged by the Proposal would constitute an interference with the fundamental rights to respect for private life and data protection of all users of very popular electronic communications services, such as instant messaging platforms and applications. <br> This seminar will discuss the main considerations and recommendations provided by the EDPS in Opinion 7/2020 in relation to the Commission Proposal, including the safeguards that are necessary to ensure that the persons whose personal data is affected have sufficient guarantees that data will be effectively protected against the risk of abuse. <br> As the EDPS underlines in its Opinion, the issues at stake are not specific to the fight against child abuse but to any initiative aiming at collaboration of the private sector for law enforcement purposes. If adopted, the Proposal, will inevitably serve as a precedent for future legislation in this field. |
+| **Abstract** | The corona pandemic is the first major pandemic in times of big data, AI and smart devices. Some nations have deployed these technologies a large scale to support a trace/quarantine/test/isolate strategy in order to contain a pandemic. However, serious concerns have been raised w.r.t. the privacy implications of some solutions, which makes them incompatible with privacy and human rights that are protected by EU law. This talk focuses on the proximity tracing solution developed by the DP-3T (Distributed Privacy-Preserving Proximity Tracing) consortium. This app has been rolled out in more than 40 countries and states, with support of Google and Apple. We will provide some details on the experience with the Coronalert app in Belgium that is connected to the European Federated Gateway Service, which at this moment has 11 EU countries and more than 40 million users. The talk will discuss the lessons learned from this large-scale deployment in which the principles of privacy-by-design and data minimization have played a central role. |
 
 ### (De)constructing ethics for autonomous vehicles: What was the question again? (by [Prof. Bettina Berendt](https://people.cs.kuleuven.be/~bettina.berendt/))
 
@@ -79,6 +69,19 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Slides** | []() |
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
+
+### Technological testing Grounds: Migration Management Experiments from the Ground Up (by [Dr. Petra Molnar](https://twitter.com/_pmolnar?lang=en))
+
+| **When** | Wednesday, 6 January 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Technology is increasingly being used at the border. From drones to Big Data to algorithms, countries are turning to novel techniques to ‘manage’ migration. However, often these technological experiments do not consider the profound human rights ramifications and real impacts on human lives. Join us for a discussion of a new report, [Technological Testing Grounds](https://edri.org/wp-content/uploads/2020/11/Technological-Testing-Grounds.pdf) on interviews with refugees and people on the move and highlighting the panopticon of increasing surveillance and automation at the border. |
+
+### Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (by [Dr Brendan Van Alsenoy](https://be.linkedin.com/in/brendan-van-alsenoy-a400994))
+
+| **When** | Tuesday, 19 January 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | On 10 September 2020, the Commission published a Proposal for a Regulation on a temporary derogation from certain provisions of the ePrivacy Directive (2002/58) /EC as regards the use of technologies for the purpose of combatting child sexual abuse online by "number-independent interpersonal communications services". The measures envisaged by the Proposal would constitute an interference with the fundamental rights to respect for private life and data protection of all users of very popular electronic communications services, such as instant messaging platforms and applications. <br> This seminar will discuss the main considerations and recommendations provided by the EDPS in Opinion 7/2020 in relation to the Commission Proposal, including the safeguards that are necessary to ensure that the persons whose personal data is affected have sufficient guarantees that data will be effectively protected against the risk of abuse. <br> As the EDPS underlines in its Opinion, the issues at stake are not specific to the fight against child abuse but to any initiative aiming at collaboration of the private sector for law enforcement purposes. If adopted, the Proposal, will inevitably serve as a precedent for future legislation in this field. |
+
 
 ### Cyber security from technological research to offensive (mis)appropriation (by [Erik Zouave](https://uk.linkedin.com/in/eriktristanzouave))
 
