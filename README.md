@@ -83,7 +83,8 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **When** | Wednesday, 6 January 2021, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | Technology is increasingly being used at the border. From drones to Big Data to algorithms, countries are turning to novel techniques to ‘manage’ migration. However, often these technological experiments do not consider the profound human rights ramifications and real impacts on human lives. Join us for a discussion of a new report, [Technological Testing Grounds](https://edri.org/wp-content/uploads/2020/11/Technological-Testing-Grounds.pdf) on interviews with refugees and people on the move and highlighting the panopticon of increasing surveillance and automation at the border. |
-| **Slides** | [20210106-pmolnar-migration.pdf](slides/20210106-pmolnar-migration.pdf) |
+| **Slides &** | [20210106-pmolnar-migration.pdf](slides/20210106-pmolnar-migration.pdf) |
+| **Recording** | [![Technological testing Grounds: Migration Management Experiments from the Ground Up (by Dr. Petra Molnar)](thumbs/20210106-1-small.png)](https://www.youtube.com/watch?v=TcYEqXjZg-Q) [![Discussion](thumbs/20210106-2-small.png)](https://www.youtube.com/watch?v=f4WdzVVdG0A) |
 
 
 ### Cyber security from technological research to offensive (mis)appropriation (by [Erik Zouave](https://uk.linkedin.com/in/eriktristanzouave))
