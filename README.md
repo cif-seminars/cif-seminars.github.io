@@ -1,4 +1,4 @@
-## Welcome to the CIF Seminars
+## CIF Seminars @ KU Leuven
 
 An monthly series of interdisciplinary seminars around legal and technical
 topics related to cybersecurity and online privacy, organised by the
