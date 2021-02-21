@@ -15,7 +15,6 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* Tuesday, 9 February 2021: [Proximity tracing with Coronalert: lessons learned (by Prof. Bart Preneel)](https://cif-seminars.github.io/#proximity-tracing-with-coronalert-lessons-learned-by-prof-bart-preneel)
 * Thursday, 25 February 2021: [(De)constructing ethics for autonomous vehicles: What was the question again? (by Prof. Bettina Berendt)](https://cif-seminars.github.io/#deconstructing-ethics-for-autonomous-vehicles-what-was-the-question-again-by-prof-bettina-berendt)
 * Thursday, 4 March 2021: [Is the law getting outpaced by autonomous vehicles? (by Charlotte Ducuing and Orian Dheu)](https://cif-seminars.github.io/#is-the-law-getting-outpaced-by-autonomous-vehicles-by-charlotte-ducuing-and-orian-dheu)
 
@@ -31,14 +30,6 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Conferencing** | []() |
 | **Abstract** | |
 -->
-
-### Proximity tracing with Coronalert: lessons learned (by [Prof. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/))
-
-| **When** | Tuesday, 09 February 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | The corona pandemic is the first major pandemic in times of big data, AI and smart devices. Some nations have deployed these technologies a large scale to support a trace/quarantine/test/isolate strategy in order to contain a pandemic. However, serious concerns have been raised w.r.t. the privacy implications of some solutions, which makes them incompatible with privacy and human rights that are protected by EU law. This talk focuses on the proximity tracing solution developed by the DP-3T (Distributed Privacy-Preserving Proximity Tracing) consortium. This app has been rolled out in more than 40 countries and states, with support of Google and Apple. We will provide some details on the experience with the Coronalert app in Belgium that is connected to the European Federated Gateway Service, which at this moment has 11 EU countries and more than 40 million users. The talk will discuss the lessons learned from this large-scale deployment in which the principles of privacy-by-design and data minimization have played a central role. |
 
 ### (De)constructing ethics for autonomous vehicles: What was the question again? (by [Prof. Bettina Berendt](https://people.cs.kuleuven.be/~bettina.berendt/))
 
@@ -69,6 +60,14 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Slides** | []() |
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
+
+### Proximity tracing with Coronalert: lessons learned (by [Prof. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/))
+
+| **When** | Tuesday, 09 February 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | The corona pandemic is the first major pandemic in times of big data, AI and smart devices. Some nations have deployed these technologies a large scale to support a trace/quarantine/test/isolate strategy in order to contain a pandemic. However, serious concerns have been raised w.r.t. the privacy implications of some solutions, which makes them incompatible with privacy and human rights that are protected by EU law. This talk focuses on the proximity tracing solution developed by the DP-3T (Distributed Privacy-Preserving Proximity Tracing) consortium. This app has been rolled out in more than 40 countries and states, with support of Google and Apple. We will provide some details on the experience with the Coronalert app in Belgium that is connected to the European Federated Gateway Service, which at this moment has 11 EU countries and more than 40 million users. The talk will discuss the lessons learned from this large-scale deployment in which the principles of privacy-by-design and data minimization have played a central role. |
+| **Recording** | [![Proximity tracing with Coronalert: lessons learned (Prof. Bart Preneel)](thumbs/20210209-1-small.png)](https://www.youtube.com/watch?v=jhBF5dZFHjg) [![Discussion](thumbs/20210209-2-small.png)](https://www.youtube.com/watch?v=00R5i8hPKNw) |
+
 
 ### Recent developments concerning confidentiality of communications and the use of technology to combat child sexual abuse online (by [Dr Brendan Van Alsenoy](https://be.linkedin.com/in/brendan-van-alsenoy-a400994))
 
