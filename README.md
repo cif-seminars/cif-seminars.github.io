@@ -15,7 +15,6 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* Thursday, 25 February 2021: [(De)constructing ethics for autonomous vehicles: What was the question again? (by Prof. Bettina Berendt)](https://cif-seminars.github.io/#deconstructing-ethics-for-autonomous-vehicles-what-was-the-question-again-by-prof-bettina-berendt)
 * Thursday, 4 March 2021: [Is the law getting outpaced by autonomous vehicles? (by Charlotte Ducuing and Orian Dheu)](https://cif-seminars.github.io/#is-the-law-getting-outpaced-by-autonomous-vehicles-by-charlotte-ducuing-and-orian-dheu)
 
 
@@ -30,14 +29,6 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Conferencing** | []() |
 | **Abstract** | |
 -->
-
-### (De)constructing ethics for autonomous vehicles: What was the question again? (by [Prof. Bettina Berendt](https://people.cs.kuleuven.be/~bettina.berendt/))
-
-| **When** | Thursday, 25 February 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | Autonomous vehicles (AV) have become one of the favourite examples of “AI ethics” debates. They appear to present an excellent real-life application of the [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem), a well-known thought experiment in philosophical ethics, and thereby facilitate meaningful debates on machine ethics. In this talk, I want to challenge these assumptions and report on alternatives tried in various settings involving computer scientists and others interested in AI ethics (teaching and workshops). The goal is to engage engineers in reflecting on their work, and ultimately to help them transform these reflections into creating different systems-with-AI. <br> I will briefly describe the simple (but wide-spread) idea that the AV should “decide whom to sacrifice in an accident dilemma situation”, argue why it is misleading, but also illustrate how the topic can be used differently towards more productive AI-ethics discussions. Among other things, productive discussions should question what the question (regarding autonomous cars or other issues) is. I will describe adversarial and deconstructive methods for opening AI-ethics discussions, show example results of applying them to AV problems, highlight the role of domain knowledge (including multi-disciplinary aspects such as legal questions), and close with many open questions – which I look forward to investigating together with you! |
 
 
 ### Is the law getting outpaced by autonomous vehicles? (by [Charlotte Ducuing](https://www.law.kuleuven.be/citip/en/staff-members/staff/00118922) and [Orian Dheu](https://www.law.kuleuven.be/citip/en/staff-members/staff/00127682))
@@ -60,6 +51,14 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Slides** | []() |
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
+
+### (De)constructing ethics for autonomous vehicles: What was the question again? (by [Prof. Bettina Berendt](https://people.cs.kuleuven.be/~bettina.berendt/))
+
+| **When** | Thursday, 25 February 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Autonomous vehicles (AV) have become one of the favourite examples of “AI ethics” debates. They appear to present an excellent real-life application of the [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem), a well-known thought experiment in philosophical ethics, and thereby facilitate meaningful debates on machine ethics. In this talk, I want to challenge these assumptions and report on alternatives tried in various settings involving computer scientists and others interested in AI ethics (teaching and workshops). The goal is to engage engineers in reflecting on their work, and ultimately to help them transform these reflections into creating different systems-with-AI. <br> I will briefly describe the simple (but wide-spread) idea that the AV should “decide whom to sacrifice in an accident dilemma situation”, argue why it is misleading, but also illustrate how the topic can be used differently towards more productive AI-ethics discussions. Among other things, productive discussions should question what the question (regarding autonomous cars or other issues) is. I will describe adversarial and deconstructive methods for opening AI-ethics discussions, show example results of applying them to AV problems, highlight the role of domain knowledge (including multi-disciplinary aspects such as legal questions), and close with many open questions – which I look forward to investigating together with you! |
+| **Slides** | [20210225-bberendt-autonomous.pdf](slides/20210225-bberendt-autonomous.pdf) |
+
 
 ### Proximity tracing with Coronalert: lessons learned (by [Prof. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/))
 
