@@ -15,7 +15,8 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* Thursday, 4 March 2021: [Is the law getting outpaced by autonomous vehicles? (by Charlotte Ducuing and Orian Dheu)](https://cif-seminars.github.io/#is-the-law-getting-outpaced-by-autonomous-vehicles-by-charlotte-ducuing-and-orian-dheu)
+Oh no! We might be out of talks? No, not really. Upcoming seminars will be
+anounced soon.
 
 
 ## Next Seminar
@@ -31,14 +32,6 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 -->
 
 
-### Is the law getting outpaced by autonomous vehicles? (by [Charlotte Ducuing](https://www.law.kuleuven.be/citip/en/staff-members/staff/00118922) and [Orian Dheu](https://www.law.kuleuven.be/citip/en/staff-members/staff/00127682))
-
-| **When** | Thursday, 4 March 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | Building on their alleged societal benefits, autonomous vehicles have raised both high hopes and enthusiasm from various stakeholders. Though such complex vehicles are not yet roaming our roads, regulators and policymakers alike have started reflecting on the potential legal and regulatory effects these novel artefacts could have on existing frameworks. This presentation will look at the extent to which the ‘autonomization’ of  cars implies legal and regulatory disruption, more specifically through the lens of a potential shift towards a complex eco-system and the foreseen servitization of road mobility (for instance with MaaS-based business models). With respect to road vehicles, the law indeed plays a major role in ensuring that safety and security are maintained, through i.e. certification, technical regulations and liability. Do AVs disrupt the law in that respect? The following questions will particularly be discussed: First, can we ascertain who is liable in case of AV-caused accident? If so, is it fair for this(ese) person(s) to be held liable and is it in line with the aim to ensure safety and security? Second, do increasing dynamic cybersecurity threats and/or the dynamicity of ML models challenge design-based technical regulations of road vehicles? |
-
 
 ## Previous Seminars, Slides & Recordings
 
@@ -51,6 +44,14 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 | **Slides** | []() |
 | **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
 -->
+
+### Is the law getting outpaced by autonomous vehicles? (by [Charlotte Ducuing](https://www.law.kuleuven.be/citip/en/staff-members/staff/00118922) and [Orian Dheu](https://www.law.kuleuven.be/citip/en/staff-members/staff/00127682))
+
+| **When** | Thursday, 4 March 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Building on their alleged societal benefits, autonomous vehicles have raised both high hopes and enthusiasm from various stakeholders. Though such complex vehicles are not yet roaming our roads, regulators and policymakers alike have started reflecting on the potential legal and regulatory effects these novel artefacts could have on existing frameworks. This presentation will look at the extent to which the ‘autonomization’ of  cars implies legal and regulatory disruption, more specifically through the lens of a potential shift towards a complex eco-system and the foreseen servitization of road mobility (for instance with MaaS-based business models). With respect to road vehicles, the law indeed plays a major role in ensuring that safety and security are maintained, through i.e. certification, technical regulations and liability. Do AVs disrupt the law in that respect? The following questions will particularly be discussed: First, can we ascertain who is liable in case of AV-caused accident? If so, is it fair for this(ese) person(s) to be held liable and is it in line with the aim to ensure safety and security? Second, do increasing dynamic cybersecurity threats and/or the dynamicity of ML models challenge design-based technical regulations of road vehicles? |
+| **Slides** | [20210304-ducuingdheu-outpaced.pdf](slides/20210304-ducuingdheu-outpaced.pdf) |
+
 
 ### (De)constructing ethics for autonomous vehicles: What was the question again? (by [Prof. Bettina Berendt](https://people.cs.kuleuven.be/~bettina.berendt/))
 
