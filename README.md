@@ -15,8 +15,12 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
+* [Tuesday, 06 April 2021: Circumvention of tracking protections by means of first-party tracking (by Yana Dimova)](https://cif-seminars.github.io/#circumvention-of-tracking-protections-by-means-of-first-party-tracking-by-yana-dimova)
+
+<!--
 Oh no! We might be out of talks? No, not really. Upcoming seminars will be
 anounced soon.
+-->
 
 
 ## Next Seminar
