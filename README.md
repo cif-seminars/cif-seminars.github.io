@@ -31,6 +31,13 @@ anounced soon.
 | **Abstract** | |
 -->
 
+### Circumvention of tracking protections by means of first-party tracking (by [Yana Dimova](https://distrinet.cs.kuleuven.be/people/YanaDimova))
+
+| **When** | Tuesday, 06 April 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | When browsing the web, users are continuously exposed to ads. Online trackers place cookies in the user's browser, which are then sent to them on each webpage visit. This practice allows them to build an overview of the browsing behavior and interests of the user in order to provide more relevant ads. These privacy concerns have been met with regulatory frameworks such as GDPR, but also with tools that aim to protect users' privacy such as adblockers and tracking protection features from browsers. As a reaction, trackers are exploring new techniques to circumvent existing privacy-protecting tools. Our work investigates one of those techniques, called CNAME-based tracking. In this scenario, the tracking script is executed on a subdomain of the website, therefore bypassing tracker blocking tools, which mostly rely on a list of known third-party tracking domains. Furthermore, our study shows that, while the popularity of this technique is increasing, it introduces certain threats for users. Personal data of users that is meant to be exclusively shared with the website, is leaking to the trackers. Furthermore, the use of CNAME-based tracking introduces vulnerabilities affecting thousands of websites and their users. |
 
 
 ## Previous Seminars, Slides & Recordings
