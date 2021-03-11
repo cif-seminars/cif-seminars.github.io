@@ -53,7 +53,7 @@ anounced soon.
 | --- | --- |
 | **Abstract** | |
 | **Slides** | []() |
-| **Recording** | [![title (speaker)](https://img.youtube.com/vi/VIDEO/0.jpg)](https://www.youtube.com/watch?v=VIDEO) |
+| **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
 
 ### Is the law getting outpaced by autonomous vehicles? (by [Charlotte Ducuing](https://www.law.kuleuven.be/citip/en/staff-members/staff/00118922) and [Orian Dheu](https://www.law.kuleuven.be/citip/en/staff-members/staff/00127682))
@@ -61,7 +61,8 @@ anounced soon.
 | **When** | Thursday, 4 March 2021, 12:30 - 13:30 |
 | --- | --- |
 | **Abstract** | Building on their alleged societal benefits, autonomous vehicles have raised both high hopes and enthusiasm from various stakeholders. Though such complex vehicles are not yet roaming our roads, regulators and policymakers alike have started reflecting on the potential legal and regulatory effects these novel artefacts could have on existing frameworks. This presentation will look at the extent to which the ‘autonomization’ of  cars implies legal and regulatory disruption, more specifically through the lens of a potential shift towards a complex eco-system and the foreseen servitization of road mobility (for instance with MaaS-based business models). With respect to road vehicles, the law indeed plays a major role in ensuring that safety and security are maintained, through i.e. certification, technical regulations and liability. Do AVs disrupt the law in that respect? The following questions will particularly be discussed: First, can we ascertain who is liable in case of AV-caused accident? If so, is it fair for this(ese) person(s) to be held liable and is it in line with the aim to ensure safety and security? Second, do increasing dynamic cybersecurity threats and/or the dynamicity of ML models challenge design-based technical regulations of road vehicles? |
-| **Slides** | [20210304-ducuingdheu-outpaced.pdf](slides/20210304-ducuingdheu-outpaced.pdf) |
+| **Slides &** | [20210304-ducuingdheu-outpaced.pdf](slides/20210304-ducuingdheu-outpaced.pdf) |
+| **Recording** | [![Is the law getting outpaced by autonomous vehicles? (by Charlotte Ducuing and Orian Dheu)](thumbs/20210304-1-small.png)](https://www.youtube.com/watch?v=WNm7F1CtmdA) [![Discussion](thumbs/20210304-2-small.png)](https://www.youtube.com/watch?v=vCIUxd4msuw) |
 
 
 ### (De)constructing ethics for autonomous vehicles: What was the question again? (by [Prof. Bettina Berendt](https://people.cs.kuleuven.be/~bettina.berendt/))
