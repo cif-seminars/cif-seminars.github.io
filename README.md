@@ -1,6 +1,6 @@
 ## CIF Seminars @ KU Leuven
 
-An monthly series of interdisciplinary seminars around legal and technical
+A monthly series of interdisciplinary seminars around legal and technical
 topics related to cybersecurity and online privacy, organised by the
 [CiTiP](https://www.law.kuleuven.be/citip/en/),
 [COSIC](https://www.esat.kuleuven.be/cosic/), and
