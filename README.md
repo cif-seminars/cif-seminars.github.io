@@ -16,6 +16,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 * [Tuesday, 06 April 2021: Circumvention of tracking protections by means of first-party tracking (by Yana Dimova)](https://cif-seminars.github.io/#circumvention-of-tracking-protections-by-means-of-first-party-tracking-by-yana-dimova)
+* Tuesday, 22 June 2021: Accountable software vulnerability handling: between responsible state behavior and just intelligence norms (by Stefano Fantin)
 
 <!--
 Oh no! We might be out of talks? No, not really. Upcoming seminars will be
