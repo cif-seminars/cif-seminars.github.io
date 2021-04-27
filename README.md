@@ -16,7 +16,8 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 * Thursday, 06 May 2021: [Web tracking, consent pop-ups and dark patterns:
-  Legal and technical perspectives (by Nataliia Bielova and Cristiana
+  Legal and technical perspectives (by Prof. Nataliia Bielova and Prof.
+Cristiana
 Santos)](https://cif-seminars.github.io/#web-tracking-consent-pop-ups-and-dark-patterns-legal-and-technical-perspectives-by-nataliia-bielova-and-cristiana-santos)
 * Tuesday, 22 June 2021: Accountable software vulnerability handling:
   between responsible state behavior and just intelligence norms (by
@@ -40,7 +41,7 @@ anounced soon.
 | **Abstract** | |
 -->
 
-### Web tracking, consent pop-ups and dark patterns: Legal and technical perspectives (by [Nataliia Bielova](https://twitter.com/nataliabielova) and [Cristiana Santos](https://twitter.com/cristianapt))
+### Web tracking, consent pop-ups and dark patterns: Legal and technical perspectives (by [Prof. Nataliia Bielova](https://twitter.com/nataliabielova) and [Prof. Cristiana Santos](https://twitter.com/cristianapt))
 
 | **When** | Thursday, 06 May 2021, 12:30 - 13:30 |
 | --- | --- |
