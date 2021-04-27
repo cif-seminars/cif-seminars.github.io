@@ -28,13 +28,13 @@ Santos)](https://cif-seminars.github.io/#web-tracking-consent-pop-ups-and-dark-p
   between responsible state behavior and just intelligence norms (by
 Stefano Fantin)
 
+
+## Next Seminar
+
 <!--
 Oh no! We might be out of talks? No, not really. Upcoming seminars will be
 anounced soon.
 -->
-
-
-## Next Seminar
 
 <!-- ***Template***
 ### Title (by []())
@@ -52,7 +52,7 @@ anounced soon.
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | As millions of users browse the Web on a daily basis, they become producers of data that are continuously collected by numerous companies and agencies. Website owners, however, need to become compliant with recent EU privacy regulations (such as GDPR and ePrivacy) and often rely on consent pop-ups to either inform users or collect their consent to tracking. <br> This talk delves into the subject of compliance of tracking technologies and consent pop-ups with the GDPR and ePrivacy Directive, and offers a multi-disciplinary discourse from legal, technical and even design perspective. We present our recent works on detection of Web tracking, compliance of consent pop-ups, and identification of gaps between law, design and technology when dark patterns are used in consent pop-ups. <br> This talk covers our recent publication in computer science, law and human-computer interaction domains: ["Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners."](https://arxiv.org/abs/1912.07144) (Int. J. on Technology and Regulation, 2020), ["Missed by Filter Lists: Detecting Unknown Third-Party Trackers with Invisible Pixels"](https://arxiv.org/abs/1812.01514) (PoPETS 2020), and ["Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework"](https://arxiv.org/abs/1911.09964v1) (IEEE S&P 2020). |
+| **Abstract** | As millions of users browse the Web on a daily basis, they become producers of data that are continuously collected by numerous companies and agencies. Website owners, however, need to become compliant with recent EU privacy regulations (such as GDPR and ePrivacy) and often rely on consent pop-ups to either inform users or collect their consent to tracking. <br> This talk delves into the subject of compliance of tracking technologies and consent pop-ups with the GDPR and ePrivacy Directive, and offers a multi-disciplinary discourse from legal, technical and even design perspective. We present our recent works on detection of Web tracking, compliance of consent pop-ups, and identification of gaps between law, design and technology when dark patterns are used in consent pop-ups. <br> This talk covers our recent publication in computer science, law and human-computer interaction domains: ["Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners."](https://arxiv.org/abs/1912.07144) (Int. J. on Technology and Regulation, 2020), ["Missed by Filter Lists: Detecting Unknown Third-Party Trackers with Invisible Pixels"](https://arxiv.org/abs/1812.01514) (PoPETS 2020), ["Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework"](https://arxiv.org/abs/1911.09964v1) (IEEE S&P 2020), ["Purposes in IAB Europe’s TCF: which legal basis and how are they used by advertisers?"](https://doi.org/10.1007/978-3-030-55196-4_10) (APF 2020), and ["Dark Patterns and the Legal Requirements ofConsent Banners: An Interaction Criticism Perspective"](https://arxiv.org/abs/2009.10194) (ACM CHI 2021). |
 
 
 ## Previous Seminars, Slides & Recordings
