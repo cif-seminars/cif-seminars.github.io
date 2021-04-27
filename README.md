@@ -1,19 +1,24 @@
-## CIF Seminars @ KU Leuven // [#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL)
+## CIF Seminars @ KU Leuven
 
 A monthly series of interdisciplinary seminars around legal and technical
 topics related to cybersecurity and online privacy, organised by the
 [CiTiP](https://www.law.kuleuven.be/citip/en/),
 [COSIC](https://www.esat.kuleuven.be/cosic/), and
 [DistriNET](https://distrinet.cs.kuleuven.be/) research groups of [KU
-Leuven](https://www.kuleuven.be/). A playlist with all the recorded
-sessions is available on [YouTube](https://www.youtube.com/playlist?list=PLiHaXFHjrqYcMjR1bIKIpnJdA_3EFJoCR), presentation slides are available below.
-All dates and times are in Brussels, Belgium time zone, CET/CEST.
+Leuven](https://www.kuleuven.be/). Subscribe to our [mailing
+list](https://cif-seminars.github.io/#contact--mailing-list) or follow us
+on Twitter
+[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL) for talk
+announcements.  A playlist with all the recorded sessions is available on
+[YouTube](https://www.youtube.com/playlist?list=PLiHaXFHjrqYcMjR1bIKIpnJdA_3EFJoCR),
+presentation slides are available below.  All dates and times are in
+Brussels, Belgium time zone, CET/CEST. 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
 
-## Upcoming Seminars // [#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL)
+## Upcoming Seminars
 
 * Thursday, 06 May 2021: [Web tracking, consent pop-ups and dark patterns:
   Legal and technical perspectives (by Prof. Nataliia Bielova and Prof.
