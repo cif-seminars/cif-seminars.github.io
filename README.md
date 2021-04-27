@@ -1,4 +1,4 @@
-## CIF Seminars @ KU Leuven
+## CIF Seminars @ KU Leuven // [#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL)
 
 A monthly series of interdisciplinary seminars around legal and technical
 topics related to cybersecurity and online privacy, organised by the
@@ -13,7 +13,7 @@ All dates and times are in Brussels, Belgium time zone, CET/CEST.
 {:toc}
 
 
-## Upcoming Seminars
+## Upcoming Seminars // [#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL)
 
 * Thursday, 06 May 2021: [Web tracking, consent pop-ups and dark patterns:
   Legal and technical perspectives (by Prof. Nataliia Bielova and Prof.
@@ -233,9 +233,10 @@ anounced soon.
 
 ## Contact & Mailing List
 
-Talk announcements are published on this website and on the CIF-Seminars
-mailinglist. Email [CiTiP Admin](mailto:law.citip.admin@kuleuven.be) to
-subscribe.
+Talk announcements are published on this website, on Twitter under
+[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL) and on
+the CIF-Seminars mailinglist. Email [CiTiP
+Admin](mailto:law.citip.admin@kuleuven.be) to subscribe.
 
 The series is organised by [Jan Tobias
 Muehlberg](https://distrinet.cs.kuleuven.be/people/muehlber) (DistriNet),
