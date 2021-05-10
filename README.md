@@ -20,9 +20,9 @@ Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* Tuesday, 22 June 2021: Accountable software vulnerability handling:
+* Tuesday, 22 June 2021: [Accountable software vulnerability handling:
   between responsible state behavior and just intelligence norms (by
-Stefano Fantin)
+Stefano Fantin)]()
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
 
 
@@ -42,6 +42,15 @@ anounced soon.
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | |
 -->
+
+### Accountable software vulnerability handling: between responsible state behavior and just intelligence norms (by [Stefano Fantin](https://twitter.com/s_van_teen))
+
+| **When** | Tuesday, 22 June 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | |
+
 
 ### "Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by [Ivo Emanuilov](https://twitter.com/IvoEmanuilov))
 
