@@ -23,7 +23,7 @@ Brussels, Belgium time zone, CET/CEST.
 * Tuesday, 22 June 2021: Accountable software vulnerability handling:
   between responsible state behavior and just intelligence norms (by
 Stefano Fantin)
-* Tuesday, 21 September 2021: 
+* Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
 
 
 ## Next Seminar
