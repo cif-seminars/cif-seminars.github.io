@@ -20,13 +20,10 @@ Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
-* Thursday, 06 May 2021: [Web tracking, consent pop-ups and dark patterns:
-  Legal and technical perspectives (by Prof. Nataliia Bielova and Prof.
-Cristiana
-Santos)](https://cif-seminars.github.io/#web-tracking-consent-pop-ups-and-dark-patterns-legal-and-technical-perspectives-by-nataliia-bielova-and-cristiana-santos)
 * Tuesday, 22 June 2021: Accountable software vulnerability handling:
   between responsible state behavior and just intelligence norms (by
 Stefano Fantin)
+* Tuesday, 21 September 2021: 
 
 
 ## Next Seminar
@@ -46,13 +43,13 @@ anounced soon.
 | **Abstract** | |
 -->
 
-### Web tracking, consent pop-ups and dark patterns: Legal and technical perspectives (by [Prof. Nataliia Bielova](https://twitter.com/nataliabielova) and [Prof. Cristiana Santos](https://twitter.com/cristianapt))
+### "Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by [Ivo Emanuilov](https://twitter.com/IvoEmanuilov))
 
-| **When** | Thursday, 06 May 2021, 12:30 - 13:30 |
+| **When** | Tuesday, 21 September 2021, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | As millions of users browse the Web on a daily basis, they become producers of data that are continuously collected by numerous companies and agencies. Website owners, however, need to become compliant with recent EU privacy regulations (such as GDPR and ePrivacy) and often rely on consent pop-ups to either inform users or collect their consent to tracking. <br> This talk delves into the subject of compliance of tracking technologies and consent pop-ups with the GDPR and ePrivacy Directive, and offers a multi-disciplinary discourse from legal, technical and even design perspective. We present our recent works on detection of Web tracking, compliance of consent pop-ups, and identification of gaps between law, design and technology when dark patterns are used in consent pop-ups. <br> This talk covers our recent publication in computer science, law and human-computer interaction domains: ["Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners."](https://arxiv.org/abs/1912.07144) (Int. J. on Technology and Regulation, 2020), ["Missed by Filter Lists: Detecting Unknown Third-Party Trackers with Invisible Pixels"](https://arxiv.org/abs/1812.01514) (PoPETS 2020), ["Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework"](https://arxiv.org/abs/1911.09964v1) (IEEE S&P 2020), ["Purposes in IAB Europe’s TCF: which legal basis and how are they used by advertisers?"](https://doi.org/10.1007/978-3-030-55196-4_10) (APF 2020), and ["Dark Patterns and the Legal Requirements ofConsent Banners: An Interaction Criticism Perspective"](https://arxiv.org/abs/2009.10194) (ACM CHI 2021). |
+| **Abstract** | In April 2021, the maintainer of the Linux stable kernel branch, Greg Kroah-Hartman, asked the kernel community to cease accepting patches from the University of Minnesota (UMN) and launched a revision of all previously accepted submissions. The events that led to this strong community reaction start with a paper submitted by a research team at UMN for publication under the title "Hypocrite Commits". The paper is the result of a research project initiated in 2020 which concerned the intentional submission of patches that introduce flaws into the kernel. Indeed, after a reportedly silent period of about seven months, the research team behind this project began to submit patches of notoriously poor quality that were quickly caught by the community. Believing this was an attempted imposture, the community halted acceptance of further UMN contributions to the kernel, prompting immediate re-review of all prior submissions. On 5 May 2021, the Linux Foundation's Technical Advisory Board published a "Report on University of Minnesota Breach-of-Trust Incident" where details of the affair were disclosed and suggestions on how the community can move forward were made, aiming to overcome the conflict. <br> This talk aims to explore the legal and ethical limits to cybersecurity research through the prism of this recent case and, more generally, open source software projects. Cybersecurity resarch is notorious for its (somewhat undertheorised) ethical issues, such as ethical hacking, responsible vulnerability disclosure, and encryption export controls. Community-driven free and open source software projects are an easy target for dishonest practices. When the concerned project is of the scale and importance of the Linux kernel, however, the question arises whether researchers embarking on such ethically questionable practices also expose themselves to potential legal liability, beyond the curt reprimand delivered by the community anyway. The Linux kernel is often considered the most important open source project in the world; it is vital for the operation of a growing number of safety-critical devices and systems, incl. space exploration missions such as the Perseverance rover. Some may see this as pushing the envelope of this case, yet we cannot but ask whether there are limits to 'hypocrisy' in research when life and limb may be at stake. |
 
 
 ## Previous Seminars, Slides & Recordings
@@ -66,6 +63,13 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+### Web tracking, consent pop-ups and dark patterns: Legal and technical perspectives (by [Prof. Nataliia Bielova](https://twitter.com/nataliabielova) and [Prof. Cristiana Santos](https://twitter.com/cristianapt))
+
+| **When** | Thursday, 06 May 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | As millions of users browse the Web on a daily basis, they become producers of data that are continuously collected by numerous companies and agencies. Website owners, however, need to become compliant with recent EU privacy regulations (such as GDPR and ePrivacy) and often rely on consent pop-ups to either inform users or collect their consent to tracking. <br> This talk delves into the subject of compliance of tracking technologies and consent pop-ups with the GDPR and ePrivacy Directive, and offers a multi-disciplinary discourse from legal, technical and even design perspective. We present our recent works on detection of Web tracking, compliance of consent pop-ups, and identification of gaps between law, design and technology when dark patterns are used in consent pop-ups. <br> This talk covers our recent publication in computer science, law and human-computer interaction domains: ["Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners."](https://arxiv.org/abs/1912.07144) (Int. J. on Technology and Regulation, 2020), ["Missed by Filter Lists: Detecting Unknown Third-Party Trackers with Invisible Pixels"](https://arxiv.org/abs/1812.01514) (PoPETS 2020), ["Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework"](https://arxiv.org/abs/1911.09964v1) (IEEE S&P 2020), ["Purposes in IAB Europe’s TCF: which legal basis and how are they used by advertisers?"](https://doi.org/10.1007/978-3-030-55196-4_10) (APF 2020), and ["Dark Patterns and the Legal Requirements ofConsent Banners: An Interaction Criticism Perspective"](https://arxiv.org/abs/2009.10194) (ACM CHI 2021). |
+
 
 ### Circumvention of tracking protections by means of first-party tracking (by [Yana Dimova](https://distrinet.cs.kuleuven.be/people/YanaDimova))
 
