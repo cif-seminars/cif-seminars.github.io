@@ -17,7 +17,7 @@ Brussels, Belgium time zone, CET/CEST.
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-
+---
 ## Upcoming Seminars
 
 * Tuesday, 08 June 2021: [Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by Dr. Nikita Johnson)](https://cif-seminars.github.io/#rise-of-the-robots-exploring-some-risk-and-assurance-challenges-for-ras-by-dr-nikita-johnson)
@@ -27,7 +27,7 @@ Stefano Fantin)](https://cif-seminars.github.io/#accountable-software-vulnerabil
 * Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
 
-
+---
 ## Next Seminar
 
 <!--
@@ -80,7 +80,7 @@ anounced soon.
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | In April 2021, the maintainer of the Linux stable kernel branch, Greg Kroah-Hartman, asked the kernel community to cease accepting patches from the University of Minnesota (UMN) and launched a revision of all previously accepted submissions. The events that led to this strong community reaction start with a paper submitted by a research team at UMN for publication under the title "Hypocrite Commits". The paper is the result of a research project initiated in 2020 which concerned the intentional submission of patches that introduce flaws into the kernel. Indeed, after a reportedly silent period of about seven months, the research team behind this project began to submit patches of notoriously poor quality that were quickly caught by the community. Believing this was an attempted imposture, the community halted acceptance of further UMN contributions to the kernel, prompting immediate re-review of all prior submissions. On 5 May 2021, the Linux Foundation's Technical Advisory Board published a "Report on University of Minnesota Breach-of-Trust Incident" where details of the affair were disclosed and suggestions on how the community can move forward were made, aiming to overcome the conflict. <br> This talk aims to explore the legal and ethical limits to cybersecurity research through the prism of this recent case and, more generally, open source software projects. Cybersecurity resarch is notorious for its (somewhat undertheorised) ethical issues, such as ethical hacking, responsible vulnerability disclosure, and encryption export controls. Community-driven free and open source software projects are an easy target for dishonest practices. When the concerned project is of the scale and importance of the Linux kernel, however, the question arises whether researchers embarking on such ethically questionable practices also expose themselves to potential legal liability, beyond the curt reprimand delivered by the community anyway. The Linux kernel is often considered the most important open source project in the world; it is vital for the operation of a growing number of safety-critical devices and systems, incl. space exploration missions such as the Perseverance rover. Some may see this as pushing the envelope of this case, yet we cannot but ask whether there are limits to 'hypocrisy' in research when life and limb may be at stake. |
 
-
+---
 ## Previous Seminars, Slides & Recordings
 
 <!-- ***Template***
