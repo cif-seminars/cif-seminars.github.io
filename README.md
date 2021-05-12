@@ -20,9 +20,11 @@ Brussels, Belgium time zone, CET/CEST.
 
 ## Upcoming Seminars
 
+* Tuesday, 08 June 2021: [Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by Dr. Nikita Johnson)](https://cif-seminars.github.io/#rise-of-the-robots-exploring-some-risk-and-assurance-challenges-for-ras-by-dr-nikita-johnson)
 * Tuesday, 22 June 2021: [Accountable software vulnerability handling:
   between responsible state behavior and just intelligence norms (by
-Stefano Fantin)]()
+Stefano Fantin)](https://cif-seminars.github.io/#accountable-software-vulnerability-handling-between-responsible-state-behavior-and-just-intelligence-norms-by-stefano-fantin)
+* Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
 
 
@@ -43,7 +45,7 @@ anounced soon.
 | **Abstract** | |
 -->
 
-### Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by [Dr. Nikita Johnson](https://www.linkedin.com/in/nakitajohnson/)
+### Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by [Dr. Nikita Johnson](https://www.linkedin.com/in/nakitajohnson/))
 
 | **When** | Tuesday, 08 June 2021, 12:30 - 13:30 |
 | --- | --- |
@@ -61,7 +63,7 @@ anounced soon.
 | **Abstract** | |
 
 
-### Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by [Alexandra Kapeller]() and [Iris Loosman]())
+### Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by [Alexandra Kapeller](https://twitter.com/AlexKapeller) and [Iris Loosman](https://research.tue.nl/en/persons/iris-loosman))
 
 | **When** | Tuesday, 07 September 2021, 12:30 - 13:30 |
 | --- | --- |
