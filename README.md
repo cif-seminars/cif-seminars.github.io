@@ -43,6 +43,15 @@ anounced soon.
 | **Abstract** | |
 -->
 
+### Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by [Dr. Nikita Johnson](https://www.linkedin.com/in/nakitajohnson/)
+
+| **When** | Tuesday, 08 June 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | The emergence of robotic and autonomous systems (RAS) in many safety-critical domains has significantly increased the number of assurance and certification challenges. These include (i) technical challenges such as minimising uncertainty, identifying risk and developing approaches for achieving an acceptable level of risk, and (ii) socio-technical challenges such as understanding the impact of RAS on existing concepts, competence needs, processes, tool support, and organisational and regulatory structures. In addition to the challenges for RAS, for existing, 'traditional' systems there are growing concerns about how to identify and manage risk across system safety and cyber security. <br> In this presentation, using the Safety-Security Assurance Framework (SSAF) approach applied to a real-world example, we explore the implications of uncertainty from both RAS and safety-security interactions. The focus is on the impact on practice, existing organisational structures and risk acceptance. We will conclude by discussing possible solution approaches for each of the challenges raised. |
+
+
 ### Accountable software vulnerability handling: between responsible state behavior and just intelligence norms (by [Stefano Fantin](https://twitter.com/s_van_teen))
 
 | **When** | Tuesday, 22 June 2021, 12:30 - 13:30 |
@@ -50,6 +59,15 @@ anounced soon.
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | |
+
+
+### Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by [Alexandra Kapeller]() and [Iris Loosman]())
+
+| **When** | Tuesday, 07 September 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | Direct-to-consumer self-testing apps offer users the tools to self-check for various medical conditions, giving them access to information about their health status without intervention by health care professionals. These apps gain in popularity and are marketed with promises of empowerment. Although empowerment promises are common in the field of mobile health (mHealth) we argue that these rhetorics do not match with what self-testing apps can offer. We start this article by postulating distinctive features of self-testing apps, contrasting them with other closely related mHealth services. Then, we examine the discourse around empowerment in relation to health, mHealth, and self-testing apps. Third and last, we analyse to what extent self-testing apps can contribute to empowerment in the form of control and knowledge. While empowerment as control in the literature implies control over health decisions, it is presented as control over health itself in self-testing app advertisements. Self-testing apps suggest that health can and should be controlled, while a positive result is a clear example of how there are aspects of the user’s health that are out of their control. Similarly, diagnostic information about a current health status is distinguished from knowledge about how to contextualize the test result. A self-test result is not necessarily empowering users to pursue actions but instead creates situations of vulnerability in which users need guidance and care. Therefore, although not questioning the usefulness of self-testing apps, we disagree that they should be called empowering. |
 
 
 ### "Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by [Ivo Emanuilov](https://twitter.com/IvoEmanuilov))
