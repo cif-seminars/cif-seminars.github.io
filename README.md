@@ -21,11 +21,11 @@ Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 * Tuesday, 08 June 2021: [Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by Dr. Nikita Johnson)](https://cif-seminars.github.io/#rise-of-the-robots-exploring-some-risk-and-assurance-challenges-for-ras-by-dr-nikita-johnson)
-* Tuesday, 22 June 2021: [Accountable software vulnerability handling:
-  between responsible state behavior and just intelligence norms (by
-Stefano Fantin)](https://cif-seminars.github.io/#accountable-software-vulnerability-handling-between-responsible-state-behavior-and-just-intelligence-norms-by-stefano-fantin)
 * Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
+* November 2021: [Accountable software vulnerability handling:
+  between responsible state behavior and just intelligence norms (by
+Stefano Fantin)](https://cif-seminars.github.io/#accountable-software-vulnerability-handling-between-responsible-state-behavior-and-just-intelligence-norms-by-stefano-fantin)
 
 ---
 ## Next Seminar
@@ -54,15 +54,6 @@ anounced soon.
 | **Abstract** | The emergence of robotic and autonomous systems (RAS) in many safety-critical domains has significantly increased the number of assurance and certification challenges. These include (i) technical challenges such as minimising uncertainty, identifying risk and developing approaches for achieving an acceptable level of risk, and (ii) socio-technical challenges such as understanding the impact of RAS on existing concepts, competence needs, processes, tool support, and organisational and regulatory structures. In addition to the challenges for RAS, for existing, 'traditional' systems there are growing concerns about how to identify and manage risk across system safety and cyber security. <br> In this presentation, using the Safety-Security Assurance Framework (SSAF) approach applied to a real-world example, we explore the implications of uncertainty from both RAS and safety-security interactions. The focus is on the impact on practice, existing organisational structures and risk acceptance. We will conclude by discussing possible solution approaches for each of the challenges raised. |
 
 
-### Accountable software vulnerability handling: between responsible state behavior and just intelligence norms (by [Stefano Fantin](https://twitter.com/s_van_teen))
-
-| **When** | Tuesday, 22 June 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | |
-
-
 ### Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by [Alexandra Kapeller](https://twitter.com/AlexKapeller) and [Iris Loosman](https://research.tue.nl/en/persons/iris-loosman))
 
 | **When** | Tuesday, 07 September 2021, 12:30 - 13:30 |
@@ -79,6 +70,17 @@ anounced soon.
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | In April 2021, the maintainer of the Linux stable kernel branch, Greg Kroah-Hartman, asked the kernel community to cease accepting patches from the University of Minnesota (UMN) and launched a revision of all previously accepted submissions. The events that led to this strong community reaction start with a paper submitted by a research team at UMN for publication under the title "Hypocrite Commits". The paper is the result of a research project initiated in 2020 which concerned the intentional submission of patches that introduce flaws into the kernel. Indeed, after a reportedly silent period of about seven months, the research team behind this project began to submit patches of notoriously poor quality that were quickly caught by the community. Believing this was an attempted imposture, the community halted acceptance of further UMN contributions to the kernel, prompting immediate re-review of all prior submissions. On 5 May 2021, the Linux Foundation's Technical Advisory Board published a "Report on University of Minnesota Breach-of-Trust Incident" where details of the affair were disclosed and suggestions on how the community can move forward were made, aiming to overcome the conflict. <br> This talk aims to explore the legal and ethical limits to cybersecurity research through the prism of this recent case and, more generally, open source software projects. Cybersecurity resarch is notorious for its (somewhat undertheorised) ethical issues, such as ethical hacking, responsible vulnerability disclosure, and encryption export controls. Community-driven free and open source software projects are an easy target for dishonest practices. When the concerned project is of the scale and importance of the Linux kernel, however, the question arises whether researchers embarking on such ethically questionable practices also expose themselves to potential legal liability, beyond the curt reprimand delivered by the community anyway. The Linux kernel is often considered the most important open source project in the world; it is vital for the operation of a growing number of safety-critical devices and systems, incl. space exploration missions such as the Perseverance rover. Some may see this as pushing the envelope of this case, yet we cannot but ask whether there are limits to 'hypocrisy' in research when life and limb may be at stake. |
+
+
+### Accountable software vulnerability handling: between responsible state behavior and just intelligence norms (by [Stefano Fantin](https://twitter.com/s_van_teen))
+
+| **When** | November 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Abstract** | |
+
+
 
 ---
 ## Previous Seminars, Slides & Recordings
