@@ -8,7 +8,7 @@ topics related to cybersecurity and online privacy, organised by the
 Leuven](https://www.kuleuven.be/). Subscribe to our [mailing
 list](https://cif-seminars.github.io/#contact--mailing-list) or follow us
 on Twitter
-[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL) for talk
+[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL&f=live) for talk
 announcements.  A playlist with all the recorded sessions is available on
 [YouTube](https://www.youtube.com/playlist?list=PLiHaXFHjrqYcMjR1bIKIpnJdA_3EFJoCR),
 presentation slides are available below.  All dates and times are in
@@ -273,7 +273,7 @@ anounced soon.
 ## Contact & Mailing List
 
 Talk announcements are published on this website, on Twitter under
-[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL) and on
+[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL&f=live) and on
 the CIF-Seminars mailinglist. Email [CiTiP
 Admin](mailto:law.citip.admin@kuleuven.be) to subscribe.
 
