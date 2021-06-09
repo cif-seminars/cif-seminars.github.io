@@ -20,7 +20,6 @@ Brussels, Belgium time zone, CET/CEST.
 ---
 ## Upcoming Seminars
 
-* Tuesday, 08 June 2021: [Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by Dr. Nikita Johnson)](https://cif-seminars.github.io/#rise-of-the-robots-exploring-some-risk-and-assurance-challenges-for-ras-by-dr-nikita-johnson)
 * Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
 * November 2021: [Accountable software vulnerability handling:
@@ -44,14 +43,6 @@ anounced soon.
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | |
 -->
-
-### Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by [Dr. Nikita Johnson](https://www.linkedin.com/in/nakitajohnson/))
-
-| **When** | Tuesday, 08 June 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | The emergence of robotic and autonomous systems (RAS) in many safety-critical domains has significantly increased the number of assurance and certification challenges. These include (i) technical challenges such as minimising uncertainty, identifying risk and developing approaches for achieving an acceptable level of risk, and (ii) socio-technical challenges such as understanding the impact of RAS on existing concepts, competence needs, processes, tool support, and organisational and regulatory structures. In addition to the challenges for RAS, for existing, 'traditional' systems there are growing concerns about how to identify and manage risk across system safety and cyber security. <br> In this presentation, using the Safety-Security Assurance Framework (SSAF) approach applied to a real-world example, we explore the implications of uncertainty from both RAS and safety-security interactions. The focus is on the impact on practice, existing organisational structures and risk acceptance. We will conclude by discussing possible solution approaches for each of the challenges raised. |
 
 
 ### Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by [Alexandra Kapeller](https://liu.se/en/employee/aleka31) and [Iris Loosman](https://research.tue.nl/en/persons/iris-loosman))
@@ -94,6 +85,14 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+### Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by [Dr. Nikita Johnson](https://www.linkedin.com/in/nakitajohnson/))
+
+| **When** | Tuesday, 08 June 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | The emergence of robotic and autonomous systems (RAS) in many safety-critical domains has significantly increased the number of assurance and certification challenges. These include (i) technical challenges such as minimising uncertainty, identifying risk and developing approaches for achieving an acceptable level of risk, and (ii) socio-technical challenges such as understanding the impact of RAS on existing concepts, competence needs, processes, tool support, and organisational and regulatory structures. In addition to the challenges for RAS, for existing, 'traditional' systems there are growing concerns about how to identify and manage risk across system safety and cyber security. <br> In this presentation, using the Safety-Security Assurance Framework (SSAF) approach applied to a real-world example, we explore the implications of uncertainty from both RAS and safety-security interactions. The focus is on the impact on practice, existing organisational structures and risk acceptance. We will conclude by discussing possible solution approaches for each of the challenges raised. |
+| **Slides** | [20210608-njohnson-co-assurance.pdf](slides/20210608-njohnson-co-assurance.pdf) |
+
 
 ### Web tracking, consent pop-ups and dark patterns: Legal and technical perspectives (by [Prof. Nataliia Bielova](https://twitter.com/nataliabielova) and [Prof. Cristiana Santos](https://twitter.com/cristianapt))
 
