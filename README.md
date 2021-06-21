@@ -22,6 +22,7 @@ Brussels, Belgium time zone, CET/CEST.
 
 * Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
+* Thursday, 14 October 2021: Talk by Elissa Redmiles.
 * November 2021: [Accountable software vulnerability handling:
   between responsible state behavior and just intelligence norms (by
 Stefano Fantin)](https://cif-seminars.github.io/#accountable-software-vulnerability-handling-between-responsible-state-behavior-and-just-intelligence-norms-by-stefano-fantin)
