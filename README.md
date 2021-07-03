@@ -23,7 +23,7 @@ Brussels, Belgium time zone, CET/CEST.
 * Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
 * Thursday, 14 October 2021: [Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by Dr. Elissa M. Redmiles)](https://cif-seminars.github.io/#sex-work-and-technology-lessons-for-internet-governance--digital-safety-by-dr-elissa-m-redmiles)
-* Thursday, 25 November 2021: [Legal implications of facial recognition (by Dr, Catherine Jasserand-Breeman)](https://cif-seminars.github.io/#legal-implications-of-facial-recognition-by-dr-catherine-jasserand-breeman)
+* Thursday, 25 November 2021: [Legal implications of facial recognition (by Dr. Catherine Jasserand-Breeman)](https://cif-seminars.github.io/#legal-implications-of-facial-recognition-by-dr-catherine-jasserand-breeman)
 
 ---
 ## Next Seminar
@@ -70,7 +70,7 @@ anounced soon.
 | **Abstract** | Sex workers sit at the intersection of multiple marginalized identities and make up a sizable workforce: the UN estimates that at least 42 million sex workers are conducting business across the globe. Sex workers face a unique and significant set of digital, social, political, legal, and safety risks; yet their digital experiences have received little study in the CS and HCI literature. In this talk we will review findings from a 2-year long study examining how sex workers who work in countries where sex work is legal (Germany, Switzerland, the UK) use technology to conduct business and how they have developed digital strategies for staying safe online and offline. We will then describe how these findings can inform broader conversations around internet governance, digital discrimination, and safety protections for other marginalized and vulnerable users whose experiences bisect the digital and physical. |
 
 
-### Legal implications of facial recognition (by [Dr, Catherine Jasserand-Breeman](https://www.law.kuleuven.be/citip/en/staff-members/staff/00139789))
+### Legal implications of facial recognition (by [Dr. Catherine Jasserand-Breeman](https://www.law.kuleuven.be/citip/en/staff-members/staff/00139789))
 
 | **When** | Thursday, 25 November 2021, 12:30 - 13:30 |
 | --- | --- |
