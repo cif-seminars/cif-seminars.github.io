@@ -22,7 +22,7 @@ Brussels, Belgium time zone, CET/CEST.
 
 * Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
 * Tuesday, 21 September 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
-* Thursday, 14 October 2021: [Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by Dr. Elissa M. Redmiles)](https://cif-seminars.github.io/#sex-work-and-technology-lessons-for-internet-governance--digital-safety-by-dr-elissa-m-redmiles)
+* Thursday, 21 October 2021: [Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by Dr. Elissa M. Redmiles)](https://cif-seminars.github.io/#sex-work-and-technology-lessons-for-internet-governance--digital-safety-by-dr-elissa-m-redmiles)
 * Thursday, 25 November 2021: [Legal implications of facial recognition (by Dr. Catherine Jasserand-Breeman)](https://cif-seminars.github.io/#legal-implications-of-facial-recognition-by-dr-catherine-jasserand-breeman)
 
 ---
@@ -63,7 +63,7 @@ anounced soon.
 
 ### Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by [Dr. Elissa M. Redmiles](http://elissaredmiles.com))
 
-| **When** | Thursday, 14 October 2021, 12:30 - 13:30 |
+| **When** | Thursday, 21 October 2021, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
