@@ -20,11 +20,9 @@ Brussels, Belgium time zone, CET/CEST.
 ---
 ## Upcoming Seminars
 
-* Tuesday, 07 September 2021: [Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by Alexandra Kapeller and Iris Loosman)](https://cif-seminars.github.io/#empowerment-through-self-diagnosis-a-critical-perspective-on-the-empowerment-rhetorics-around-self-testing-apps-by-alexandra-kapeller-and-iris-loosman)
-* Thursday, 07 October 2021: ["Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by Ivo Emanuilov)](https://cif-seminars.github.io/#hypocrite-commits-what-are-the-legal-and-ethical-limits-to-cybersecurity-research-by-ivo-emanuilov)
 * Thursday, 21 October 2021: [Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by Dr. Elissa M. Redmiles)](https://cif-seminars.github.io/#sex-work-and-technology-lessons-for-internet-governance--digital-safety-by-dr-elissa-m-redmiles)
 * Thursday, 04 November 2021: To be announced (by [Victor Le Pochat](https://twitter.com/VictorLePochat))
-* Thursday, 25 November 2021: [Legal implications of facial recognition (by Dr. Catherine Jasserand)](https://cif-seminars.github.io/#legal-implications-of-facial-recognition-by-dr-catherine-jasserand-breeman)
+* Thursday, 25 November 2021: [Facial recognition in the wild: All Eyes on Clearview AI (by Dr. Catherine Jasserand)](https://cif-seminars.github.io/#facial-recognition-in-the-wild-all-eyes-on-clearview-ai-by-dr-catherine-jasserand)
 
 ---
 ## Next Seminar
@@ -43,24 +41,6 @@ anounced soon.
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | |
 -->
-
-
-### Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by [Alexandra Kapeller](https://liu.se/en/employee/aleka31) and [Iris Loosman](https://research.tue.nl/en/persons/iris-loosman))
-
-| **When** | Tuesday, 07 September 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | Direct-to-consumer self-testing apps offer users the tools to self-check for various medical conditions, giving them access to information about their health status without intervention by health care professionals. These apps gain in popularity and are marketed with promises of empowerment. Although empowerment promises are common in the field of mobile health (mHealth) we argue that these rhetorics do not match with what self-testing apps can offer. We start this article by postulating distinctive features of self-testing apps, contrasting them with other closely related mHealth services. Then, we examine the discourse around empowerment in relation to health, mHealth, and self-testing apps. Third and last, we analyse to what extent self-testing apps can contribute to empowerment in the form of control and knowledge. While empowerment as control in the literature implies control over health decisions, it is presented as control over health itself in self-testing app advertisements. Self-testing apps suggest that health can and should be controlled, while a positive result is a clear example of how there are aspects of the user’s health that are out of their control. Similarly, diagnostic information about a current health status is distinguished from knowledge about how to contextualize the test result. A self-test result is not necessarily empowering users to pursue actions but instead creates situations of vulnerability in which users need guidance and care. Therefore, although not questioning the usefulness of self-testing apps, we disagree that they should be called empowering. |
-
-
-### "Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by [Ivo Emanuilov](https://twitter.com/IvoEmanuilov))
-
-| **When** | Thursday, 07 October 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | In April 2021, the maintainer of the Linux stable kernel branch, Greg Kroah-Hartman, asked the kernel community to cease accepting patches from the University of Minnesota (UMN) and launched a revision of all previously accepted submissions. The events that led to this strong community reaction start with a paper submitted by a research team at UMN for publication under the title "Hypocrite Commits". The paper is the result of a research project initiated in 2020 which concerned the intentional submission of patches that introduce flaws into the kernel. Indeed, after a reportedly silent period of about seven months, the research team behind this project began to submit patches of notoriously poor quality that were quickly caught by the community. Believing this was an attempted imposture, the community halted acceptance of further UMN contributions to the kernel, prompting immediate re-review of all prior submissions. On 5 May 2021, the Linux Foundation's Technical Advisory Board published a "Report on University of Minnesota Breach-of-Trust Incident" where details of the affair were disclosed and suggestions on how the community can move forward were made, aiming to overcome the conflict. <br> This talk aims to explore the legal and ethical limits to cybersecurity research through the prism of this recent case and, more generally, open source software projects. Cybersecurity resarch is notorious for its (somewhat undertheorised) ethical issues, such as ethical hacking, responsible vulnerability disclosure, and encryption export controls. Community-driven free and open source software projects are an easy target for dishonest practices. When the concerned project is of the scale and importance of the Linux kernel, however, the question arises whether researchers embarking on such ethically questionable practices also expose themselves to potential legal liability, beyond the curt reprimand delivered by the community anyway. The Linux kernel is often considered the most important open source project in the world; it is vital for the operation of a growing number of safety-critical devices and systems, incl. space exploration missions such as the Perseverance rover. Some may see this as pushing the envelope of this case, yet we cannot but ask whether there are limits to 'hypocrisy' in research when life and limb may be at stake. |
 
 ### Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by [Dr. Elissa M. Redmiles](http://elissaredmiles.com))
 
@@ -93,6 +73,24 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+
+### "Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by [Ivo Emanuilov](https://twitter.com/IvoEmanuilov))
+
+| **When** | Thursday, 07 October 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | In April 2021, the maintainer of the Linux stable kernel branch, Greg Kroah-Hartman, asked the kernel community to cease accepting patches from the University of Minnesota (UMN) and launched a revision of all previously accepted submissions. The events that led to this strong community reaction start with a paper submitted by a research team at UMN for publication under the title "Hypocrite Commits". The paper is the result of a research project initiated in 2020 which concerned the intentional submission of patches that introduce flaws into the kernel. Indeed, after a reportedly silent period of about seven months, the research team behind this project began to submit patches of notoriously poor quality that were quickly caught by the community. Believing this was an attempted imposture, the community halted acceptance of further UMN contributions to the kernel, prompting immediate re-review of all prior submissions. On 5 May 2021, the Linux Foundation's Technical Advisory Board published a "Report on University of Minnesota Breach-of-Trust Incident" where details of the affair were disclosed and suggestions on how the community can move forward were made, aiming to overcome the conflict. <br> This talk aims to explore the legal and ethical limits to cybersecurity research through the prism of this recent case and, more generally, open source software projects. Cybersecurity resarch is notorious for its (somewhat undertheorised) ethical issues, such as ethical hacking, responsible vulnerability disclosure, and encryption export controls. Community-driven free and open source software projects are an easy target for dishonest practices. When the concerned project is of the scale and importance of the Linux kernel, however, the question arises whether researchers embarking on such ethically questionable practices also expose themselves to potential legal liability, beyond the curt reprimand delivered by the community anyway. The Linux kernel is often considered the most important open source project in the world; it is vital for the operation of a growing number of safety-critical devices and systems, incl. space exploration missions such as the Perseverance rover. Some may see this as pushing the envelope of this case, yet we cannot but ask whether there are limits to 'hypocrisy' in research when life and limb may be at stake. |
+| **Slides** | [20211007-emanuilov-hypocrite.pdf](slides/20211007-emanuilov-hypocrite.pdf) |
+
+
+
+### Empowerment through self-diagnosis: A critical perspective on the empowerment rhetorics around self-testing apps (by [Alexandra Kapeller](https://liu.se/en/employee/aleka31) and [Iris Loosman](https://research.tue.nl/en/persons/iris-loosman))
+
+| **When** | Tuesday, 07 September 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Direct-to-consumer self-testing apps offer users the tools to self-check for various medical conditions, giving them access to information about their health status without intervention by health care professionals. These apps gain in popularity and are marketed with promises of empowerment. Although empowerment promises are common in the field of mobile health (mHealth) we argue that these rhetorics do not match with what self-testing apps can offer. We start this article by postulating distinctive features of self-testing apps, contrasting them with other closely related mHealth services. Then, we examine the discourse around empowerment in relation to health, mHealth, and self-testing apps. Third and last, we analyse to what extent self-testing apps can contribute to empowerment in the form of control and knowledge. While empowerment as control in the literature implies control over health decisions, it is presented as control over health itself in self-testing app advertisements. Self-testing apps suggest that health can and should be controlled, while a positive result is a clear example of how there are aspects of the user’s health that are out of their control. Similarly, diagnostic information about a current health status is distinguished from knowledge about how to contextualize the test result. A self-test result is not necessarily empowering users to pursue actions but instead creates situations of vulnerability in which users need guidance and care. Therefore, although not questioning the usefulness of self-testing apps, we disagree that they should be called empowering. |
+| **Slides** | [20210907-kapellerloosman-diagnostics.pdf](slides/20210907-kapellerloosman-diagnostics.pdf) |
+
 
 ### Rise of the Robots: Exploring Some Risk and Assurance Challenges for RAS (by [Dr. Nikita Johnson](https://www.linkedin.com/in/nakitajohnson/))
 
