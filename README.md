@@ -71,13 +71,13 @@ anounced soon.
 | **Abstract** | Sex workers sit at the intersection of multiple marginalized identities and make up a sizable workforce: the UN estimates that at least 42 million sex workers are conducting business across the globe. Sex workers face a unique and significant set of digital, social, political, legal, and safety risks; yet their digital experiences have received little study in the CS and HCI literature. In this talk we will review findings from a 2-year long study examining how sex workers who work in countries where sex work is legal (Germany, Switzerland, the UK) use technology to conduct business and how they have developed digital strategies for staying safe online and offline. We will then describe how these findings can inform broader conversations around internet governance, digital discrimination, and safety protections for other marginalized and vulnerable users whose experiences bisect the digital and physical. |
 
 
-### Legal implications of facial recognition (by [Dr. Catherine Jasserand](https://www.law.kuleuven.be/citip/en/staff-members/staff/00139789))
+### Facial recognition in the wild: All Eyes on Clearview AI (by [Dr. Catherine Jasserand](https://www.law.kuleuven.be/citip/en/staff-members/staff/00139789))
 
 | **When** | Thursday, 25 November 2021, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | |
+| **Abstract** | In January 2020, the New York Times revealed that a facial recognition software company, Clearview AI, had scrapped billions of face images from social media and set up a platform offering services to law enforcement authorities. The revelations triggered a chain of reactions: the company rapidly faced legal challenges in the US, and several data protection authorities started investigations worldwide. <br> The talk will explain the platform’s functioning before digging into the data protection issues raised by Clearview AI’s practices. It will discuss the interpretation of the extraterritorial scope of the GDPR to apply the GDPR rules to a company neither established nor represented in the EU. It will also explain that law enforcement authorities in the EU lack legal grounds to use the platform (based on the national rules implementing the ‘Law Enforcement Directive’). Finally, it will wrap up with an overview of the legal complaints against the company (in Europe and the US) and against the police authorities using its services (such as in Sweden). |
 
 
 
