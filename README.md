@@ -21,7 +21,7 @@ Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 * Thursday, 25 November 2021: [Facial recognition in the wild: All Eyes on Clearview AI (by Dr. Catherine Jasserand)](https://cif-seminars.github.io/#facial-recognition-in-the-wild-all-eyes-on-clearview-ai-by-dr-catherine-jasserand)
-* Thursday, 04 November 2021: To be announced (by [Victor Le Pochat](https://twitter.com/VictorLePochat))
+* Thursday, 16 December 2021: To be announced (by [Victor Le Pochat](https://twitter.com/VictorLePochat))
 
 ---
 ## Next Seminar
@@ -69,9 +69,8 @@ anounced soon.
 
 | **When** | Thursday, 21 October 2021, 12:30 - 13:30 |
 | --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | Sex workers sit at the intersection of multiple marginalized identities and make up a sizable workforce: the UN estimates that at least 42 million sex workers are conducting business across the globe. Sex workers face a unique and significant set of digital, social, political, legal, and safety risks; yet their digital experiences have received little study in the CS and HCI literature. In this talk we will review findings from a 2-year long study examining how sex workers who work in countries where sex work is legal (Germany, Switzerland, the UK) use technology to conduct business and how they have developed digital strategies for staying safe online and offline. We will then describe how these findings can inform broader conversations around internet governance, digital discrimination, and safety protections for other marginalized and vulnerable users whose experiences bisect the digital and physical. |
+| **Recording** | [![Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by Dr. Elissa M. Redmiles)](thumbs/20211021-1-small.png)](https://www.youtube.com/watch?v=SH7kjxNrCzE) [![Discussion](thumbs/20211021-2-small.png)](https://www.youtube.com/watch?v=uX8AAiuDfUE) |
 
 
 ### "Hypocrite Commits": what are the legal and ethical limits to cybersecurity research? (by [Ivo Emanuilov](https://twitter.com/IvoEmanuilov))
