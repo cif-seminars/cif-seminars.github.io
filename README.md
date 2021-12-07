@@ -20,16 +20,13 @@ Brussels, Belgium time zone, CET/CEST.
 ---
 ## Upcoming Seminars
 
-* Thursday, 25 November 2021: [Facial recognition in the wild: All Eyes on Clearview AI (by Dr. Catherine Jasserand)](https://cif-seminars.github.io/#facial-recognition-in-the-wild-all-eyes-on-clearview-ai-by-dr-catherine-jasserand)
 * Thursday, 16 December 2021: To be announced (by [Victor Le Pochat](https://twitter.com/VictorLePochat))
 
 ---
 ## Next Seminar
 
-<!--
 Oh no! We might be out of talks? No, not really. Upcoming seminars will be
 anounced soon.
--->
 
 <!-- ***Template***
 ### Title (by []())
@@ -40,15 +37,6 @@ anounced soon.
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | |
 -->
-
-
-### Facial recognition in the wild: All Eyes on Clearview AI (by [Dr. Catherine Jasserand](https://www.law.kuleuven.be/citip/en/staff-members/staff/00139789))
-
-| **When** | Thursday, 25 November 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | In January 2020, the New York Times revealed that a facial recognition software company, Clearview AI, had scrapped billions of face images from social media and set up a platform offering services to law enforcement authorities. The revelations triggered a chain of reactions: the company rapidly faced legal challenges in the US, and several data protection authorities started investigations worldwide. <br> The talk will explain the platform’s functioning before digging into the data protection issues raised by Clearview AI’s practices. It will discuss the interpretation of the extraterritorial scope of the GDPR to apply the GDPR rules to a company neither established nor represented in the EU. It will also explain that law enforcement authorities in the EU lack legal grounds to use the platform (based on the national rules implementing the ‘Law Enforcement Directive’). Finally, it will wrap up with an overview of the legal complaints against the company (in Europe and the US) and against the police authorities using its services (such as in Sweden). |
 
 
 
@@ -64,6 +52,15 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+### Facial recognition in the wild: All Eyes on Clearview AI (by [Dr. Catherine Jasserand](https://www.law.kuleuven.be/citip/en/staff-members/staff/00139789))
+
+| **When** | Thursday, 25 November 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | In January 2020, the New York Times revealed that a facial recognition software company, Clearview AI, had scrapped billions of face images from social media and set up a platform offering services to law enforcement authorities. The revelations triggered a chain of reactions: the company rapidly faced legal challenges in the US, and several data protection authorities started investigations worldwide. <br> The talk will explain the platform’s functioning before digging into the data protection issues raised by Clearview AI’s practices. It will discuss the interpretation of the extraterritorial scope of the GDPR to apply the GDPR rules to a company neither established nor represented in the EU. It will also explain that law enforcement authorities in the EU lack legal grounds to use the platform (based on the national rules implementing the ‘Law Enforcement Directive’). Finally, it will wrap up with an overview of the legal complaints against the company (in Europe and the US) and against the police authorities using its services (such as in Sweden). |
+| **Slides &** | [20211125-jasserand-clearview.pdf](slides/20211125-jasserand-clearview.pdf) |
+| **Recording** | [![Facial recognition in the wild: All Eyes on Clearview AI (by Dr. Catherine Jasserand)](thumbs/20211125-1-small.png)](https://www.youtube.com/watch?v=3odc6hihy5g) [![Discussion](thumbs/20211125-2-small.png)](https://www.youtube.com/watch?v=SkwFLnOcl-0) |
+
 
 ### Sex, Work, and Technology: Lessons for Internet Governance & Digital Safety (by [Dr. Elissa M. Redmiles](http://elissaredmiles.com))
 
