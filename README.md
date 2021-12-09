@@ -20,7 +20,7 @@ Brussels, Belgium time zone, CET/CEST.
 ---
 ## Upcoming Seminars
 
-* Thursday, 16 December 2021: To be announced (by [Victor Le Pochat](https://twitter.com/VictorLePochat))
+* Thursday, 16 December 2021: [An Audit of Facebook's Political Ad Policy Enforcement (by Victor Le Pochat)](https://cif-seminars.github.io/#an-audit-of-facebooks-political-ad-policy-enforcement-by-victor-le-pochat)
 
 ---
 ## Next Seminar
