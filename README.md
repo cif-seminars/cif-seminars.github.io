@@ -20,15 +20,13 @@ Brussels, Belgium time zone, CET/CEST.
 ---
 ## Upcoming Seminars
 
-* Thursday, 16 December 2021: [An Audit of Facebook's Political Ad Policy Enforcement (by Victor Le Pochat)](https://cif-seminars.github.io/#an-audit-of-facebooks-political-ad-policy-enforcement-by-victor-le-pochat)
+* To be announced soon...
 
 ---
 ## Next Seminar
 
-<!--
 Oh no! We might be out of talks? No, not really. Upcoming seminars will be
 anounced soon.
--->
 
 
 <!-- ***Template***
@@ -40,14 +38,6 @@ anounced soon.
 | **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
 | **Abstract** | |
 -->
-
-### An Audit of Facebook's Political Ad Policy Enforcement (by [Victor Le Pochat](https://distrinet.cs.kuleuven.be/people/VictorLePochat))
-
-| **When** | Thursday, 16 December 2021, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
-| **Abstract** | Major technology companies strive to protect the integrity of political advertising on their platforms by implementing and enforcing self-regulatory policies that impose transparency requirements on political ads. In this paper, we quantify whether Facebook’s current enforcement correctly identifies political ads and ensures compliance by advertisers. In a comprehensive, large-scale analysis of 4.2 million political and 29.6 million non-political ads from 215,030 advertisers, we identify ads correctly detected as political (true positives), ads incorrectly detected (false positives), and ads missed by detection (false negatives). Facebook’s current enforcement appears imprecise: 61% more ads are missed than are detected worldwide, and 55% of U.S. detected ads are in fact non-political. Detection performance is uneven across countries, with some having up to 53 times higher false negative rates among clearly political pages than in the U.S. Moreover, enforcement appears inadequate for preventing systematic violations of political advertising policies: for example, advertisers were able to continue running political ads without disclosing them while they were temporarily prohibited in the U.S. We attribute these flaws to five gaps in Facebook’s current enforcement and transparency implementation, and close with recommendations to improve the security of the online political ad ecosystem. <br> More information: [https://distrinet.cs.kuleuven.be/news/2021/FBPoliticalAds.jsp](https://distrinet.cs.kuleuven.be/news/2021/FBPoliticalAds.jsp) |
 
 
 ---
@@ -62,6 +52,14 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+### An Audit of Facebook's Political Ad Policy Enforcement (by [Victor Le Pochat](https://distrinet.cs.kuleuven.be/people/VictorLePochat))
+
+| **When** | Thursday, 16 December 2021, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Major technology companies strive to protect the integrity of political advertising on their platforms by implementing and enforcing self-regulatory policies that impose transparency requirements on political ads. In this paper, we quantify whether Facebook’s current enforcement correctly identifies political ads and ensures compliance by advertisers. In a comprehensive, large-scale analysis of 4.2 million political and 29.6 million non-political ads from 215,030 advertisers, we identify ads correctly detected as political (true positives), ads incorrectly detected (false positives), and ads missed by detection (false negatives). Facebook’s current enforcement appears imprecise: 61% more ads are missed than are detected worldwide, and 55% of U.S. detected ads are in fact non-political. Detection performance is uneven across countries, with some having up to 53 times higher false negative rates among clearly political pages than in the U.S. Moreover, enforcement appears inadequate for preventing systematic violations of political advertising policies: for example, advertisers were able to continue running political ads without disclosing them while they were temporarily prohibited in the U.S. We attribute these flaws to five gaps in Facebook’s current enforcement and transparency implementation, and close with recommendations to improve the security of the online political ad ecosystem. <br> More information: [https://distrinet.cs.kuleuven.be/news/2021/FBPoliticalAds.jsp](https://distrinet.cs.kuleuven.be/news/2021/FBPoliticalAds.jsp) |
+| **Recording** | [![An Audit of Facebook's Political Ad Policy Enforcement (by Victor Le Pochat)](thumbs/20211216-1-small.png)](https://www.youtube.com/watch?v=Q1fYaEJEdJg) [![Discussion](thumbs/20211216-2-small.png)](https://www.youtube.com/watch?v=GQnZglkIna4) |
+
 
 ### Facial recognition in the wild: All Eyes on Clearview AI (by [Dr. Catherine Jasserand](https://www.law.kuleuven.be/citip/en/staff-members/staff/00139789))
 
