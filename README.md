@@ -19,7 +19,7 @@ Brussels, Belgium time zone, CET/CEST.
 
 ---
 
-</br></br>
+<br><br>
 ## Upcoming Seminars
 
 * Tuesday, 15 February 2022: [Why do we need life-cycle thinking in the context of IoT? (by Thibault Pirson)](https://cif-seminars.github.io/#why-do-we-need-life-cycle-thinking-in-the-context-of-iot-by-thibault-pirson)
@@ -27,7 +27,7 @@ Brussels, Belgium time zone, CET/CEST.
 
 ---
 
-</br></br>
+<br><br>
 ## Next Seminar
 
 <!--
@@ -51,7 +51,7 @@ anounced soon.
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** |  |
-| **Abstract** |  In upcoming years, the number of Internet-of-Things (IoT) devices is expected to surge up to tens of billions of physical objects. However, while the IoT is often presented as a promising solution to tackle environmental challenges, the direct environmental impacts generated over the life cycle of the physical devices are usually overlooked. It is often implicitly assumed that their environmental burden is negligible compared to the positive impacts they can generate. Yet, because the roots of electronics fall far short of dematerialization and because IoT calls for a massive deployment of electronic devices in the environment, the associated environmental footprint must be evaluated during the design and deployment of these distributed systems. Some general Life-Cycle Assessment (LCA) methodologies for IoT already exist but quantitative results are still scarce. </br> The talk therefore focuses on the use of LCA in the field of electronics and more specifically for IoT devices. We first present a [parametric framework based on hardware profiles to evaluate the cradle-togate carbon footprint of IoT edge devices](https://doi.org/10.1016/j.jclepro.2021.128966). It is then used to show that the heterogeneity inherent to IoT edge devices must be considered as the production carbon footprint between simple and complex devices can vary by a factor of more than 150×. Then, we estimate the absolute carbon footprint induced by the worldwide production of IoT edge devices through a macroscopic analysis over a 10-year period. Results range from 22 to more than 1000 MtCO2-eq/year in 2027 depending on the deployment scenarios, which truly stresses the necessity to consider environmental constraints when designing and deploying IoT edge devices. Finally, we focus on a very specific use case to show the relevance of LCA for smart sensors. We compare the environmental performances of a wireless power transfer (WPT) system for room occupancy monitoring and its battery-powered equivalent through a comparative cradle-to-grave LCA over four indicators, i.e. energy, carbon footprint, water and ecotoxicity. The analysis concludes that the WPT system yields significantly higher impacts over all indicators, from a factor 5.6x to 10.9x. |
+| **Abstract** |  In upcoming years, the number of Internet-of-Things (IoT) devices is expected to surge up to tens of billions of physical objects. However, while the IoT is often presented as a promising solution to tackle environmental challenges, the direct environmental impacts generated over the life cycle of the physical devices are usually overlooked. It is often implicitly assumed that their environmental burden is negligible compared to the positive impacts they can generate. Yet, because the roots of electronics fall far short of dematerialization and because IoT calls for a massive deployment of electronic devices in the environment, the associated environmental footprint must be evaluated during the design and deployment of these distributed systems. Some general Life-Cycle Assessment (LCA) methodologies for IoT already exist but quantitative results are still scarce. <br> The talk therefore focuses on the use of LCA in the field of electronics and more specifically for IoT devices. We first present a [parametric framework based on hardware profiles to evaluate the cradle-togate carbon footprint of IoT edge devices](https://doi.org/10.1016/j.jclepro.2021.128966). It is then used to show that the heterogeneity inherent to IoT edge devices must be considered as the production carbon footprint between simple and complex devices can vary by a factor of more than 150×. Then, we estimate the absolute carbon footprint induced by the worldwide production of IoT edge devices through a macroscopic analysis over a 10-year period. Results range from 22 to more than 1000 MtCO2-eq/year in 2027 depending on the deployment scenarios, which truly stresses the necessity to consider environmental constraints when designing and deploying IoT edge devices. Finally, we focus on a very specific use case to show the relevance of LCA for smart sensors. We compare the environmental performances of a wireless power transfer (WPT) system for room occupancy monitoring and its battery-powered equivalent through a comparative cradle-to-grave LCA over four indicators, i.e. energy, carbon footprint, water and ecotoxicity. The analysis concludes that the WPT system yields significantly higher impacts over all indicators, from a factor 5.6x to 10.9x. |
 
 
 ### Whistleblower Protection (by [Prof. Bettina Berendt](https://www.weizenbaum-institut.de/en/portrait/p/bettina-berendt/) and [Dr. Stefan Schiffner](https://www.researchgate.net/profile/Stefan-Schiffner-2))
@@ -65,7 +65,7 @@ anounced soon.
 
 ---
 
-</br></br>
+<br><br>
 ## Previous Seminars, Slides & Recordings
 
 <!-- ***Template***
@@ -307,7 +307,9 @@ anounced soon.
 
 
 
+---
 
+<br><br>
 ## Contact & Mailing List
 
 Talk announcements are published on this website, on Twitter under
