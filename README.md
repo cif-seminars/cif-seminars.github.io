@@ -21,7 +21,7 @@ Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 * Tuesday, 15 February 2022: [Why do we need life-cycle thinking in the context of IoT? (by Thibault Pirson)](https://cif-seminars.github.io/#why-do-we-need-life-cycle-thinking-in-the-context-of-iot-by-thibault-pirson)
-* Tuesday, 01 March 2022: [Whistleblower Protection (by Prof. Bettina Berendt and Dr. Stefan Schiffner](https://cif-seminars.github.io/#whistleblower-protection-by-prof-bettina-berendt-and-prof-stefan-schiffner)
+* Tuesday, 01 March 2022: [Whistleblower Protection (by Prof. Bettina Berendt and Dr. Stefan Schiffner](https://cif-seminars.github.io/#whistleblower-protection-by-prof-bettina-berendt-and-dr-stefan-schiffner)
 
 ---
 ## Next Seminar
