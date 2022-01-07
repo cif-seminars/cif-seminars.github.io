@@ -52,7 +52,7 @@ anounced soon.
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | |
-| **Abstract** | |
+| **Abstract** | Read more: [Whistleblowing for Change: Exposing Systems of Power &amp; Injustice](https://www.disruptionlab.org/book) |
 
 
 ### Why do we need life-cycle thinking in the context of IoT? (by [Thibault Pirson](https://be.linkedin.com/in/thibault-pirson-bb7496195/en))
