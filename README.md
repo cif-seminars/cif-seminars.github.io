@@ -45,6 +45,15 @@ anounced soon.
 | **Abstract** | |
 -->
 
+### Whistleblowing for Change (by [Tatiana Bazzichelli](https://www.disruptionlab.org/team))
+
+| **When** | Tuesday, 01 February 2022, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | online only |
+| **Conferencing** | |
+| **Abstract** | |
+
+
 ### Why do we need life-cycle thinking in the context of IoT? (by [Thibault Pirson](https://be.linkedin.com/in/thibault-pirson-bb7496195/en))
 
 | **When** | Tuesday, 15 February 2022, 12:30 - 13:30 |
