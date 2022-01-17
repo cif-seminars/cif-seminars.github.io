@@ -46,13 +46,13 @@ anounced soon.
 | **Abstract** | |
 -->
 
-### Whistleblowing for Change (by [Tatiana Bazzichelli](https://www.disruptionlab.org/team))
+### Whistleblowing for Change (by [Tatiana Bazzichelli](https://www.disruptionlab.org/))
 
 | **When** | Tuesday, 01 February 2022, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | |
-| **Abstract** | Read more: [Whistleblowing for Change: Exposing Systems of Power &amp; Injustice](https://www.disruptionlab.org/book) |
+| **Abstract** | The courageous acts of whistleblowing that inspired the world over the past few years have changed our perception of surveillance and control in today’s information society. But what are the wider effects of whistleblowing as an act of dissent on politics, society, and the arts? How does it contribute to new courses of action, digital tools, and contents? In this presentation, Tatiana Bazzichelli will introduce the book Whistleblowing for Change: Exposing Systems of Power and Injustice (Nov. 2021). Based on the work of Berlin's Disruption Network Lab and the contributions of 30 authors in the field of whistleblowing and social justice, this book examines this growing phenomenon, offering interdisciplinary pathways to empower the public by investigating whistleblowing as a developing political practice that has the ability to provoke change from within. <br> Read more: [Whistleblowing for Change: Exposing Systems of Power &amp; Injustice](https://www.disruptionlab.org/book) ([free EPUB/PDF](https://www.transcript-verlag.de/978-3-8376-5793-7/whistleblowing-for-change/)) <br> <br> *Tatiana Bazzichelli* is founder and director at Disruption Network Lab, an organisation in Berlin examining the intersection of politics, technology, and society. Her focus of work is whistleblowing, network culture, art and hacktivism. She was a member of the Transparency International Anti-Corruption Award Committee 2020. In 2019 she was appointed jury member for the Capital Cultural Fund by the German Federal Government and the city of Berlin, and in 2020 jury member for the Kulturlichter prize, a new award for digital cultural education in Germany. She is the author of the books Whistleblowing for Change (2021), Networked Disruption (2013), Disrupting Business (2013), and Networking (2006). In 2011-2014 she was programme curator at transmediale festival in Berlin.|
 
 
 ### Why do we need life-cycle thinking in the context of IoT? (by [Thibault Pirson](https://be.linkedin.com/in/thibault-pirson-bb7496195/en))
