@@ -60,7 +60,7 @@ anounced soon.
 | **When** | Tuesday, 01 March 2022, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
-| **Conferencing** | |
+| **Conferencing** | [https://bbb.cyber4edu.org/b/jan-zjg-hz6-nnu](https://bbb.cyber4edu.org/b/jan-zjg-hz6-nnu) |
 | **Abstract** | “If the twentieth century was the age of civil disobedience, the twenty-first century is shaping up to be the age of whistleblowing” (Delmas, 2015). However, both private-sector and public-sector whistleblowers continue to experience substantial or even growing pushback and retaliation. Since the fear of retaliation is a major disincentive for new potential whistleblowers, laws are being created to reduce the likelihood of this grave threat. The possibility of anonymous reporting is a controversial topic in the law-making progress, for example in the (ongoing) processes of national implementations of the EU Whistleblower Directive. Within these debates, many theoretical, legal and empirical investigations, and the marketing texts of whistleblower-software “solutions”,  take a very simple-minded view of anonymous reporting channels, essentially regarding anonymity as a binary feature that can be set at will. We argue that this is both an underestimation of what state-of-the-art computer science can deliver and an overestimation (and overselling) of it. In this talk, we will analyze the relation of identification, pseudonymization, and anonymization and their computational limitations. Based on this analysis, we propose that in order to incentivise and protect whistleblowers, anonymity needs to be supplanted by specific whistleblower-protection legislation per se and in interaction with other laws as well as organisational error culture. |
 
 
