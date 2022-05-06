@@ -5,11 +5,14 @@ topics related to cybersecurity and online privacy, organised by the
 [CiTiP](https://www.law.kuleuven.be/citip/en/),
 [COSIC](https://www.esat.kuleuven.be/cosic/), and
 [DistriNET](https://distrinet.cs.kuleuven.be/) research groups of [KU
-Leuven](https://www.kuleuven.be/). Subscribe to our [mailing
+Leuven](https://www.kuleuven.be/). We thank the [Weizenbaum
+Institute](https://www.weizenbaum-institut.de/) for logistic and technical
+support. Subscribe to our [mailing
 list](https://cif-seminars.github.io/#contact--mailing-list) or follow us
 on Twitter
-[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL&f=live) for talk
-announcements.  A playlist with all the recorded sessions is available on
+[#CIFSeminarsKUL](https://twitter.com/search?q=%23CIFSeminarsKUL&f=live)
+for talk announcements.  A playlist with all the recorded sessions is
+available on
 [YouTube](https://www.youtube.com/playlist?list=PLiHaXFHjrqYcMjR1bIKIpnJdA_3EFJoCR),
 presentation slides are available below.  All dates and times are in
 Brussels, Belgium time zone, CET/CEST. 
@@ -41,7 +44,7 @@ anounced soon.
 | **When** | Tuesday, 31 May 2022, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
-| **Conferencing** |  |
+| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | Data can be incredibly useful for innovation, and in particular for business, research and policy-making. Ultimately, data has great potential for the public good. However, the large-scale collection and use of data raises legitimate privacy concerns, especially in light of recent scandals such as the Cambridge Analytica one. <br> Traditionally, the standard approach to share data while protecting privacy has been de-identification. Yet, research has shown that this practice is not resistant to a wide range of re-identification attacks. In this presentation I will show why traditional de-identification is not practical for modern behavioral datasets ("big data"). I will then discuss how researchers are exploring alternative models to enable the privacy-conscientious use of big data, and why this is a never-ending attack/defense game. Throughout the presentation, I will discuss the policy implications of the technical results, particularly with respect to the concept of "anonymous data", which is outside the scope of the GDPR. |
 
 
@@ -343,4 +346,8 @@ Gierlichs](https://www.esat.kuleuven.be/cosic/people/benedikt-gierlichs/)
 (COSIC) and [Sofie
 Royer](https://www.law.kuleuven.be/citip/en/staff-members/staff/00105310)
 (CiTiP). Get in touch with us if you have questions or suggestions.
+
+Thanks go to [Bettina
+Berendt](https://www.weizenbaum-institut.de/portrait/p/bettina-berendt/)
+and the Weizenbaum Institute for providing us with a [BBB](https://bigbluebutton.org/) instance as a privacy-preserving open-source solution for hosting online seminars.
 
