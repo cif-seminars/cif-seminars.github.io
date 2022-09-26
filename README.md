@@ -32,18 +32,8 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Next Seminar
 
-<!--
 Oh no! We might be out of talks? No, not really. Upcoming seminars will be
 anounced soon.
--->
-
-### Using data while preserving privacy today: the failure of de-identification, the practicability of modern techniques, and anonymity in the GDPR (by [Andrea Gadotti](https://cpg.doc.ic.ac.uk/team/andrea/))
-
-| **When** | Tuesday, 31 May 2022, 12:30 - 13:30 |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
-| **Abstract** | Data can be incredibly useful for innovation, and in particular for business, research and policy-making. Ultimately, data has great potential for the public good. However, the large-scale collection and use of data raises legitimate privacy concerns, especially in light of recent scandals such as the Cambridge Analytica one. <br> Traditionally, the standard approach to share data while protecting privacy has been de-identification. Yet, research has shown that this practice is not resistant to a wide range of re-identification attacks. In this presentation I will show why traditional de-identification is not practical for modern behavioral datasets ("big data"). I will then discuss how researchers are exploring alternative models to enable the privacy-conscientious use of big data, and why this is a never-ending attack/defense game. Throughout the presentation, I will discuss the policy implications of the technical results, particularly with respect to the concept of "anonymous data", which is outside the scope of the GDPR. |
 
 
 <!-- ***Template***
@@ -71,6 +61,14 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+
+### Using data while preserving privacy today: the failure of de-identification, the practicability of modern techniques, and anonymity in the GDPR (by [Andrea Gadotti](https://cpg.doc.ic.ac.uk/team/andrea/))
+
+| **When** | Tuesday, 31 May 2022, 12:30 - 13:30 |
+| --- | --- |
+| **Abstract** | Data can be incredibly useful for innovation, and in particular for business, research and policy-making. Ultimately, data has great potential for the public good. However, the large-scale collection and use of data raises legitimate privacy concerns, especially in light of recent scandals such as the Cambridge Analytica one. <br> Traditionally, the standard approach to share data while protecting privacy has been de-identification. Yet, research has shown that this practice is not resistant to a wide range of re-identification attacks. In this presentation I will show why traditional de-identification is not practical for modern behavioral datasets ("big data"). I will then discuss how researchers are exploring alternative models to enable the privacy-conscientious use of big data, and why this is a never-ending attack/defense game. Throughout the presentation, I will discuss the policy implications of the technical results, particularly with respect to the concept of "anonymous data", which is outside the scope of the GDPR. |
+
 
 ### One piece of the puzzle: computational limits and opportunities of anonymity for whistleblower protection (by [Dr. Stefan Schiffner](https://www.researchgate.net/profile/Stefan-Schiffner-2) and  [Prof. Bettina Berendt](https://www.weizenbaum-institut.de/en/portrait/p/bettina-berendt/))
 
