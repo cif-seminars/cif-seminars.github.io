@@ -25,9 +25,7 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* Tuesday, 31 May 2022: [Using data while preserving privacy today: the
-  failure of de-identification, the practicability of modern techniques,
-and anonymity in the GDPR (by Andrea Gadotti)](https://cif-seminars.github.io/#using-data-while-preserving-privacy-today-the-failure-of-de-identification-the-practicability-of-modern-techniques-and-anonymity-in-the-gdpr-by-andrea-gadotti)
+* Thursday, 24 November 2022: Addressing Students' Eco-anxiety when Teaching Sustainability in Higher Education (by Prof. Elina Eriksson &amp; Prof. Anne-Kathrin Peters, KTH, Stockholm)
 
 ---
 
