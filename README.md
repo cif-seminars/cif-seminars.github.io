@@ -25,12 +25,12 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* Thursday, 20 October 2022: Leaky Forms: A Study of Email and Password
+* **Thursday, 13 October 2022:** Leaky Forms: A Study of Email and Password
   Exfiltration Before Form Submission (Asuman Senol)
-* Thursday, 24 November 2022: Addressing Students' Eco-anxiety when
+* **Thursday, 24 November 2022:** Addressing Students' Eco-anxiety when
   Teaching Sustainability in Higher Education (by Prof. Elina Eriksson
 &amp; Prof. Anne-Kathrin Peters, KTH, Stockholm)
-* Thursday, 08 December 2022: Ethical Practices for Security Research with
+* **Thursday, 08 December 2022:** Ethical Practices for Security Research with
   At-Risk Populations (tba)
 
 ---
