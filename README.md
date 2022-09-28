@@ -29,7 +29,7 @@ Brussels, Belgium time zone, CET/CEST.
   Exfiltration Before Form Submission (Asuman Senol)
 * **Thursday, 24 November 2022:** Addressing Students' Eco-anxiety when
   Teaching Sustainability in Higher Education (by Prof. Elina Eriksson
-&amp; Prof. Anne-Kathrin Peters, KTH, Stockholm)
+&amp; Prof. Anne-Kathrin Peters)
 * **tba, December 2022:** Ethical Practices for Security Research with
   At-Risk Populations (tba)
 
@@ -38,9 +38,10 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Next Seminar
 
+<!--
 Oh no! We might be out of talks? No, not really. Upcoming seminars will be
 anounced soon.
-
+-->
 
 <!-- ***Template***
 ### Title (by []())
@@ -48,9 +49,26 @@ anounced soon.
 | **When** | Tuesday, 30 June 2020, 12:30 - 13:30 |
 | --- | --- |
 | **Location** | online only |
-| **Conferencing** | [https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj](https://bbb.tbm.tudelft.nl/b/jan-ajw-cov-fzj) |
+| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | |
 -->
+
+### Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission (by [Asuman Senol](https://www.esat.kuleuven.be/cosic/people/asuman-senol/))
+
+| **When** | Thursday, 13 October 2022, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | Celestijnenlaan 200A, 05.152 (Java) |
+| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
+| **Abstract** | Web users enter their email addresses into online forms for a variety of reasons, including signing in or signing up for a service or subscribing to a newsletter. While enabling such functionality, email addresses typed into forms can also be collected by third-party scripts even when users change their minds and leave the site without submitting the form. Email addresses—or identifiers derived from them—are known to be used by data brokers and advertisers for cross-site, cross-platform, and persistent identification of potentially unsuspecting individuals. In order to find out whether access to online forms is misused by online trackers, we present a measurement of email and password collection that occurs before the form submission on the top 100,000 websites. We evaluate the effect of user location, browser configuration, and interaction with consent dialogs by comparing results across two vantage points (EU/US), two browser configurations (desktop/mobile), and three consent modes. Our crawler finds and fills email and password fields, monitors the network traffic for leaks, and intercepts script access to filled input fields. Our analyses show that users’ email addresses are exfiltrated to tracking, marketing and analytics domains before form submission and without giving consent on 1,844 websites in the EU crawl and 2,950 websites in the US crawl. While the majority of email addresses are sent to known tracking domains, we further identify 41 tracker domains that are not listed by any of the popular blocklists. Furthermore, we find incidental password collection on 52 websites by third-party session replay scripts. Paper: [https://www.usenix.org/conference/usenixsecurity22/presentation/senol](https://www.usenix.org/conference/usenixsecurity22/presentation/senol) |
+
+
+### Addressing Students' Eco-anxiety when Teaching Sustainability in Higher Education (by Prof. [Elina Eriksson](https://www.kth.se/profile/elina) &amp; Prof. [Anne-Kathrin Peters](https://www.kth.se/profile/akpeters))
+
+| **When** | Thursday, 24 November 2022, 12:30 - 13:30 |
+| --- | --- |
+| **Location** | tba |
+| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
+| **Abstract** | The widespread awareness and the sense of urgency and helplessness regarding the ongoing sustainability crisis (climate change, biodiversity loss etc.) can evoke feelings of grief, sorrow, despair and anxiety. Those emotions are seldom discussed in computing or in computing education. They can have detrimental effects on the well-being of students and others, and also lead to inaction. But concern can on the other hand also be a catalyst for learning. In this paper, we present results and reflections from a research and development project in our introductory course to sustainability and ICT focusing on emotions in sustainability education. We focus on “eco-anxiety” and ask: 1) How is eco-anxiety communicated by students and teachers?, 2) In what ways do students receive support to deal with eco-anxiety? and 3) What could be done to better address eco-anxiety in computing education? We here present an analysis of how we have responded to the phenomenon of eco-anxiety, what activities have been added to the course and an evaluation of these interventions. The results are based on joint reflections that have been guided by literature, a small-scale ethnographic study as well as a course evaluation. The paper will end with recommendations for other ICT4S educators on how they can start addressing eco-anxiety in their education. Paper: [https://doi.org/10.1109/ICT4S55073.2022.00020](https://doi.org/10.1109/ICT4S55073.2022.00020) |
 
 
 ---
