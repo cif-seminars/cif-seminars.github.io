@@ -30,7 +30,7 @@ Brussels, Belgium time zone, CET/CEST.
 * **Thursday, 24 November 2022:** Addressing Students' Eco-anxiety when
   Teaching Sustainability in Higher Education (by Prof. Elina Eriksson
 &amp; Prof. Anne-Kathrin Peters, KTH, Stockholm)
-* **Thursday, 08 December 2022:** Ethical Practices for Security Research with
+* **tba, December 2022:** Ethical Practices for Security Research with
   At-Risk Populations (tba)
 
 ---
