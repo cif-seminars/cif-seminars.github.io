@@ -55,7 +55,7 @@ anounced soon.
 
 ### Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission (by [Asuman Senol](https://www.esat.kuleuven.be/cosic/people/asuman-senol/))
 
-| **When** | Thursday, 13 October 2022, 12:30 - 13:30 |
+| **When** | Thursday, 13 October 2022, 12:30 - 13:30 CEST |
 | --- | --- |
 | **Location** | imec-DistriNet, [Celestijnenlaan 200A, Heverlee](https://wms.cs.kuleuven.be/cs/english/about/directions) -- Room 05.152 (Java) |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
@@ -64,7 +64,7 @@ anounced soon.
 
 ### Addressing Students' Eco-anxiety when Teaching Sustainability in Higher Education (by Prof. [Elina Eriksson](https://www.kth.se/profile/elina) &amp; Prof. [Anne-Kathrin Peters](https://www.kth.se/profile/akpeters))
 
-| **When** | Thursday, 24 November 2022, 12:30 - 13:30 |
+| **When** | Thursday, 24 November 2022, 12:30 - 13:30 CET |
 | --- | --- |
 | **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
