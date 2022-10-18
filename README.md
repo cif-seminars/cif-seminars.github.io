@@ -25,8 +25,7 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **Thursday, 13 October 2022:** [Leaky Forms: A Study of Email and Password
-  Exfiltration Before Form Submission (Asuman Senol)](https://cif-seminars.github.io/#leaky-forms-a-study-of-email-and-password-exfiltration-before-form-submission-by-asuman-senol)
+* **Thursday, 3 November 2022:** [Implementing privacy requirements in software projects (Mykyta Petik)](https://cif-seminars.github.io/#leaky-forms-a-study-of-email-and-password-exfiltration-before-form-submission-by-asuman-senol)
 * **Thursday, 24 November 2022:** [Addressing Students' Eco-anxiety when
   Teaching Sustainability in Higher Education (by Prof. Elina Eriksson
 &amp; Prof. Anne-Kathrin Peters)](https://cif-seminars.github.io/#addressing-students-eco-anxiety-when-teaching-sustainability-in-higher-education-by-prof-elina-eriksson--prof-anne-kathrin-peters)
@@ -60,6 +59,17 @@ anounced soon.
 | **Location** | imec-DistriNet, [Celestijnenlaan 200A, Heverlee](https://wms.cs.kuleuven.be/cs/english/about/directions) -- Room 05.152 (Java) |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | Web users enter their email addresses into online forms for a variety of reasons, including signing in or signing up for a service or subscribing to a newsletter. While enabling such functionality, email addresses typed into forms can also be collected by third-party scripts even when users change their minds and leave the site without submitting the form. Email addresses—or identifiers derived from them—are known to be used by data brokers and advertisers for cross-site, cross-platform, and persistent identification of potentially unsuspecting individuals. In order to find out whether access to online forms is misused by online trackers, we present a measurement of email and password collection that occurs before the form submission on the top 100,000 websites. We evaluate the effect of user location, browser configuration, and interaction with consent dialogs by comparing results across two vantage points (EU/US), two browser configurations (desktop/mobile), and three consent modes. Our crawler finds and fills email and password fields, monitors the network traffic for leaks, and intercepts script access to filled input fields. Our analyses show that users’ email addresses are exfiltrated to tracking, marketing and analytics domains before form submission and without giving consent on 1,844 websites in the EU crawl and 2,950 websites in the US crawl. While the majority of email addresses are sent to known tracking domains, we further identify 41 tracker domains that are not listed by any of the popular blocklists. Furthermore, we find incidental password collection on 52 websites by third-party session replay scripts. <br> Paper: [https://www.usenix.org/conference/usenixsecurity22/presentation/senol](https://www.usenix.org/conference/usenixsecurity22/presentation/senol) |
+
+
+
+### Implementing privacy requirements in software projects  (by [Mykyta Petik](https://www.law.kuleuven.be/citip/en/staff-members/staff/00132505))
+
+| **When** | Thursday, 03 November 2022, 12:30 - 13:30 CET |
+| --- | --- |
+| **Location** | imec-DistriNet, [Celestijnenlaan 200A, Heverlee](https://wms.cs.kuleuven.be/cs/english/about/directions) -- Room 05.128 (Prolog) |
+| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
+| **Abstract** | In this presentation, we will explore the data protection by design approach to help developers take care of personal data processing requirements in their projects, specifically in the context of cloud, edge and 5G, and distributed applications in general. We also discuss how to implement GDPR guidelines in a Software Development Life Cycle, and how to involve Data Protection Officers and lawyers in the process. <br> The implementation of distributed systems that process personal data -- in particular in Software Defined Networking and Network Function Virtualization in 5G networks -- leads to an increase in the importance of reliable privacy-preserving solutions for data protection. Even the most straightforward software dealing with personal data has to take a number of legal issues into account, such as respect for user personal data and adherence to principles governing the processing of personal data enshrined in GDPR. Data protection by design requires considering these factors early in development to avoid costly patches in the future or even the risk of personal data breaches. Developers and software project managers have to adhere to data protection by design principles as well as other personal data processing requirements as well as consider working with data protection officers and lawyers at certain stages of the SDLC. |
+
 
 
 ### Addressing Students' Eco-anxiety when Teaching Sustainability in Higher Education (by Prof. [Elina Eriksson](https://www.kth.se/profile/elina) &amp; Prof. [Anne-Kathrin Peters](https://www.kth.se/profile/akpeters))
