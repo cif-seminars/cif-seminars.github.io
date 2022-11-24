@@ -25,8 +25,9 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **Thursday, 26 January 2023:** Predictive Policing and the Defense Rights
-  Against Criminal Risk Assessment (by Dr. Irmak Erdogan Peter)
+* **Thursday, 26 January 2023:** [Predictive Policing and the Defense
+  Rights Against Criminal Risk Assessment (by Dr. Irmak Erdogan
+Peter)](https://cif-seminars.github.io/#predictive-policing-and-the-defense-rights-against-criminal-risk-assessment-by-dr-irmak-erdogan-peter)
 * **tba:** Ethical Practices for Security Research with At-Risk Populations
   (tba)
 
