@@ -25,11 +25,10 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **Thursday, 24 November 2022:** [Addressing Students' Eco-anxiety when
-  Teaching Sustainability in Higher Education (by Prof. Elina Eriksson
-&amp; Prof. Anne-Kathrin Peters)](https://cif-seminars.github.io/#addressing-students-eco-anxiety-when-teaching-sustainability-in-higher-education-by-prof-elina-eriksson--prof-anne-kathrin-peters)
-* **tba, December 2022:** Ethical Practices for Security Research with
-  At-Risk Populations (tba)
+* **Thursday, 26 January 2023:** Predictive Policing and the Defense Rights
+  Against Criminal Risk Assessment (by Dr. Irmak Erdogan Peter)
+* **tba:** Ethical Practices for Security Research with At-Risk Populations
+  (tba)
 
 ---
 
@@ -52,13 +51,13 @@ anounced soon.
 -->
 
 
-### Addressing Students' Eco-anxiety when Teaching Sustainability in Higher Education (by Prof. [Elina Eriksson](https://www.kth.se/profile/elina) &amp; Prof. [Anne-Kathrin Peters](https://www.kth.se/profile/akpeters))
+### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
 
-| **When** | Thursday, 24 November 2022, 12:30 - 13:30 CET |
+| **When** | Thursday, 26 January 2023, 12:30 - 13:30 CET |
 | --- | --- |
 | **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
-| **Abstract** | The widespread awareness and the sense of urgency and helplessness regarding the ongoing sustainability crisis (climate change, biodiversity loss etc.) can evoke feelings of grief, sorrow, despair and anxiety. Those emotions are seldom discussed in computing or in computing education. They can have detrimental effects on the well-being of students and others, and also lead to inaction. But concern can on the other hand also be a catalyst for learning. In this paper, we present results and reflections from a research and development project in our introductory course to sustainability and ICT focusing on emotions in sustainability education. We focus on “eco-anxiety” and ask: 1) How is eco-anxiety communicated by students and teachers?, 2) In what ways do students receive support to deal with eco-anxiety? and 3) What could be done to better address eco-anxiety in computing education? We here present an analysis of how we have responded to the phenomenon of eco-anxiety, what activities have been added to the course and an evaluation of these interventions. The results are based on joint reflections that have been guided by literature, a small-scale ethnographic study as well as a course evaluation. The paper will end with recommendations for other ICT4S educators on how they can start addressing eco-anxiety in their education. <br> Paper: [https://doi.org/10.1109/ICT4S55073.2022.00020](https://doi.org/10.1109/ICT4S55073.2022.00020) |
+| **Abstract** | The modern actuarial techniques constitute a revival of the power of the state to categorize, identify and apprehend “would-be offenders.” The promise of “stopping crime before it happens” has spread the use of predictive analytics, which regroup massive amounts of data and emerge profiles of people. The risk assessment tools replace the individualized suspicion with an automated, impersonal suspicion and enlarge the scope of criminal procedures to the pre-crime area. Furthermore, it traps the “risky” individuals in a trial system, which keeps them in a continuous investigation process without knowing the grounds for the accusation. After presenting a comprehensive review of these predictive risk analysis tools used in the United States and Europe, this seminar seeks to analyse how profiling technologies differ from traditional criminal procedure measures and discuss the evidential value of the risk scores. Furthermore, it aims to discuss if data protection regulations can be integrated into criminal procedures to protect the rights of suspects/defendants concerning risk profiling technologies. |
 
 
 ---
@@ -75,6 +74,13 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+### Addressing Students' Eco-anxiety when Teaching Sustainability in Higher Education (by Prof. [Elina Eriksson](https://www.kth.se/profile/elina) &amp; Prof. [Anne-Kathrin Peters](https://www.kth.se/profile/akpeters))
+
+| **When** | Thursday, 24 November 2022, 12:30 - 13:30 CET |
+| --- | --- |
+| **Abstract** | The widespread awareness and the sense of urgency and helplessness regarding the ongoing sustainability crisis (climate change, biodiversity loss etc.) can evoke feelings of grief, sorrow, despair and anxiety. Those emotions are seldom discussed in computing or in computing education. They can have detrimental effects on the well-being of students and others, and also lead to inaction. But concern can on the other hand also be a catalyst for learning. In this paper, we present results and reflections from a research and development project in our introductory course to sustainability and ICT focusing on emotions in sustainability education. We focus on “eco-anxiety” and ask: 1) How is eco-anxiety communicated by students and teachers?, 2) In what ways do students receive support to deal with eco-anxiety? and 3) What could be done to better address eco-anxiety in computing education? We here present an analysis of how we have responded to the phenomenon of eco-anxiety, what activities have been added to the course and an evaluation of these interventions. The results are based on joint reflections that have been guided by literature, a small-scale ethnographic study as well as a course evaluation. The paper will end with recommendations for other ICT4S educators on how they can start addressing eco-anxiety in their education. <br> Paper: [https://doi.org/10.1109/ICT4S55073.2022.00020](https://doi.org/10.1109/ICT4S55073.2022.00020) |
+
 
 ### Implementing privacy requirements in software projects (by [Mykyta Petik](https://www.law.kuleuven.be/citip/en/staff-members/staff/00132505))
 
