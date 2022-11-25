@@ -25,7 +25,7 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **Thursday, 26 January 2023:** [Predictive Policing and the Defense
+* **Tuesday, 24 January 2023:** [Predictive Policing and the Defense
   Rights Against Criminal Risk Assessment (by Dr. Irmak Erdogan
 Peter)](https://cif-seminars.github.io/#predictive-policing-and-the-defense-rights-against-criminal-risk-assessment-by-dr-irmak-erdogan-peter)
 * **tba:** Ethical Practices for Security Research with At-Risk Populations
@@ -54,7 +54,7 @@ anounced soon.
 
 ### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
 
-| **When** | Thursday, 26 January 2023, 12:30 - 13:30 CET |
+| **When** | Tuesday, 24 January 2023, 12:30 - 13:30 CET |
 | --- | --- |
 | **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
