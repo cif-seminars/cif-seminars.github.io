@@ -26,7 +26,7 @@ Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 * **Tuesday, 20 December 2022:** [Ethical Practices for Security Research
-  with At-Risk Populations (by Dr. Angelika
+  with At-Risk Populations (by Vaughn Hamilton &amp; Dr. Angelika
 Strohmayer)](https://cif-seminars.github.io/#ethical-practices-for-security-research-with-at-risk-populations-by-dr-angelika-strohmayer)
 * **Tuesday, 24 January 2023:** [Predictive Policing and the Defense Rights
   Against Criminal Risk Assessment (by Dr. Irmak Erdogan
@@ -52,7 +52,7 @@ anounced soon.
 | **Abstract** | |
 -->
 
-### Ethical Practices for Security Research with At-Risk Populations (by Dr. [Angelika Strohmayer](https://www.northumbria.ac.uk/about-us/our-staff/s/angelika-strohmayer/))
+### Ethical Practices for Security Research with At-Risk Populations (by [Vaughn Hamilton](https://twitter.com/vaughncendiary) &amp; Dr. [Angelika Strohmayer](https://www.northumbria.ac.uk/about-us/our-staff/s/angelika-strohmayer/))
 
 | **When** | Tuesday, 20 December 2022, 12:30 - 13:30 CET |
 | --- | --- |
