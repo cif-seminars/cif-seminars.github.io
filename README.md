@@ -25,10 +25,11 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **tba:** Ethical Practices for Security Research with At-Risk Populations
-  (tba)
-* **Tuesday, 24 January 2023:** [Predictive Policing and the Defense
-  Rights Against Criminal Risk Assessment (by Dr. Irmak Erdogan
+* **Tuesday, 20 December 2022:** [Ethical Practices for Security Research
+  with At-Risk Populations (by Dr. Angelika
+Strohmayer)](https://cif-seminars.github.io/#ethical-practices-for-security-research-with-at-risk-populations-by-dr-angelika-strohmayer)
+* **Tuesday, 24 January 2023:** [Predictive Policing and the Defense Rights
+  Against Criminal Risk Assessment (by Dr. Irmak Erdogan
 Peter)](https://cif-seminars.github.io/#predictive-policing-and-the-defense-rights-against-criminal-risk-assessment-by-dr-irmak-erdogan-peter)
 
 ---
@@ -57,19 +58,7 @@ anounced soon.
 | --- | --- |
 | **Location** | online only |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
-| **Abstract** | A growing body of security and privacy research focuses on
-at-risk populations - those who are marginalized, stigmatized, and/or
-criminalized - and who may face significant harm from research conducted
-about themselves and their communities. For example, recent research has
-studied family members of those in prison, survivors of domestic violence,
-undocumented immigrants, and sex workers. At-risk communities have a
-heightened need for confidentiality, consideration for possible past
-trauma, and research justice given inherent power differentials. Here, we
-offer a set of ethical research practices we have deployed in research with
-multiple at-risk communities. We hope these practices will serve as
-guidance and a springboard for discussion about what it means to conduct
-ethical research, particularly with marginalized, stigmatized, and/or
-criminalized groups. <br> Paper: <a href="https://doi.org/10.1109/EuroSPW55150.2022.00065">https://doi.org/10.1109/EuroSPW55150.2022.00065</a>|
+| **Abstract** | A growing body of security and privacy research focuses on at-risk populations - those who are marginalized, stigmatized, and/or criminalized - and who may face significant harm from research conducted about themselves and their communities. For example, recent research has studied family members of those in prison, survivors of domestic violence, undocumented immigrants, and sex workers. At-risk communities have a heightened need for confidentiality, consideration for possible past trauma, and research justice given inherent power differentials. Here, we offer a set of ethical research practices we have deployed in research with multiple at-risk communities. We hope these practices will serve as guidance and a springboard for discussion about what it means to conduct ethical research, particularly with marginalized, stigmatized, and/or criminalized groups. <br> Paper: <a href="https://doi.org/10.1109/EuroSPW55150.2022.00065">https://doi.org/10.1109/EuroSPW55150.2022.00065</a> |
 
 
 ### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
