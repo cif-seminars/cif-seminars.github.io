@@ -25,9 +25,6 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **Tuesday, 20 December 2022:** [Ethical Practices for Security Research
-  with At-Risk Populations (by Vaughn Hamilton &amp; Dr. Angelika
-Strohmayer)](https://cif-seminars.github.io/#ethical-practices-for-security-research-with-at-risk-populations-by-vaughn-hamilton--dr-angelika-strohmayer)
 * **Tuesday, 24 January 2023:** [Predictive Policing and the Defense Rights
   Against Criminal Risk Assessment (by Dr. Irmak Erdogan
 Peter)](https://cif-seminars.github.io/#predictive-policing-and-the-defense-rights-against-criminal-risk-assessment-by-dr-irmak-erdogan-peter)
@@ -51,15 +48,6 @@ anounced soon.
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | |
 -->
-
-### Ethical Practices for Security Research with At-Risk Populations (by [Vaughn Hamilton](https://twitter.com/vaughncendiary) &amp; Dr. [Angelika Strohmayer](https://www.northumbria.ac.uk/about-us/our-staff/s/angelika-strohmayer/))
-
-| **When** | Tuesday, 20 December 2022, 12:30 - 13:30 CET |
-| --- | --- |
-| **Location** | online only |
-| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
-| **Abstract** | A growing body of security and privacy research focuses on at-risk populations - those who are marginalized, stigmatized, and/or criminalized - and who may face significant harm from research conducted about themselves and their communities. For example, recent research has studied family members of those in prison, survivors of domestic violence, undocumented immigrants, and sex workers. At-risk communities have a heightened need for confidentiality, consideration for possible past trauma, and research justice given inherent power differentials. Here, we offer a set of ethical research practices we have deployed in research with multiple at-risk communities. We hope these practices will serve as guidance and a springboard for discussion about what it means to conduct ethical research, particularly with marginalized, stigmatized, and/or criminalized groups. <br> Paper: <a href="https://doi.org/10.1109/EuroSPW55150.2022.00065">https://doi.org/10.1109/EuroSPW55150.2022.00065</a> |
-
 
 ### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
 
@@ -85,6 +73,13 @@ anounced soon.
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
 
+### Ethical Practices for Security Research with At-Risk Populations (by [Vaughn Hamilton](https://twitter.com/vaughncendiary) &amp; Dr. [Angelika Strohmayer](https://www.northumbria.ac.uk/about-us/our-staff/s/angelika-strohmayer/))
+
+| **When** | Tuesday, 20 December 2022, 12:30 - 13:30 CET |
+| --- | --- |
+| **Abstract** | A growing body of security and privacy research focuses on at-risk populations - those who are marginalized, stigmatized, and/or criminalized - and who may face significant harm from research conducted about themselves and their communities. For example, recent research has studied family members of those in prison, survivors of domestic violence, undocumented immigrants, and sex workers. At-risk communities have a heightened need for confidentiality, consideration for possible past trauma, and research justice given inherent power differentials. Here, we offer a set of ethical research practices we have deployed in research with multiple at-risk communities. We hope these practices will serve as guidance and a springboard for discussion about what it means to conduct ethical research, particularly with marginalized, stigmatized, and/or criminalized groups. <br> Paper: <a href="https://doi.org/10.1109/EuroSPW55150.2022.00065">https://doi.org/10.1109/EuroSPW55150.2022.00065</a> |
+
+
 ### Addressing Students' Eco-anxiety when Teaching Sustainability in Higher Education (by Prof. [Elina Eriksson](https://www.kth.se/profile/elina) &amp; Prof. [Anne-Kathrin Peters](https://www.kth.se/profile/akpeters))
 
 | **When** | Thursday, 24 November 2022, 12:30 - 13:30 CET |
@@ -106,7 +101,7 @@ anounced soon.
 | --- | --- |
 | **Abstract** | Web users enter their email addresses into online forms for a variety of reasons, including signing in or signing up for a service or subscribing to a newsletter. While enabling such functionality, email addresses typed into forms can also be collected by third-party scripts even when users change their minds and leave the site without submitting the form. Email addresses—or identifiers derived from them—are known to be used by data brokers and advertisers for cross-site, cross-platform, and persistent identification of potentially unsuspecting individuals. In order to find out whether access to online forms is misused by online trackers, we present a measurement of email and password collection that occurs before the form submission on the top 100,000 websites. We evaluate the effect of user location, browser configuration, and interaction with consent dialogs by comparing results across two vantage points (EU/US), two browser configurations (desktop/mobile), and three consent modes. Our crawler finds and fills email and password fields, monitors the network traffic for leaks, and intercepts script access to filled input fields. Our analyses show that users’ email addresses are exfiltrated to tracking, marketing and analytics domains before form submission and without giving consent on 1,844 websites in the EU crawl and 2,950 websites in the US crawl. While the majority of email addresses are sent to known tracking domains, we further identify 41 tracker domains that are not listed by any of the popular blocklists. Furthermore, we find incidental password collection on 52 websites by third-party session replay scripts. <br> Paper: [https://www.usenix.org/conference/usenixsecurity22/presentation/senol](https://www.usenix.org/conference/usenixsecurity22/presentation/senol) |
 | **Slides &** | [20221013-senol-leakyforms.pdf](slides/20221013-senol-leakyforms.pdf) |
-| **Recording** | [![Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission (by Asuman Senol)](thumbs/20221013-1-small.png)](https://www.youtube.com/watch?v=lYrcnQ2lVO4) (this presentation is from [USENIX2022](https://www.usenix.org/conference/usenixsecurity22/)) |
+| **Recording** | [![Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission (by Asuman Senol)](thumbs/20221013-1-small.png "Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission (by Asuman Senol, this presentation is from USENIX 2022)")](https://www.youtube.com/watch?v=lYrcnQ2lVO4) (this presentation is from [USENIX2022](https://www.usenix.org/conference/usenixsecurity22/)) |
 
 
 ### Using data while preserving privacy today: the failure of de-identification, the practicability of modern techniques, and anonymity in the GDPR (by [Andrea Gadotti](https://cpg.doc.ic.ac.uk/team/andrea/))
