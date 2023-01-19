@@ -28,6 +28,7 @@ Brussels, Belgium time zone, CET/CEST.
 * **Tuesday, 24 January 2023:** [Predictive Policing and the Defense Rights
   Against Criminal Risk Assessment (by Dr. Irmak Erdogan
 Peter)](https://cif-seminars.github.io/#predictive-policing-and-the-defense-rights-against-criminal-risk-assessment-by-dr-irmak-erdogan-peter)
+* **Tuesday, 14 March 2023:** [From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by Lennart Oldenburg)](https://cif-seminars.github.io/#from-onion-routing-to-mixing-packets-introduction-to-the-metadata-hiding-concept-of-mixnets-by-lennart-oldenburg)
 
 ---
 
@@ -49,14 +50,6 @@ anounced soon.
 | **Abstract** | |
 -->
 
-### From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by [Lennart Oldenburg](https://lennartoldenburg.de/))
-
-| **When** | Tuesday, 14 March 2023, 12:30 - 13:30 CET |
-| --- | --- |
-| **Location** |  |
-| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
-| **Abstract** | When we browse, message, and work online, we send and receive packets via the Internet. The content data of these packets drive our online lives, whether we request the webpage to read an article, send a reply in a chat conversation, or make an edit to a shared document with colleagues. The privacy implications from leaving these content data unencrypted are immediate and widely discussed, not least since the Snowden Revelations. Fortunately, we have made good technical progress and nowadays use strong content data protections like TLS for web browsing and end-to-end encryption in messaging without even thinking about it. <br> However, another type of data is necessary or automatically produced when we interact with the Internet. Packets require routing information to reach their destinations, and time and volume information are generated automatically when packets leave our devices. These "metadata" provide information about other data, namely, our content data or actions online. Oftentimes, metadata are just as sensitive as the actually sent content data. However, metadata-hiding measures are not (yet) as commonplace in our connected lives as content data protections. <br> This talk is an introduction to one technical approach for how we can make metadata-hiding communication systems a reality: mixnets. We look at the need for and setting of these types of systems, including the concept of a global passive adversary. By touching upon Tor, we discuss the concept of onion routing through a sequence of servers. Combining onion routing with delays when routing packets, we arrive at the technical core of mixnets. Mixnets offer a large design space which we explore at a high level. We end with a discussion of this concept's strengths and weaknesses, and a look at what is still holding back mixnets from hiding metadata at Internet scale. |
-
 
 ### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
 
@@ -65,6 +58,15 @@ anounced soon.
 | **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | The modern actuarial techniques constitute a revival of the power of the state to categorize, identify and apprehend “would-be offenders.” The promise of “stopping crime before it happens” has spread the use of predictive analytics, which regroup massive amounts of data and emerge profiles of people. The risk assessment tools replace the individualized suspicion with an automated, impersonal suspicion and enlarge the scope of criminal procedures to the pre-crime area. Furthermore, it traps the “risky” individuals in a trial system, which keeps them in a continuous investigation process without knowing the grounds for the accusation. After presenting a comprehensive review of these predictive risk analysis tools used in the United States and Europe, this seminar seeks to analyse how profiling technologies differ from traditional criminal procedure measures and discuss the evidential value of the risk scores. Furthermore, it aims to discuss if data protection regulations can be integrated into criminal procedures to protect the rights of suspects/defendants concerning risk profiling technologies. |
+
+
+### From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by [Lennart Oldenburg](https://lennartoldenburg.de/))
+
+| **When** | Tuesday, 14 March 2023, 12:30 - 13:30 CET |
+| --- | --- |
+| **Location** |  |
+| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
+| **Abstract** | When we browse, message, and work online, we send and receive packets via the Internet. The content data of these packets drive our online lives, whether we request the webpage to read an article, send a reply in a chat conversation, or make an edit to a shared document with colleagues. The privacy implications from leaving these content data unencrypted are immediate and widely discussed, not least since the Snowden Revelations. Fortunately, we have made good technical progress and nowadays use strong content data protections like TLS for web browsing and end-to-end encryption in messaging without even thinking about it. <br> However, another type of data is necessary or automatically produced when we interact with the Internet. Packets require routing information to reach their destinations, and time and volume information are generated automatically when packets leave our devices. These "metadata" provide information about other data, namely, our content data or actions online. Oftentimes, metadata are just as sensitive as the actually sent content data. However, metadata-hiding measures are not (yet) as commonplace in our connected lives as content data protections. <br> This talk is an introduction to one technical approach for how we can make metadata-hiding communication systems a reality: mixnets. We look at the need for and setting of these types of systems, including the concept of a global passive adversary. By touching upon Tor, we discuss the concept of onion routing through a sequence of servers. Combining onion routing with delays when routing packets, we arrive at the technical core of mixnets. Mixnets offer a large design space which we explore at a high level. We end with a discussion of this concept's strengths and weaknesses, and a look at what is still holding back mixnets from hiding metadata at Internet scale. |
 
 
 ---
