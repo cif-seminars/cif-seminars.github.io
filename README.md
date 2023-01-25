@@ -25,9 +25,6 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **Tuesday, 24 January 2023:** [Predictive Policing and the Defense Rights
-  Against Criminal Risk Assessment (by Dr. Irmak Erdogan
-Peter)](https://cif-seminars.github.io/#predictive-policing-and-the-defense-rights-against-criminal-risk-assessment-by-dr-irmak-erdogan-peter)
 * **Wednesday, 15 March 2023:** [From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by Lennart Oldenburg)](https://cif-seminars.github.io/#from-onion-routing-to-mixing-packets-introduction-to-the-metadata-hiding-concept-of-mixnets-by-lennart-oldenburg)
 
 ---
@@ -49,15 +46,6 @@ anounced soon.
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | |
 -->
-
-
-### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
-
-| **When** | Tuesday, 24 January 2023, 12:30 - 13:30 CET |
-| --- | --- |
-| **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
-| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
-| **Abstract** | The modern actuarial techniques constitute a revival of the power of the state to categorize, identify and apprehend “would-be offenders.” The promise of “stopping crime before it happens” has spread the use of predictive analytics, which regroup massive amounts of data and emerge profiles of people. The risk assessment tools replace the individualized suspicion with an automated, impersonal suspicion and enlarge the scope of criminal procedures to the pre-crime area. Furthermore, it traps the “risky” individuals in a trial system, which keeps them in a continuous investigation process without knowing the grounds for the accusation. After presenting a comprehensive review of these predictive risk analysis tools used in the United States and Europe, this seminar seeks to analyse how profiling technologies differ from traditional criminal procedure measures and discuss the evidential value of the risk scores. Furthermore, it aims to discuss if data protection regulations can be integrated into criminal procedures to protect the rights of suspects/defendants concerning risk profiling technologies. |
 
 
 ### From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by [Lennart Oldenburg](https://lennartoldenburg.de/))
@@ -83,6 +71,15 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
+
+| **When** | Tuesday, 24 January 2023, 12:30 - 13:30 CET |
+| --- | --- |
+| **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
+| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
+| **Abstract** | The modern actuarial techniques constitute a revival of the power of the state to categorize, identify and apprehend “would-be offenders.” The promise of “stopping crime before it happens” has spread the use of predictive analytics, which regroup massive amounts of data and emerge profiles of people. The risk assessment tools replace the individualized suspicion with an automated, impersonal suspicion and enlarge the scope of criminal procedures to the pre-crime area. Furthermore, it traps the “risky” individuals in a trial system, which keeps them in a continuous investigation process without knowing the grounds for the accusation. After presenting a comprehensive review of these predictive risk analysis tools used in the United States and Europe, this seminar seeks to analyse how profiling technologies differ from traditional criminal procedure measures and discuss the evidential value of the risk scores. Furthermore, it aims to discuss if data protection regulations can be integrated into criminal procedures to protect the rights of suspects/defendants concerning risk profiling technologies. |
+
 
 ### Ethical Practices for Security Research with At-Risk Populations (by [Vaughn Hamilton](https://twitter.com/vaughncendiary) &amp; Dr. [Angelika Strohmayer](https://www.northumbria.ac.uk/about-us/our-staff/s/angelika-strohmayer/))
 
