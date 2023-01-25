@@ -62,7 +62,7 @@ anounced soon.
 
 ### From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by [Lennart Oldenburg](https://lennartoldenburg.de/))
 
-| **When** | Tuesday, 15 March 2023, 12:30 - 13:30 CET |
+| **When** | Wednesday, 15 March 2023, 12:30 - 13:30 CET |
 | --- | --- |
 | **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
