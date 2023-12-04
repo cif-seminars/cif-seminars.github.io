@@ -48,14 +48,6 @@ anounced soon.
 -->
 
 
-### From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by [Lennart Oldenburg](https://lennartoldenburg.de/))
-
-| **When** | Wednesday, 15 March 2023, 12:30 - 13:30 CET |
-| --- | --- |
-| **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
-| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
-| **Abstract** | When we browse, message, and work online, we send and receive packets via the Internet. The content data of these packets drive our online lives, whether we request the webpage to read an article, send a reply in a chat conversation, or make an edit to a shared document with colleagues. The privacy implications from leaving these content data unencrypted are immediate and widely discussed, not least since the Snowden Revelations. Fortunately, we have made good technical progress and nowadays use strong content data protections like TLS for web browsing and end-to-end encryption in messaging without even thinking about it. <br> However, another type of data is necessary or automatically produced when we interact with the Internet. Packets require routing information to reach their destinations, and time and volume information are generated automatically when packets leave our devices. These "metadata" provide information about other data, namely, our content data or actions online. Oftentimes, metadata are just as sensitive as the actually sent content data. However, metadata-hiding measures are not (yet) as commonplace in our connected lives as content data protections. <br> This talk is an introduction to one technical approach for how we can make metadata-hiding communication systems a reality: mixnets. We look at the need for and setting of these types of systems, including the concept of a global passive adversary. By touching upon Tor, we discuss the concept of onion routing through a sequence of servers. Combining onion routing with delays when routing packets, we arrive at the technical core of mixnets. Mixnets offer a large design space which we explore at a high level. We end with a discussion of this concept's strengths and weaknesses, and a look at what is still holding back mixnets from hiding metadata at Internet scale. |
-
 
 ---
 
@@ -71,6 +63,12 @@ anounced soon.
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+### From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by [Lennart Oldenburg](https://lennartoldenburg.de/))
+
+| **When** | Wednesday, 15 March 2023, 12:30 - 13:30 CET |
+| --- | --- |
+| **Abstract** | When we browse, message, and work online, we send and receive packets via the Internet. The content data of these packets drive our online lives, whether we request the webpage to read an article, send a reply in a chat conversation, or make an edit to a shared document with colleagues. The privacy implications from leaving these content data unencrypted are immediate and widely discussed, not least since the Snowden Revelations. Fortunately, we have made good technical progress and nowadays use strong content data protections like TLS for web browsing and end-to-end encryption in messaging without even thinking about it. <br> However, another type of data is necessary or automatically produced when we interact with the Internet. Packets require routing information to reach their destinations, and time and volume information are generated automatically when packets leave our devices. These "metadata" provide information about other data, namely, our content data or actions online. Oftentimes, metadata are just as sensitive as the actually sent content data. However, metadata-hiding measures are not (yet) as commonplace in our connected lives as content data protections. <br> This talk is an introduction to one technical approach for how we can make metadata-hiding communication systems a reality: mixnets. We look at the need for and setting of these types of systems, including the concept of a global passive adversary. By touching upon Tor, we discuss the concept of onion routing through a sequence of servers. Combining onion routing with delays when routing packets, we arrive at the technical core of mixnets. Mixnets offer a large design space which we explore at a high level. We end with a discussion of this concept's strengths and weaknesses, and a look at what is still holding back mixnets from hiding metadata at Internet scale. |
+
 
 ### Predictive Policing and the Defense Rights Against Criminal Risk Assessment (by Dr. [Irmak Erdogan Peter](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157508))
 
