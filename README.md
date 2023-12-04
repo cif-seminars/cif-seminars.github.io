@@ -25,7 +25,7 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-* **Wednesday, 15 March 2023:** [From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by Lennart Oldenburg)](https://cif-seminars.github.io/#from-onion-routing-to-mixing-packets-introduction-to-the-metadata-hiding-concept-of-mixnets-by-lennart-oldenburg)
+* **Wednesday, 6 December 2023:** [Quantum-Safe Cryptography: Threat timeline and the Imperative of Resilience (by Michele Mosca)](https://cif-seminars.github.io/#quantum-safe-cryptography-threat-timeline-and-the-imperative-of-resilience-by-michele-mosca-university-of-waterloo)
 
 ---
 
