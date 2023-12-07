@@ -25,7 +25,9 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
+<!--
 * **Wednesday, 6 December 2023:** [Quantum-Safe Cryptography: Threat timeline and the Imperative of Resilience (by Michele Mosca)](https://cif-seminars.github.io/#quantum-safe-cryptography-threat-timeline-and-the-imperative-of-resilience-by-michele-mosca-university-of-waterloo)
+-->
 
 ---
 
@@ -47,18 +49,6 @@ anounced soon.
 | **Abstract** | |
 -->
 
-### Quantum-Safe Cryptography: Threat timeline and the Imperative of Resilience (by Michele Mosca (University of Waterloo))
-
-| **When** | Wednesday, 6 December 2023, 10:30 - 11:30 |
-| --- | --- |
-| **Location** | ESAT, Kasteelpark Arenberg 10, 3001 Leuven-Heverlee, auditorium R |
-| **Conferencing** | NA |
-| **Abstract** | I will survey some of the latest developments and views on the timing of a cryptographically relevant quantum computer.
-
-I will briefly comment on some SAT solving and related approaches to quantum factorization of integers, in particular how they do not appear to be promising approaches or relevant benchmarks for quantum cryptanalysis.
-
-Lastly, although for nearly 30 years we have been watching this journey toward the quantum cryptanalysis of factoring and discrete logarithm based cryptosystems, there is no fundamental reason deployed cryptographic algorithms might not instead be broken suddenly (e.g. over a weekend on a laptop…). Since we rely on cryptography much more deeply than we did 30 years ago, it’s important to recognize not only the importance of security-by-design, but also resilience-by-design. I will discuss how I see quantum key exchange factoring into the overall ecosystem and supporting the overall need for the resilience of our cryptographic systems.|
-
 
 ---
 
@@ -74,6 +64,19 @@ Lastly, although for nearly 30 years we have been watching this journey toward t
 | **Slides** | []() |
 | **Recording** | [![title](thumbs/xx)](link) [![Discussion](thumbs/yy)](link) |
 -->
+
+### Quantum-Safe Cryptography: Threat timeline and the Imperative of Resilience (by Michele Mosca (University of Waterloo))
+
+| **When** | Wednesday, 6 December 2023, 10:30 - 11:30 |
+| --- | --- |
+| **Abstract** | I will survey some of the latest developments and views on the timing of a cryptographically relevant quantum computer.
+
+I will briefly comment on some SAT solving and related approaches to quantum factorization of integers, in particular how they do not appear to be promising approaches or relevant benchmarks for quantum cryptanalysis.
+
+Lastly, although for nearly 30 years we have been watching this journey toward the quantum cryptanalysis of factoring and discrete logarithm based cryptosystems, there is no fundamental reason deployed cryptographic algorithms might not instead be broken suddenly (e.g. over a weekend on a laptop…). Since we rely on cryptography much more deeply than we did 30 years ago, it’s important to recognize not only the importance of security-by-design, but also resilience-by-design. I will discuss how I see quantum key exchange factoring into the overall ecosystem and supporting the overall need for the resilience of our cryptographic systems.|
+| **Recording** | [https://www.youtube.com/watch?v=iZmWTkG64Xo](https://www.youtube.com/watch?v=iZmWTkG64Xo) |
+
+
 ### From Onion Routing to Mixing Packets: Introduction to the Metadata-Hiding Concept of Mixnets (by [Lennart Oldenburg](https://lennartoldenburg.de/))
 
 | **When** | Wednesday, 15 March 2023, 12:30 - 13:30 CET |
@@ -85,8 +88,6 @@ Lastly, although for nearly 30 years we have been watching this journey toward t
 
 | **When** | Tuesday, 24 January 2023, 12:30 - 13:30 CET |
 | --- | --- |
-| **Location** | imec-CiTiP, [Sint-Michielsstraat 6](https://www.law.kuleuven.be/citip/en/contact), Leuven -- Room 02.07 (Babbelbox) |
-| **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | The modern actuarial techniques constitute a revival of the power of the state to categorize, identify and apprehend “would-be offenders.” The promise of “stopping crime before it happens” has spread the use of predictive analytics, which regroup massive amounts of data and emerge profiles of people. The risk assessment tools replace the individualized suspicion with an automated, impersonal suspicion and enlarge the scope of criminal procedures to the pre-crime area. Furthermore, it traps the “risky” individuals in a trial system, which keeps them in a continuous investigation process without knowing the grounds for the accusation. After presenting a comprehensive review of these predictive risk analysis tools used in the United States and Europe, this seminar seeks to analyse how profiling technologies differ from traditional criminal procedure measures and discuss the evidential value of the risk scores. Furthermore, it aims to discuss if data protection regulations can be integrated into criminal procedures to protect the rights of suspects/defendants concerning risk profiling technologies. |
 
 
