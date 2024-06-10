@@ -25,9 +25,9 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-<!--
-* **Wednesday, 6 December 2023:** [Quantum-Safe Cryptography: Threat timeline and the Imperative of Resilience (by Michele Mosca)](https://cif-seminars.github.io/#quantum-safe-cryptography-threat-timeline-and-the-imperative-of-resilience-by-michele-mosca-university-of-waterloo)
--->
+
+* **Friday, 28 June 2024:** [40 Years of European Digital Policies. Forgotten Lessons (by Detlef Eckert)](https://cif-seminars.github.io/#40-Years-of-European-Digital-Policies-Forgotten-Lessons-by-Detlef-Eckert)
+
 
 ---
 
@@ -48,6 +48,14 @@ anounced soon.
 | **Conferencing** | [https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a) |
 | **Abstract** | |
 -->
+
+### 40 Years of European Digital Policies. Forgotten Lessons by Detlef Eckert
+
+| **When** | Friday, 28 June 2024, 11:00 - 12:00 |
+| --- | --- |
+| **Location** | KU Leuven, dept Electrical Engineering (ESAT), Auditorium R |
+| **Conferencing** | NA |
+| **Abstract** | Forty years of European digital policymaking tell a compelling story. Over four decades, technological breakthroughs essentially set the agenda. Meanwhile, the process of European political integration provided policymakers with an increasingly significant role in determining outcomes. Reflecting on this interplay of technology and policy is critical for envisioning the future. Despite its technological potential, highly educated population, and notable research achievements, Europe struggles to assume a leadership role in digital markets. Additionally, as encapsulated in the Solow Paradox, the gains in productivity and, thus, economic growth expected from investments in ICT do not materialise automatically. Europe’s digital policies have become overly ambitious and complex. A reorientation is necessary: reduced regulation, structural reforms, and a focus on entrepreneurship are crucial for unlocking Europe’s digital potential and fostering a generation of tech entrepreneurs with global impact. |
 
 
 ---
