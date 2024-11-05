@@ -54,7 +54,7 @@ anounced soon.
 | **When** | Monday, 18 November 2024, 14:00 - 15:00 |
 | --- | --- |
 | **Location** | Babbelbox, 2nd floor MTC-building, Sint-Michielsstraat 6, 3000 Leuven, Belgium |
-| **Conferencing** | [[https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQyMTFmNDctNGQxMS00ZWZmLWI5OWQtMzYzY2JhOWY4NGNm%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%22a8143928-368c-4ccd-9c00-0c76ff7173da%22%7d)]([https://collocall.weizenbaum-institut.de/b/jan-2lf-teo-i6a](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQyMTFmNDctNGQxMS00ZWZmLWI5OWQtMzYzY2JhOWY4NGNm%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%22a8143928-368c-4ccd-9c00-0c76ff7173da%22%7d)) |
+| **Conferencing** | [https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQyMTFmNDctNGQxMS00ZWZmLWI5OWQtMzYzY2JhOWY4NGNm%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%22a8143928-368c-4ccd-9c00-0c76ff7173da%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQyMTFmNDctNGQxMS00ZWZmLWI5OWQtMzYzY2JhOWY4NGNm%40thread.v2/0?context=%7b%22Tid%22%3a%223973589b-9e40-4eb5-800e-b0b6383d1621%22%2c%22Oid%22%3a%22a8143928-368c-4ccd-9c00-0c76ff7173da%22%7d) |
 | **Abstract** | Dr. Felix Bieker (Data Protection Authority of Schleswig Holstein, and author of [The Right to Data Protection: Individual and Structural Dimensions of Data Protection in EU Law](https://link.springer.com/book/10.1007/978-94-6265-503-4#:~:text=Felix%20Bieker.%20Offers%20a%20comprehensive%20account%20of%20data%20protection,%20including) will give a talk on The Evolution of Risk in Eu Data Law. |
 
 
