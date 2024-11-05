@@ -26,7 +26,7 @@ Brussels, Belgium time zone, CET/CEST.
 ## Upcoming Seminars
 
 
-* **Monday, 18 November 2024:** [The Evolution of Risk in Eu Data Law (by Felix Bieker)](https://cif-seminars.github.io/The-Evolution-of-Risk-in-Eu-Data-Law-(by-Felix-Bieker)
+* **Monday, 18 November 2024:** [The Evolution of Risk in Eu Data Law (by Felix Bieker)](https://cif-seminars.github.io/The-Evolution-of-Risk-in-Eu-Data-Law-(by-Felix-Bieker))
 
 
 ---
