@@ -25,9 +25,9 @@ Brussels, Belgium time zone, CET/CEST.
 <br><br>
 ## Upcoming Seminars
 
-<!--
-* **Friday, 28 June 2024:** [40 Years of European Digital Policies. Forgotten Lessons (by Detlef Eckert)](https://cif-seminars.github.io/#40-Years-of-European-Digital-Policies-Forgotten-Lessons-by-Detlef-Eckert)
--->
+
+* **Monday, 18 November 2024:** [The Evolution of Risk in Eu Data Law (by Felix Bieker)](https://cif-seminars.github.io/The-Evolution-of-Risk-in-Eu-Data-Law-(by-Felix-Bieker)
+
 
 ---
 
