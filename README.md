@@ -50,10 +50,6 @@ anounced soon.
 -->
 
 
-
-| **Abstract** | Dr. Felix Bieker (Data Protection Authority of Schleswig Holstein, and author of [The Right to Data Protection: Individual and Structural Dimensions of Data Protection in EU Law](https://link.springer.com/book/10.1007/978-94-6265-503-4#:~:text=Felix%20Bieker.%20Offers%20a%20comprehensive%20account%20of%20data%20protection,%20including) will give a talk on The Evolution of Risk in Eu Data Law. |
-
-
 ---
 
 <br><br>
